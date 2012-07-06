@@ -1,0 +1,203 @@
+MAIN MENU
+POKÉMON CENTER INFO
+C-GEAR INFO
+ABOUT “MENU"
+ABOUT “BATTLE"
+POKÉMON INFO
+OTHER TOPICS
+CONTINUE
+NEW GAME
+MYSTERY GIFT
+BATTLE COMPETITION
+DIGITAL PLAYER ID
+GAME SYNC SETTINGS
+NINTENDO WFC SETTINGS
+MIC TEST
+POKÉMON CENTER
+MOVE POKÉMON IN THE PC
+MOVE POKÉMON
+BATTLE BOX
+HOW TO START A LINK TRADE
+HOW TO START A LINK BATTLE
+SINGLE BATTLE
+DOUBLE BATTLE
+TRIPLE BATTLE
+ROTATION BATTLE
+WONDER LAUNCHER
+UNION ROOM
+Wi-Fi CLUB
+GLOBAL TERMINAL
+FRIEND CODE
+C-GEAR
+TAG LOG
+WHAT IS A PASSERBY SURVEY?
+ACCEPTING A PASSERBY SURVEY REQUEST
+STARTING A PASSERBY SURVEY
+REPORTING PASSERBY SURVEY RESULTS
+INFRARED CONNECTION
+GAME SYNC
+ENTRALINK
+PASS POWER
+PASS ORB
+BAG
+TRAINER CARD
+POKÉDEX
+TIPS ON CATCHING POKÉMON
+TYPES AND TYPE MATCHUP
+“PHYSICAL," “SPECIAL," AND “STATUS"
+FAINTED
+POISON
+PARALYSIS
+SLEEP
+FROZEN
+BURNED
+CONFUSED
+INFATUATION
+EXP. POINTS
+EVOLUTION
+“NATURE" AND “CHARACTERISTIC"
+POKÉRUS
+POKÉMON EGG
+RUNNING
+DOWSING MCHN
+XTRANSCEIVER
+GYM BADGES
+READY BUTTON
+FRIDAY RALLY
+TRANSFER POKÉMON WITH POKÉ TRANSFER
+CATCH POKÉMON WITH POKÉ TRANSFER
+When you are playing, press the X Button\xfffeto open the menu and save often.\xfffe\xfffeOnce saved, you can select “CONTINUE"\xfffefrom the main menu to continue playing\xfffethe game from that location even if you've\xfffeturned off your Nintendo DS since.
+To delete your saved data and\xfffestart a new game, go to the\xfffetitle screen and press the\xfffefollowing buttons at the same time.\xfffe\xfffeUP + SELECT + B Button
+You can receive special gifts at events and\xfffeother locations in the following three ways.\xfffe\xfffe-GET VIA WIRELESS\xfffe-GET VIA NINTENDO WFC\xfffe-GET VIA INFRARED\xfffe\xfffePlease note that each event has its own way\xfffeof distributing gifts.
+When you receive a Wonder Card\xfffefor a special Pokémon or an item,\xfffea deliveryman with a blue cap\xfffewill appear in the Pokémon Center.\xfffe\xfffePlease talk to him to receive\xfffethe Pokémon or item.
+You can keep up to 12 Wonder Cards.\xfffe\xfffeTo receive another Wonder Card\xfffewhen you already have 12, go to\xfffe“CHECK THE CARD ALBUM"\xfffeand delete one to make room\xfffefor a new Wonder Card.
+You can participate in competitions\xfffeusing Nintendo Wi-Fi Connection\xfffeand at events.\xfffe\xfffeFor details on the Battle Competition,\xfffego to “BATTLE COMPETITION"\xfffeon the main menu and select\xfffe“Info."
+For more details on Battle Competition,\xfffeincluding Battle Competition rules and\xfffehow to register as a user,\xfffevisit the following official websites.\xfffe\xfffePokémon Global Link website\xfffeThe Official Pokémon website
+Pokémon in your Battle Box\xfffecan participate in Battle Competitions.\xfffe\xfffeOnce registered, you cannot change\xfffethe Pokémon in your Battle Box\xfffeduring the competition.\xfffe\xfffePlease carefully select the right Pokémon\xfffebefore you start the competition.
+バトルたいかいが　おわったあと\xfffeバトルボックスの　ポケモンをとりだすには\xfffeたいかいさんかを　かいじょ　するか\xfffeしゅうりょうする　ひつようが　あります。\xfffe\xfffeくわしくは　インターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
+Once you have completed\xfffethe registration for Battle Competition,\xfffeyou will be able to check your\xfffeDigital Player ID.\xfffe\xfffeFor more details, please visit\xfffethe Pokémon Global Link.
+Before adjusting Game Sync settings,\xfffeyou must complete your\xfffeNintendo Wi-Fi Connection settings.\xfffe\xfffeWhen these settings are done,\xfffeadjust the Game Sync settings\xfffeto have the Game Sync ID issued.\xfffeThis is a unique ID assigned to you.
+You must have a Game Sync ID\xfffeto register at the\xfffePokémon Global Link using\xfffea computer with Internet access.
+When you delete a saved game,\xfffeyour Game Sync ID will also be lost.\xfffe\xfffeWhen you change your Game Sync ID,\xfffeyou must also renew your registration\xfffeat the Pokémon Global Link.
+ニンテンドーＤＳ／ＤＳ　Ｌｉｔｅで\xfffeＷｉ－Ｆｉつうしんを　するための\xfffeせっていが　できます。\xfffe\xfffeＷｉ－Ｆｉせっていをすると\xfffeインターネットを　つうじて\xfffeせかいじゅうの　ひとたちと\xfffeポケモンのこうかんや　たいせんが\xfffeできるように　なります。
+You need to set up the Nintendo Wi-Fi\xfffeConnection settings to connect your game\xfffewith the Pokémon Global Link, which allows\xfffeBattle Competition, Game Sync settings,\xfffeand so on.
+You can check to see\xfffeif your DS system's\xfffemicrophone is functioning.\xfffe\xfffeThe microphone is functioning properly\xfffeif Jigglypuff on the top screen\xfffereacts when you talk\xfffeor blow into it.
+You can restore your tired Pokémon and buy\xfffeuseful items. You'll find the PC where you\xfffecan keep captured Pokémon.\xfffe\xfffeYou can hear\xfffeProfessor Juniper's evaluation\xfffeof your Pokédex.\xfffe\xfffeVisit 2F for Link Trade and Link Battle.
+You can use the PC to store and organize\xfffePokémon.\xfffe\xfffeWhen you have six Pokémon in your party,\xfffeany Pokémon you catch will be sent to the PC.
+パソコンに　あずけている　ポケモンは\xfffe「ボックスを　せいりする」ことで\xfffeすきな　ボックスに　いどう　させたり\xfffeばしょを　いれかえることが　できます。
+いどうさせたい　ポケモンを　タッチし\xfffe「いどうする」を　タッチすると\xfffeみぎがわに　ボックスが　ひょうじされます。\xfffe\xfffeグレーの　やじるしを　じょうげに\xfffeスライドして　いどう　させたい\xfffeボックスを　タッチすると\xfffeポケモンを　タッチした　ボックスに\xfffeいどうさせることが　できます。
+あおいろの　ボタンを　タッチすると\xfffeいれかえモードに　きりかわります。\xfffe\xfffeタッチして　えらんだ　ポケモンを\xfffeいれかえたい　ばしょまで\xfffeスライドさせて　はなしてください。
+きいろの　ボタンを　タッチすると\xfffeふくすういどうモードに　きりかわります。\xfffe\xfffeボックスを　タッチすると\xfffeてんせんが　ひょうじ　されます。\xfffeいどう　させたい　ポケモンを\xfffeかこむことで　てんせんないの　ポケモンを\xfffeまとめて　いどう　させることができます。
+You can register up to six Pokémon\xfffeyou use most often in battles.\xfffe\xfffeFor a Link Battle, you can choose to battle\xfffewith either your party Pokémon or with\xfffethe Pokémon in the Battle Box.\xfffe\xfffeIf your Battle Box is empty,\xfffeyou always battle with your party Pokémon.
+There are four ways to offer a Link Trade.\xfffe\xfffe-Through an IR Connection\xfffe-Through the Union Room\xfffe-Through the Wi-Fi Club\xfffe-Through the Global Terminal
+-Through an IR Connection\xfffe\xfffeIf your friends are nearby, IR Connection is\xfffea quick way to trade.\xfffe\xfffeSelect IR from your C-Gear and select Trade.
+-Through the Union Room\xfffe\xfffeWhen you are playing with lots of friends,\xfffeyou can use the Union Room for trades.\xfffe\xfffeThe Union Room is in Pokémon Center 2F.
+-Through the Wi-Fi Club\xfffe\xfffeWhen your friends are far away,\xfffeyou can trade through the Wi-Fi Club.\xfffe\xfffeYou must have exchanged your Friend Codes\xfffeahead of time to use the Wi-Fi Club.
+-Through the Global Terminal\xfffe\xfffeUsing the Global Terminal, you can trade\xfffePokémon with people all over the world.\xfffe\xfffeWhen the trade conditions are met,\xfffeyour Pokémon are traded automatically.
+There are four ways to offer a Link Battle.\xfffe\xfffe-Through an IR Connection\xfffe-Through the Union Room\xfffe-Through the Wi-Fi Club\xfffe-Through the Global Terminal
+-Through an IR Connection\xfffeIf your friends are nearby, an IR Connection\xfffeis a quick way to battle.\xfffe\xfffeSelect IR from your C-Gear and select Battle\xfffefor a Level 50 Flat Battle with the\xfffeWonder Launcher.
+-Through the Union Room\xfffe\xfffeWhen you are playing with lots of friends,\xfffeyou can go to the Union Room for battles.\xfffe\xfffeThe Union Room is located in Pokémon\xfffeCenter 2F.
+-Through the Wi-Fi Club\xfffe\xfffeWhen your friends are far away, you can\xfffebattle using the Wi-Fi Club.\xfffe\xfffeYou must have exchanged your Friend Codes\xfffeahead of time to use the Wi-Fi Club.
+-Through the Global Terminal\xfffeUsing the Global Terminal, you can battle with\xfffepeople all over the world using various rules\xfffeto hone your skills.\xfffe\xfffeThe Global Terminal is located in Pokémon\xfffeCenter 2F.
+A battle where each Trainer chooses one\xfffePokémon to fight is called Single Battle.\xfffe\xfffeIncluding Single Battle, there are four kinds\xfffeof battles.\xfffe\xfffeYou can always press the A Button\xfffewhile holding down the L Button to\xffferead move information when choosing a move.
+Having a battle with two Pokémon from each\xfffeTrainer is called Double Battle.
+A battle with three Pokémon from each\xfffeTrainer is called Triple Battle.\xfffe\xfffeIn a Triple Battle challenge, Pokémon cannot\xfffeattack others if they are too far away.\xfffe\xfffeThe one in the middle position can attack\xfffeany of the other Trainer's Pokémon.
+Some moves can reach Pokémon\xfffeeven when they are far away.\xfffe\xfffeYou can switch Pokémon locations\xfffeduring battle.\xfffe\xfffeYou can select “SHIFT" while selecting\xfffea move and the right or left Pokémon will\xfffeswitch places with the middle Pokémon.
+Rotation Battle is a new and evolved\xfffestyle of Single Battle.\xfffe\xfffeYou'll need three of your Pokémon\xfffefor Rotation Battle.\xfffe\xfffeOnly one Pokémon can act every turn,\xfffebut you choose which one takes action.
+If you want to move a Pokémon to the front,\xfffeselect the Rotation icon while selecting\xfffea move.\xfffe\xfffeThe Pokémon will rotate to the front and\xfffewill use its selected move in the same turn.
+When you select Wonder Launcher “ON,"\xfffeyou and the other Trainer can use items\xfffeduring a Link Battle.\xfffe\xfffeEach item has points needed to launch.\xfffeYou'll gain points in battle.\xfffe\xfffeYou choose whether to use items immediately\xfffeor collect points for powerful items.
+In the Union Room, you can trade and\xfffebattle with people nearby.\xfffe\xfffeGo to Pokémon Center 2F and enter\xfffethe room to your left. Press the A Button\xfffeto talk to anyone there.\xfffe\xfffeFor more information, talk to the lady\xfffeat the far left in the Union Room.
+At the Wi-Fi Club in Pokémon Center 2F,\xfffeyou can make Link Trades, fight Link Battles,\xfffeand use Voice Chat or the Xtransceiver with\xfffepeople you've registered on your Pal Pad.\xfffe\xfffeRefer to the “FRIEND CODE" section\xfffeof this guide to learn how to register\xfffeyour friends.
+Once in the room, press the A Button\xfffenear the friend you want to link to.\xfffe\xfffeYour friends who have decided what to do\xfffewill be jumping up and down while waiting.\xfffe\xfffeWhen you've decided what you want to do,\xfffepress the A Button near the monitor\xfffeat the far end of the room.
+You can talk to your friends with Voice Chat.\xfffeIt works like a telephone.\xfffe\xfffePress the X Button in the room to indicate\xfffewhether you want to use Voice Chat or not.
+At the Global Terminal, you can set up\xfffeLink Trades and you can Link Battle with\xfffepeople all around the world.\xfffe\xfffeGo to the right counter in Pokémon Center 2F.
+This personal number is issued when you\xfffeestablish a Nintendo Wi-Fi Connection.\xfffe\xfffeIf you exchange Friend Codes, you can battle\xfffeand trade with friends far away.\xfffe\xfffePlease check the Pal Pad in the Key Items\xfffein your Bag for your own Friend Code.
+You can register a Friend Code in two\xfffedifferent ways.\xfffe\xfffe- Use the Pal Pad in the Key Items in your\xfffe   Bag to enter your friend's Friend Code\xfffe- Use an Infrared Connection from your\xfffe   C-Gear
+C-Gear is a multi-functional device that lets\xfffeyou use the Entralink, the Xtransceiver, and\xfffeGame Sync.\xfffe\xfffeYour C-Gear can also help you Link Trade\xfffeand Link Battle with people nearby.\xfffe\xfffeTap the power icon in the bottom-right corner\xfffeof your C-Gear to turn it on or off.
+When your C-Gear is turned on, your\xfffeDS system's wireless communications\xfffeare always on.\xfffe\xfffeTurn your C-Gear off in places where\xfffewireless communications are prohibited,\xfffesuch as airplanes and hospitals.
+Ｃギアの　みぎしたに　ある\xfffeスパナマークを　タッチすると\xfffeＣギアを　カスタマイズできます。\xfffeわくを　タッチして　いろをかえたり\xfffeひかる　ボタンを　スライドさせて\xfffeすきな　ばしょに　いどうできます。\xfffe\xfffe？マークを　タッチすると　Ｃギアの\xfffeヘルプを　みることができます。
+Ｃギアの　まんなかに　ひょうじされる\xfffeしかくいマークが　すれちがいログ　です。\xfffeタッチすると　ちかくで　Ｃギアを\xfffeつかっている　ひとがいるか　わかります。\xfffeちかくの　ひとの　ゲームでの　ようすや\xfffeプロフィールが　わかったり\xfffeメッセージの　やりとりなどが　できます。\xfffeまた　フェスミッションが　はっせいすると\xfffeてんめつして　しらせてくれます。
+Ｃギアをつかっている　べつのひとが\xfffeひょうじされているときに\xfffeそのひとを　タッチすると\xfffeプレイじかんや\xfffeどこを　ぼうけんしているのか\xfffeすれちがいちょうさたいの　ランクなどの\xfffeじょうほうを　みることが　できます。
+すれちがいログ　がめんの　したにある\xfffeさんかくマークを　タッチすると\xfffeハイルツリーから　うけとった\xfffeデルパワーを　つかうことが　できます。\xfffe\xfffeデルパワーを　うけとるには\xfffeハイリンクにある　ハイルツリーを\xfffeかくにん　してください。
+Tap the speech-bubble icon to send messages\xfffeto another player with his or her C-Gear\xfffeturned on.\xfffe\xfffeNever send offensive messages or messages\xfffethat contain personal information such as\xfffenames and telephone numbers.
+Tap the smile icon and you can send\xfffea thank-you message.\xfffe\xfffeTap the icon and then select whom to thank.
+メダルマークを　タッチすると\xfffeつうしんあいてが　てにいれた\xfffeメダルの　かずや　とうろく　している\xfffeイチオシメダルを　みることが　できます。
+A Passerby Survey can tell you\xfffehow many people around you\xfffelike certain hobbies, for example.
+You can accept Passerby Survey requests\xfffeat the Passerby Analytics HQ in Castelia City.
+When the leader asks you to take a survey,\xfffetap the pie-chart icon in the bottom-left\xfffecorner of your C-Gear to decide which survey\xfffeto run.\xfffe\xfffeThe survey you are running will be marked\xfffein your list.
+Once you've decided which survey to run,\xfffejust turn your C-Gear on.\xfffe\xfffeThe survey will take place automatically\xfffeas people pass by you.\xfffe\xfffeThe survey will continue even when your\xfffeDS system is closed or when you are playing\xfffethe game.
+Before you report to the leader in Castelia\xfffeCity, check the results using “CHECK SURVEY\xfffeRESULTS" in your C-Gear.\xfffe\xfffeOnce you know that the survey is complete,\xfffego to Passerby Analytics HQ in Castelia City\xfffeto report to your leader.
+Ｃギアの　「ＩＲ（アイアール）」と\xfffeかかれた　まるい　わくを　タッチすると\xfffeちかくのひとに　つうしんこうかんや\xfffeたいせんを　もうしこむことが　できます。\xfffeともだちコードを　こうかんしたり\xfffeつうしんあいてとの　あいしょうを\xfffeチェックすることも　できます。
+Select the same item and let your and your\xfffefriend's DS systems face each other to start\xfffethe connection.\xfffe\xfffeOnce they are connected, your DS systems\xfffeno longer need to face each other.
+Ｃギアの　「Ｗｉ－Ｆｉ（ワイファイ）」と\xfffeかかれた　まるい　わくを　タッチすると\xfffeゲームシンクが　できます。\xfffe\xfffeゲームシンクとは\xfffeボックスにいる　ポケモンを　ねむらせて\xfffeトレーナーの　レポートを\xfffeおくる　しくみの　ことです。
+Ｃギアの　「Ｗｉ－Ｆｉ」と　かかれた\xfffeまるい　わくは　むせんつうしんの\xfffeじょうきょうによって　いろが　かわります。\xfffe\xfffeつかっている　ＤＳとの\xfffeＷｉ－Ｆｉせっていが　すませてある\xfffeむせんアクセスポイントが\xfffeちかくに　ある　ばあいは\xfffeみどりいろに　ひかります。
+ニンテンドーゾーンなど　みんなが\xfffeＷｉ－Ｆｉつうしんを　つかえる\xfffeむせんアクセスポイントが\xfffeちかくに　ある　ばあいは\xfffe「Ｗｉ－Ｆｉ」の　まるい　わくは\xfffeあおいろに　ひかります。
+Ｗｉ－Ｆｉせっていが　すんでいない\xfffeむせんアクセスポイントが\xfffeちかくに　ある　ばあいは\xfffe「Ｗｉ－Ｆｉ」の　まるい　わくは\xfffeあかいろに　ひかります。
+The saved data sent through Game Sync\xfffegoes to the Pokémon Dream World.\xfffe\xfffeThe Pokémon Dream World is located\xfffeon the official Pokémon Global Link website.
+To play in the Pokémon Dream World,\xfffeyou must set up the following items:\xfffe\xfffe-Nintendo Wi-Fi Connection Settings\xfffe-Game Sync Settings\xfffe-User registration with your own computer\xfffe  at the official website for\xfffe  the Pokémon Global Link.
+Ｃギアの\xfffe「ＷＩＲＥＬＥＳＳ（ワイヤレス）」と\xfffeかかれた　まるい　わくを　タッチすると\xfffeイッシュちほうの　まんなかに　ある\xfffeハイリンクと　よばれる　ばしょに\xfffeいくことが　できます。\xfffe\xfffeハイリンクの　まんなかには\xfffeハイルツリーと　よばれる　きがあります。
+ハイルツリーに　むかって\xfffeＡボタンを　おすと　フェスミッションを\xfffeうけることが　できます。\xfffe\xfffeミッションには　さまざまな\xfffeもくひょうが　あります。\xfffeせいげんじかんの　なかで\xfffeどうぐを　さがしたり\xfffeポケモンしょうぶを　します。
+ミッションは　スコアを\xfffeためることで　クリアできます。\xfffeミッションせつめいに　かかれた\xfffeクリアもくひょうを　たっせいしましょう。\xfffe\xfffeスコアが　おおいほど\xfffeミッションを　クリアしたときの\xfffeほうしゅうが　おおくなります。
+フェスミッションは\xfffeちかくに　いる　ひとと　いっしょに\xfffeあそぶことが　できます。\xfffe\xfffeだれかが　フェスミッションを　はじめると\xfffeすれちがいログが　ひかるので\xfffeタッチして　すきな　フェスミッションに\xfffeさんかすることが　できます。
+デルパワーは　ハイリンクに　ある\xfffeハイルツリーから　うけとれる\xfffeふしぎな　ちからのこと　です。\xfffe\xfffeデルパワーは　つかうことで\xfffeけいけんちが　おおく　もらえたり\xfffeポケモンが　つかまえやすくなったりと\xfffeさまざまな　こうかが　あります。\xfffeどうじに　３つまで　うけとれます。
+デルパワーを　つかうには\xfffeハイリンクから　でたあとに\xfffeＣギアの　ちゅうおうに　ある\xfffe「すれちがいログ」を　タッチして\xfffeあらわれた　つぎの　がめんにある\xfffeさんかくマークを　タッチして　ください。\xfffeまた　デルパワーを　つかうには\xfffeきめられた　かずの\xfffeデルダマが　ひつよう　です。
+ハイルツリーが　せいちょうし\xfffeレベルが　あがることで\xfffeあたらしい　デルパワーを\xfffeうけとれるように　なります。\xfffe\xfffeレベルを　あげるには\xfffeフェスミッションを　うけて\xfffeスコアを　たくさん　ためます。
+デルダマは　デルパワーを　つかうときに\xfffeきまったかずだけ　ひつように　なります。\xfffe\xfffeデルダマは　ハイルツリーから　うける\xfffeフェスミッションを　クリアすることで\xfffeもらうことが　できます。
+■ Bag function\xfffeYour Bag always sorts items by their types.\xfffe\xfffeItems in the Key Items Case\xfffehave checkboxes next to them.\xfffe\xfffeCheck the box to set up the item\xfffeto use it by pressing the Y Button,\xfffewithout having to open your Bag.
+したがめんの　みどりいろの　マークか\xfffeスタートボタンを　おすと　ひょうじされる\xfffeならびかたを　えらぶことで\xfffeどうぐの　ならびを　へんこう　できます。\xfffeセレクトボタンを　おすと\xfffeポケットの　どうぐの　じゅんばんを\xfffeじゆうに　いれかえることが　できます。\xfffeＬ／Ｒボタンを　おすと\xfffeページを　きりかえることが　できます。
+バッグには　「フリースペース」が\xfffeようい　されています。\xfffe\xfffeまず　ポケットの　どうぐを　えらびます。\xfffeつぎに　「フリースペースへ」を\xfffeえらぶことで　すきな　どうぐを\xfffeフリースペースに\xfffeいどう　させることが　できます。
+■ Item types\xfffe-ITEMS\xfffePokémon can hold some items to raise their\xfffestats or move power. Those items are marked.\xfffe\xfffeTry letting your Pokémon hold these items\xfffeto see what effects they have.
+There are some items you can use\xfffeonly in a battle to raise Pokémon stats or\xfffemoves powers.\xfffe\xfffeSome items may last for a limited time.\xfffeSome last until the Pokémon switches out.
+The Poké Balls you need to catch Pokémon\xfffeare kept in the ITEMS Case, as are items\xffferelated to Pokémon evolution.\xfffe\xfffeYou can combine phrases and words\xfffeto form Mail. Your Pokémon can hold Mail,\xfffeand if you trade the Pokémon with\xfffeyour friends, they can deliver your Mail.
+-MEDICINE\xfffeThis area holds items that restore\xfffeyour Pokémon's HP, PP, and heal\xfffestatus conditions.\xfffe\xfffe-TMs & HMs\xfffeThis area holds your TMs & HMs.\xfffeThey can be reused as often as you like.
+-BERRIES\xfffeThis holds Berries that create special\xfffeeffects when your Pokémon hold them\xfffeor use them.\xfffe\xfffe-KEY ITEMS\xfffeThis is a place to keep Key Items. You can\xfffeassign some of them to the Ready button\xfffefor instant use.
+Ｘボタンで　ひらいた　メニューから\xfffeじぶんの　なまえを　えらぶと\xfffeトレーナーカードを\xfffeかくにん　することが　できます。\xfffe\xfffeしたがめんの　ひだりしたに　ある\xfffeマークを　タッチすると\xfffeジムバッジを　どれだけ　もっているか\xfffeかくにん　することが　できます。
+トレーナーカードは　プレイじかんや\xfffeおこづかいを　かくにんできる　カードです。\xfffeかたがきや　せいかくは　がめんを\xfffeタッチすると　きりかわりますので\xfffeすきなものを　えらんでください。\xfffeしたの　あいさつらんを　タッチすると\xfffeメッセージが　へんしゅう　できます。\xfffeあいている　ところに　すきな　たんごを\xfffeえらんで　かんせいさせて　ください。
+You can sign the back of your card\xfffeusing the stylus.\xfffe\xfffeTap the pen and eraser icons to switch\xfffebetween writing and erasing.\xfffe\xfffeTap the plus icon to magnify the screen.\xfffeTap the triangle icon to split the signature\xfffearea in two for animation.
+ぼうけんを　すすめていくと\xfffeトレーナーカードに　メダルマークが\xfffeついか　されます。\xfffe\xfffeメダルマークを　タッチすることで\xfffeせってい　されている　イチオシメダルや\xfffeメダルを　どれだけ　もっているのか\xfffeかくにん　することが　できます。\xfffe
+This high-tech Pokédex records Pokémon\xfffeautomatically.\xfffe\xfffeYou can check a Pokémon's info, area, cry,\xfffeheight, weight, type, footprint, and more.
+ポケモンずかんは　リストがめんで\xfffe「ＳＴＡＲＴ」を　おすと\xfffeけんさくモードに　なります。\xfffe\xfffeけんさくモードでは\xfffeばんごう　ごじゅうおん　いろ\xfffeかたち　などから　あてはまる\xfffeポケモンを　さがすことが　できます。
+ぼうけんを　すすめていくと\xfffeポケモンずかんに　「せいそくちリスト」が\xfffeついか　されます。\xfffe\xfffeせいそくちリストは　ばしょごとに\xfffeであった　ポケモンを　ひょうじ　します。\xfffeその　ばしょに　くらす　ポケモンを\xfffeすべて　みたり　つかまえると\xfffeスタンプマークが　ついか　されます。
+Your chances of capturing a Pokémon\xfffeare better if you lower your target's HP\xfffebefore you throw Poké Balls.\xfffe\xfffeIf you use Pokémon moves to inflict a Sleep\xfffeor Paralysis condition on the target,\xfffecapturing it will be even easier.
+Pokémon and their moves fall into\xfffe17 different types. Each type has\xfffeits own advantageous and disadvantageous\xfffematchups against the others.\xfffe\xfffeFor example, Fire-type moves are more\xfffeeffective against Bug- and Grass-type\xfffePokémon but are less effective against\xfffeWater- or Rock-type Pokémon.
+When the move type matches the type of the\xfffePokémon using it, the power of the move\xfffeis greater than usual.\xfffe\xfffeWhen a Pokémon has two types, either one\xfffecan affect the power.\xfffe\xfffeSome move types have no effect at all\xfffeon Pokémon of certain types.
+Moves are classified as Physical, Special, or\xfffeStatus moves. You can tell which is which\xfffeby their icons.\xfffe\xfffe-Physical Moves\xfffePokémon's Attack and Defense stats\xfffedetermine the overall damage of this type\xfffeof move.
+-Special Moves\xfffePokémon's Sp. Attack and Sp. Defense stats\xfffedetermine the overall damage of these types\xfffeof moves.\xfffe\xfffe-Status Moves\xfffeThis type of move is not a direct attack, but\xfffeit can raise the Pokémon's stats and inflict\xfffestatus conditions that help them in battles.
+The Pokémon's HP has reached zero.\xfffeYou must restore its HP before\xfffeit can battle again.\xfffeSome of the moves usable outside battle can\xfffestill be used when its HP reaches zero.\xfffe■ To heal your Pokémon:\xfffe-Let Pokémon rest at a Pokémon Center\xfffe-Use Revive\xfffe-Use Max Revive
+The Pokémon has been poisoned.\xfffeIts HP will gradually decrease in battle.\xfffeThis will stop when it returns to its Poké Ball\xfffeor when the battle ends, but the poisoned\xfffePokémon will not cure itself.\xfffe\xfffe■ To heal a poisoned Pokémon:\xfffe-Let Pokémon rest at a Pokémon Center\xfffe-Use Antidote, Pecha Berry, etc.
+The Pokémon has paralysis.\xfffeIts Speed stat drops, and\xfffeit sometimes fails to use moves.\xfffeA Pokémon with paralysis will not\xfffecure itself.\xfffe\xfffe■ To heal a Pokémon with paralysis:\xfffe-Let Pokémon rest at a Pokémon Center\xfffe-Use Parlyz Heal, Cheri Berry, etc.
+The Pokémon is asleep. Only certain moves\xfffecan be used in this state.\xfffe\xfffeThe Pokémon can wake up during a battle, but\xfffeit stays asleep if the battle ends before it\xfffewakes up.\xfffe■ To heal a sleeping Pokémon:\xfffe-Let the Pokémon rest at a Pokémon Center\xfffe-Use Awakening, Chesto Berry, etc.
+The Pokémon is frozen and cannot use\xfffemost moves. It can be defrosted during\xfffea battle, but it stays frozen if the battle\xfffeends before it is defrosted.\xfffe\xfffe■ To heal a frozen Pokémon:\xfffe-Let the Pokémon rest at a Pokémon Center\xfffe-Use Ice Heal, Aspear Berry, etc.
+The Pokémon is burned.\xfffeIts Attack stat drops, and its HP gradually\xfffedecreases. This HP loss stops when it returns\xfffeto its Poké Ball or when the battle ends,\xfffebut the burned Pokémon will not\xfffecure itself.\xfffe■ To heal a burned Pokémon:\xfffe-Let the Pokémon rest at a Pokémon Center\xfffe-Use Burn Heal, Rawst Berry, etc.
+The Pokémon is confused.\xfffeIt sometimes attacks itself instead of\xfffeusing the selected move.\xfffeIt is cured after the battle, and the Pokémon\xfffecan sometimes cure itself during a battle.\xfffe\xfffe■ To heal a confused Pokémon:\xfffe-Switch out the affected Pokémon in a battle\xfffe-Use Persim Berry, etc.
+The Pokémon is infatuated\xfffeby a Pokémon of the opposite gender.\xfffeIt has a crush on the other Pokémon\xfffeand sometimes fails to use its moves.\xfffe\xfffeIt will be cured when switched out\xfffeor when the other Pokémon is defeated.
+Pokémon earn Exp. Points\xfffeafter a battle. They grow as they\xfffereceive Exp. Points and level up.\xfffe\xfffeThe stronger the Pokémon it defeats,\xfffethe more Exp. Points it earns.\xfffe\xfffeThe weaker the Pokémon it defeats,\xfffethe fewer Exp. Points it earns.
+Exp. Points are shared among\xfffethe Pokémon in a battle. To help\xfffea weak Pokémon receive Exp. Points,\xfffetake it out and switch in a strong Pokémon.\xfffe\xfffeWhen you trade and receive a Pokémon\xfffefrom another Trainer, it'll gain more\xfffeExp. Points than Pokémon that\xfffeyou've caught yourself.
+Pokémon sometimes evolve.\xfffeWhen they do, their appearance changes\xfffeand their stats increase.\xfffe\xfffeThere are many ways to evolve.\xfffeYou can evolve some Pokémon by leveling up,\xfffesome by using items that evolve Pokémon,\xfffeand some by trading a Pokémon with a friend.\xfffeEach Pokémon has its own way to evolve.
+If you press the B Button while a Pokémon\xfffeis evolving, it will be surprised\xfffeand will stop evolving.\xfffe\xfffeYou can also obtain an item that\xfffeprevents Pokémon from evolving.
+Pokémon can grow differently,\xfffedepending on each one's Nature\xfffeand Characteristic.\xfffe\xfffeSometimes Pokémon stats such as\xfffeAttack and Defense may be colored\xfffered or blue. Red means the stat is\xfffemore likely to increase, and blue means\xfffethe stat is less likely to increase.
+ポケルスとは　ポケモンにくっつく　とても\xfffeめずらしい　せいめいたいの　ことです。\xfffeいちど　ポケルスが　くっついた\xfffeポケモンは　よくそだつ　らしいです。\xfffe\xfffeほかの　ポケモンにも\xfffeうつることが　あるようです。
+ぼうけんの　とちゅうで　であう\xfffeそだてやさんに　ポケモンを\xfffe２ひき　あずけていると　タマゴが\xfffeみつかることが　あります。\xfffe\xfffeタマゴは　げんきな　ポケモンと\xfffeいっしょに　つれあるくことで\xfffeなかから　ポケモンが　あらわれます。
+Once you've received the Running Shoes,\xfffepress the B Button to run.
+The Dowsing MCHN can indicate where items\xfffeare hidden on the Touch Screen.\xfffe\xfffeFollow the directions to find them. When\xfffeyou stand on a hidden item, it will blink.\xfffe\xfffeYou cannot pick up items if you are standing\xfffedirectly on them. Step away, face toward\xfffethe hidden item, and press the A Button.
+ＤＳワイヤレスつうしんや\xfffeＷｉ－Ｆｉつうしんを　つかって\xfffeともだちと　おはなしできる　どうぐです。\xfffe３ＤＳやＤＳｉ、ＤＳｉＬＬなら\xfffeカメラきのうを　つかって　ともだちの\xfffeかおを　みながら　おはなしが　できます。\xfffeライブキャスターで　おはなしするには\xfffeあらかじめ　ともだちコードを　とうろく\xfffeしあっておく　ひつようが　あります。
+■ Using DS Wireless Communications\xfffeTouch the “WIRELESS" button on your C-Gear\xfffeto select the Xtransceiver.\xfffeThe names and ID numbers of Trainers\xfffeyou've exchanged Friend Codes with\xfffewill appear on the Touch Screen.\xfffeSelect the people you want to talk to\xfffeand give them a call. You can call\xfffeup to three people at once.
+The “WIRELESS" button on your C-Gear will\xfffeflash, and the C-Gear will ring.\xfffe\xfffeThe Xtransceiver will show your friend's name.\xfffeTap it to pick up the phone.\xfffe\xfffeYou will not be able to answer if you tap\xfffethe Xtransceiver.
+■ Using Wi-Fi Club\xfffeYou can talk to one Trainer in the Wi-Fi Club.
+■ How to Use the Xtransceiver\xfffeUse the Touch Screen. Touch the button\xfffein the middle while you are talking into it.\xfffe\xfffeUse the gauge to your left to change\xfffethe pitch of your voice.
+３ＤＳやＤＳｉ、ＤＳｉＬＬなら\xfffeおたがいの　かおが　ひょうじされます。\xfffeみぎうえの　ボタンを　おすと　かおに\xfffeらくがきを　しあって　あそべます。\xfffeみぎしたの　ボタンで　がめんを\xfffeこていすることも　できます。\xfffeカメラが　ない　ほんたいの　ばあいは\xfffe「ＳＯＵＮＤ　ＯＮＬＹ」と\xfffeひょうじされます。
+みぎしたの　ふうせんマークの\xfffeボタンを　おすと　ライブキャスターに\xfffeさんかしている　ひとと　ミニゲームで\xfffeあそぶことが　できます。\xfffe\xfffeおしたボタンにより　それぞれ　ちがう\xfffeゲームを　あそぶことが　できます。
+ミニゲームを　はじめられるのは\xfffeさいしょに　ライブキャスターを　えらんだ\xfffeプレイヤー　だけです。\xfffe\xfffeまた　『ポケットモンスターブラック』\xfffe『ポケットモンスターホワイト』の\xfffeプレイヤーとは　ミニゲームを\xfffeあそぶことは　できません。
+イッシュちほうには　８つの　ジムが　あり\xfffeそれぞれに　ジムリーダーが　います。\xfffeジムバッジは　ジムリーダーに　かった\xfffeあかしとして　もらえる　バッジです。\xfffe\xfffeトレーナーカードがめんの\xfffeひだりしたにある　マークを　タッチすると\xfffeジムバッジを　どれだけ　もっているか\xfffeかくにん　することが　できます。
+As you collect Badges, the Pokémon you've\xfffepicked up by trading will start to obey you\xfffewithout question, even if their level is high.
+The Ready button is an easy shortcut\xfffeto frequently used functions and items.\xfffe\xfffeOnce you register something with the\xfffeReady button, just press the Y Button\xfffeto use that item or function instantly.
+Ｘボタンを　おして　メニューを　ひらくと\xfffeしたのがめんに　しかくい　マークが\xfffeひょうじされている　ことが　あります。\xfffeこのマークを　タッチするか\xfffeＹボタンを　おすと\xfffeあかい　チェックマークが　つきます。\xfffe\xfffeチェックを　つけた　きのうや　どうぐが\xfffeべんりボタンに　とうろくされます。
+たいせつなもの　ポケットに　はいっている\xfffeどうぐの　よこにも\xfffeしかくい　マークが　あります。\xfffe\xfffeカーソルを　あわせて　Ｙボタンを　おすか\xfffeタッチして　チェックしておくと　\xfffeべんりボタンに　とうろくして　おけます。
+べんりボタンには　３４こ　まで\xfffeどうぐや　きのうを　とうろく　できます。\xfffeとうろくを　かいじょ　したい　ばあいは\xfffeしかくい　マークを　タッチするか\xfffeＹボタンを　おして\xfffeチェックを　はずして　ください。\xfffe２つ　いじょう　とうろく　していると\xfffeセレクトボタンで　べんりボタンの\xfffeこうもくを　ならびかえることが　できます。
+「メダルラリー」は　プレイヤーが　した\xfffeいろんなことを　ひょうかして\xfffeメダルを　プレゼントする　システムです。\xfffe\xfffeてにいれた　メダルは　バッグの\xfffe「たいせつなもの」にある\xfffe「メダルボックス」を　えらぶことで\xfffeかくにん　することが　できます。
+メダルは　じょうけんを　みたすと\xfffeポケモンセンターに　あらわれる\xfffe「メダルおやじ」に　はなしかけることで\xfffeてにいれることが　できます。
+Insert one of the following games in another\xfffeDS system and turn the power ON.\xfffe- Pokémon Diamond Version\xfffe- Pokémon Pearl Version\xfffe- Pokémon Platinum Version\xfffe- Pokémon HeartGold Version\xfffe- Pokémon SoulSilver Version\xfffeThen tap DS Download Play in the DS Menu\xfffeto select Poké Transfer.
+ダウンロードが　おわったら\xfffe『ポケットモンスターブラック２』　または\xfffe『ポケットモンスターホワイト２』に\xfffeつれていく　ポケモンを　６ひき　きめて\xfffeタッチペンで　みぎがわの　わくに\xfffeスライドしてください。\xfffe\xfffeポケシフターで　つれてきたポケモンを\xfffeもとのソフトに　もどすことは　できません。
+Tap the Touch Screen to pull back\xfffethe Poké Ball, aim it at the Pokémon,\xfffeand release the Poké Ball.\xfffe\xfffeSome Pokémon may be hiding in the grass\xfffeor behind trees.
+When hit by a Poké Ball, a Pokémon will\xfffecome out from where it's been hiding.\xfffeThrow a second Poké Ball to catch it.\xfffe\xfffeTry to catch all six Pokémon\xfffewithin the time limit.
+You may see pink mist from time to time.\xfffeIf you hit it with your Poké Ball,\xfffethe Pokémon will fall asleep.\xfffe\xfffePokémon cannot move while sleeping,\xfffeso this makes it easier to catch them.

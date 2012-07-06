@@ -1,0 +1,15 @@
+Back
+1F
+2F
+3F
+7F
+11F
+14F
+19F
+22F
+23F
+25F
+28F
+47F
+55F
+Which floor would you like to go to?

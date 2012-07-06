@@ -1,0 +1,13 @@
+Please stand by...
+\xf000Ă\x0001\x0000
+\xf000Ā\x0001\x0001 received\xfffe\xf000Ā\x0001\x0002's Egg!
+Landed on a Bonus Area!\xfffeReceived a free \xf000ĉ\x0001\x0000!
+Oh, no. The Bag is full...\xfffeThe Berry had to be refused.
+Communicating. Please stand by...
+A member dropped out.\xfffeThe Spin Trade will be canceled.
+The leader had to drop out.\xfffeThe Spin Trade will be canceled.
+Communication error...\xfffeThe Spin Trade will be canceled.
+Time has run out.\xfffeThe Spin Trade will be canceled.
+Communicating.\xfffePlease stand by...
+Saving...\xfffeDon't turn off the power.
+There is an Egg that can't be traded.\xfffeSpin Trade will be canceled.

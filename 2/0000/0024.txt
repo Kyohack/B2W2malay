@@ -1,0 +1,33 @@
+About “Infrared"
+About “Wi-Fi"
+About “Wi-Fi"
+About “Wireless"
+About “Wireless"
+About “Wireless"
+About “Wireless"
+About “Wireless"
+About “Tag Log"
+About “Tag Log"
+About “Survey Radar"
+About “Survey Radar"
+About “Customization"
+About “ON/OFF"
+About “ON/OFF"
+Using infrared, you can battle and trade\xfffewith a friend in front of you.\xfffeYou can also use the Feeling Check which\xfffetells you how compatible you and your\xfffefriend are, and exchange Friend Codes.
+By pressing the Game Sync button,\xfffeyou can select a Pokémon to make sleep\xfffeand then send your saved data over\xfffeNintendo Wi-Fi Connection.
+You cannot connect to Nintendo Wi-Fi\xfffeConnection without the proper\xfffesystem settings, even when you are\xfffeable to receive a signal for \xfffeNintendo Wi-Fi Connection.
+DS Wireless Communications\xfffeallow you to use the features below\xfffewith your nearby friends.\xfffe-Xtransceiver\xfffe-Entralink
+The Xtransceiver allows you to connect\xfffewith friends you've played with in the\xfffeWi-Fi Club or those you've exchanged\xfffeFriend Codes with using the C-Gear.
+Press the button, and you will be\xfffesent to the Entralink instantly.
+You can tell how many people\xfffeare in the Union Room around you\xfffeand if wireless distributions\xfffeare available nearby.
+You can also tell who has\xfffethe C-Gear turned on around you.\xfffeWhen people are nearby,\xfffeit is easier to receive signals for\xfffethe Tag Log and Survey Radar.
+It displays what people\xfffearound you are doing in real time.\xfffeBy selecting it, you can find out\xfffemore about them and send\xfffethem messages.
+Also,　when in FES MISSION,\xfffethe letters of\xfffeＦＥＳ　ＭＩＳＳＩＯＮ！　will\xfffeflow from left-to-right.\xfffeYou can participate in\xfffeFES MISSION from Street-Pass.
+You can do surveys on people\xfffearound you.\xfffe\xfffeChoose what you want to find out,\xfffeand you can see the daily results,\xfffeas well as the cumulative results.
+The light will flicker once\xfffeStreet-Pass checking is\xfffecompleted.\xfffeReport to the captain of\xfffeCastelia's research group.
+Touch the Customization icon, and it will\xfffestart blinking. Touch other buttons as it\xfffeblinks, and they will appear differently.\xfffe\xfffeYou can even make patterns with buttons\xfffeof different colors.
+Touch this button to turn\xfffewireless communications on or off.\xfffe\xfffeOnce you turn it off, the touch panel\xfffeturns dark, and wireless communications\xfffewill be turned off.
+If the DS power is low\xfffethe C-Gear will automatically\xfffeshut down when the\xfffeDS lid is closed.\xfffeThis saves energy.
+NEXT
+QUIT
+PREVIOUS

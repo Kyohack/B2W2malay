@@ -1,0 +1,7 @@
+Touch the Battle icon\xfffeif you want to battle!
+Touch the Trade icon\xfffeif you want to trade!
+Touch the Draw icon\xfffeif you want to draw!
+Touch the Spin Trade icon\xfffeif you want to Spin Trade!
+FRIEND
+PLAYER
+I've entered the Union Room.
