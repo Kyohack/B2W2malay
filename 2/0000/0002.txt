@@ -4,11 +4,11 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-Choose a Pokémon.
-Use on which Pokémon?
-Replace which one?
-Battle using which Pokémon?
-Switch out which Pokémon?
+Pilih Pokémon.
+Guna utk Pokémon mana?
+Pindah yg mana?
+Lawan guna Pokémon mana?
+Tukar Pokémon mana?
 L\xf000Ȃ\x0001\x0000
 /
 \xf000Ȃ\x0001\x0000
@@ -19,7 +19,7 @@ L\xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 PP
-SHIFT
+TUKAR
 ♂
 ♀
 SUMMARY
@@ -46,9 +46,9 @@ DEFENSE
 \xf000Ȃ\x0001\x0000
 SP. ATK
 \xf000Ȃ\x0001\x0000
-SP. DEF
+SP. PR
 \xf000Ȃ\x0001\x0000
-SPEED
+KELAJUAN
 \xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 PP
@@ -59,7 +59,7 @@ PP
 POWER
 \xf000Ȃ\x0001\x0000
 ―
-ACCURACY
+KETEPATAN
 \xf000Ȃ\x0001\x0000
 CATEGORY
 PHYSICAL
@@ -68,7 +68,7 @@ SPECIAL
 APPEAL POINT(s)
 FORGET
 CANCEL
-HM moves can't be\xfffeforgotten now.
+HM tak dapat\xfffedelete skrg.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
@@ -94,11 +94,11 @@ It won't have any effect.
 \xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
 \xf000Ă\x0001\x0000 was cured of\xfffeparalysis.
 \xf000Ă\x0001\x0000's burn was healed.
-\xf000Ă\x0001\x0000 was thawed out.
-PP was restored.　
-\xf000Ă\x0001\x0000 recovered from\xfffefainting!
-\xf000Ă\x0001\x0000 became healthy.
-\xf000Ă\x0001\x0000 snapped out of its\xfffeconfusion.
+\xf000Ă\x0001\x0000 sudah\xfffedipilih.
+Pulihkn yg mana?
+\xf000ć\x0001\x0001's efek dihalang\xfffeitem diguna \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000 tak boleh ditukar\xfffeout!
+\xf000Ă\x0001\x0000 sudah ditukar\xfffeout.
 \xf000Ă\x0001\x0000 \xfffegot over its infatuation.
 \xf000Ă\x0001\x0000 woke up.
 \xf000Ă\x0001\x0000 has already been\xfffeselected.
