@@ -1,1680 +1,1680 @@
 !
 !
 !
-\xf000ā\x0001\x0000 used\xfffePound!
-The wild \xf000ā\x0001\x0000 used\xfffePound!
-The foe's \xf000ā\x0001\x0000 used\xfffePound!
-\xf000ā\x0001\x0000 used\xfffeKarate Chop!
-The wild \xf000ā\x0001\x0000 used\xfffeKarate Chop!
-The foe's \xf000ā\x0001\x0000 used\xfffeKarate Chop!
-\xf000ā\x0001\x0000 used\xfffeDoubleSlap!
-The wild \xf000ā\x0001\x0000 used\xfffeDoubleSlap!
-The foe's \xf000ā\x0001\x0000 used\xfffeDoubleSlap!
-\xf000ā\x0001\x0000 used\xfffeComet Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeComet Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeComet Punch!
-\xf000ā\x0001\x0000 used\xfffeMega Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeMega Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeMega Punch!
-\xf000ā\x0001\x0000 used\xfffePay Day!
-The wild \xf000ā\x0001\x0000 used\xfffePay Day!
-The foe's \xf000ā\x0001\x0000 used\xfffePay Day!
-\xf000ā\x0001\x0000 used\xfffeFire Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeFire Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeFire Punch!
-\xf000ā\x0001\x0000 used\xfffeIce Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeIce Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeIce Punch!
-\xf000ā\x0001\x0000 used\xfffeThunderPunch!
-The wild \xf000ā\x0001\x0000 used\xfffeThunderPunch!
-The foe's \xf000ā\x0001\x0000 used\xfffeThunderPunch!
-\xf000ā\x0001\x0000 used\xfffeScratch!
-The wild \xf000ā\x0001\x0000 used\xfffeScratch!
-The foe's \xf000ā\x0001\x0000 used\xfffeScratch!
-\xf000ā\x0001\x0000 used\xfffeViceGrip!
-The wild \xf000ā\x0001\x0000 used\xfffeViceGrip!
-The foe's \xf000ā\x0001\x0000 used\xfffeViceGrip!
-\xf000ā\x0001\x0000 used\xfffeGuillotine!
-The wild \xf000ā\x0001\x0000 used\xfffeGuillotine!
-The foe's \xf000ā\x0001\x0000 used\xfffeGuillotine!
-\xf000ā\x0001\x0000 used\xfffeRazor Wind!
-The wild \xf000ā\x0001\x0000 used\xfffeRazor Wind!
-The foe's \xf000ā\x0001\x0000 used\xfffeRazor Wind!
-\xf000ā\x0001\x0000 used\xfffeSwords Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeSwords Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeSwords Dance!
-\xf000ā\x0001\x0000 used\xfffeCut!
-The wild \xf000ā\x0001\x0000 used\xfffeCut!
-The foe's \xf000ā\x0001\x0000 used\xfffeCut!
-\xf000ā\x0001\x0000 used\xfffeGust!
-The wild \xf000ā\x0001\x0000 used\xfffeGust!
-The foe's \xf000ā\x0001\x0000 used\xfffeGust!
-\xf000ā\x0001\x0000 used\xfffeWing Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeWing Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeWing Attack!
-\xf000ā\x0001\x0000 used\xfffeWhirlwind!
-The wild \xf000ā\x0001\x0000 used\xfffeWhirlwind!
-The foe's \xf000ā\x0001\x0000 used\xfffeWhirlwind!
-\xf000ā\x0001\x0000 used\xfffeFly!
-The wild \xf000ā\x0001\x0000 used\xfffeFly!
-The foe's \xf000ā\x0001\x0000 used\xfffeFly!
-\xf000ā\x0001\x0000 used\xfffeBind!
-The wild \xf000ā\x0001\x0000 used\xfffeBind!
-The foe's \xf000ā\x0001\x0000 used\xfffeBind!
-\xf000ā\x0001\x0000 used\xfffeSlam!
-The wild \xf000ā\x0001\x0000 used\xfffeSlam!
-The foe's \xf000ā\x0001\x0000 used\xfffeSlam!
-\xf000ā\x0001\x0000 used\xfffeVine Whip!
-The wild \xf000ā\x0001\x0000 used\xfffeVine Whip!
-The foe's \xf000ā\x0001\x0000 used\xfffeVine Whip!
-\xf000ā\x0001\x0000 used\xfffeStomp!
-The wild \xf000ā\x0001\x0000 used\xfffeStomp!
-The foe's \xf000ā\x0001\x0000 used\xfffeStomp!
-\xf000ā\x0001\x0000 used\xfffeDouble Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeDouble Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeDouble Kick!
-\xf000ā\x0001\x0000 used\xfffeMega Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeMega Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeMega Kick!
-\xf000ā\x0001\x0000 used\xfffeJump Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeJump Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeJump Kick!
-\xf000ā\x0001\x0000 used\xfffeRolling Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeRolling Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeRolling Kick!
-\xf000ā\x0001\x0000 used\xfffeSand-Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeSand-Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeSand-Attack!
-\xf000ā\x0001\x0000 used\xfffeHeadbutt!
-The wild \xf000ā\x0001\x0000 used\xfffeHeadbutt!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeadbutt!
-\xf000ā\x0001\x0000 used\xfffeHorn Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeHorn Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeHorn Attack!
-\xf000ā\x0001\x0000 used\xfffeFury Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeFury Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeFury Attack!
-\xf000ā\x0001\x0000 used\xfffeHorn Drill!
-The wild \xf000ā\x0001\x0000 used\xfffeHorn Drill!
-The foe's \xf000ā\x0001\x0000 used\xfffeHorn Drill!
-\xf000ā\x0001\x0000 used\xfffeTackle!
-The wild \xf000ā\x0001\x0000 used\xfffeTackle!
-The foe's \xf000ā\x0001\x0000 used\xfffeTackle!
-\xf000ā\x0001\x0000 used\xfffeBody Slam!
-The wild \xf000ā\x0001\x0000 used\xfffeBody Slam!
-The foe's \xf000ā\x0001\x0000 used\xfffeBody Slam!
-\xf000ā\x0001\x0000 used\xfffeWrap!
-The wild \xf000ā\x0001\x0000 used\xfffeWrap!
-The foe's \xf000ā\x0001\x0000 used\xfffeWrap!
-\xf000ā\x0001\x0000 used\xfffeTake Down!
-The wild \xf000ā\x0001\x0000 used\xfffeTake Down!
-The foe's \xf000ā\x0001\x0000 used\xfffeTake Down!
-\xf000ā\x0001\x0000 used\xfffeThrash!
-The wild \xf000ā\x0001\x0000 used\xfffeThrash!
-The foe's \xf000ā\x0001\x0000 used\xfffeThrash!
-\xf000ā\x0001\x0000 used\xfffeDouble-Edge!
-The wild \xf000ā\x0001\x0000 used\xfffeDouble-Edge!
-The foe's \xf000ā\x0001\x0000 used\xfffeDouble-Edge!
-\xf000ā\x0001\x0000 used\xfffeTail Whip!
-The wild \xf000ā\x0001\x0000 used\xfffeTail Whip!
-The foe's \xf000ā\x0001\x0000 used\xfffeTail Whip!
-\xf000ā\x0001\x0000 used\xfffePoison Sting!
-The wild \xf000ā\x0001\x0000 used\xfffePoison Sting!
-The foe's \xf000ā\x0001\x0000 used\xfffePoison Sting!
-\xf000ā\x0001\x0000 used\xfffeTwineedle!
-The wild \xf000ā\x0001\x0000 used\xfffeTwineedle!
-The foe's \xf000ā\x0001\x0000 used\xfffeTwineedle!
-\xf000ā\x0001\x0000 used\xfffePin Missile!
-The wild \xf000ā\x0001\x0000 used\xfffePin Missile!
-The foe's \xf000ā\x0001\x0000 used\xfffePin Missile!
-\xf000ā\x0001\x0000 used\xfffeLeer!
-The wild \xf000ā\x0001\x0000 used\xfffeLeer!
-The foe's \xf000ā\x0001\x0000 used\xfffeLeer!
-\xf000ā\x0001\x0000 used\xfffeBite!
-The wild \xf000ā\x0001\x0000 used\xfffeBite!
-The foe's \xf000ā\x0001\x0000 used\xfffeBite!
-\xf000ā\x0001\x0000 used\xfffeGrowl!
-The wild \xf000ā\x0001\x0000 used\xfffeGrowl!
-The foe's \xf000ā\x0001\x0000 used\xfffeGrowl!
-\xf000ā\x0001\x0000 used\xfffeRoar!
-The wild \xf000ā\x0001\x0000 used\xfffeRoar!
-The foe's \xf000ā\x0001\x0000 used\xfffeRoar!
-\xf000ā\x0001\x0000 used\xfffeSing!
-The wild \xf000ā\x0001\x0000 used\xfffeSing!
-The foe's \xf000ā\x0001\x0000 used\xfffeSing!
-\xf000ā\x0001\x0000 used\xfffeSupersonic!
-The wild \xf000ā\x0001\x0000 used\xfffeSupersonic!
-The foe's \xf000ā\x0001\x0000 used\xfffeSupersonic!
-\xf000ā\x0001\x0000 used\xfffeSonicBoom!
-The wild \xf000ā\x0001\x0000 used\xfffeSonicBoom!
-The foe's \xf000ā\x0001\x0000 used\xfffeSonicBoom!
-\xf000ā\x0001\x0000 used\xfffeDisable!
-The wild \xf000ā\x0001\x0000 used\xfffeDisable!
-The foe's \xf000ā\x0001\x0000 used\xfffeDisable!
-\xf000ā\x0001\x0000 used\xfffeAcid!
-The wild \xf000ā\x0001\x0000 used\xfffeAcid!
-The foe's \xf000ā\x0001\x0000 used\xfffeAcid!
-\xf000ā\x0001\x0000 used\xfffeEmber!
-The wild \xf000ā\x0001\x0000 used\xfffeEmber!
-The foe's \xf000ā\x0001\x0000 used\xfffeEmber!
-\xf000ā\x0001\x0000 used\xfffeFlamethrower!
-The wild \xf000ā\x0001\x0000 used\xfffeFlamethrower!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlamethrower!
-\xf000ā\x0001\x0000 used\xfffeMist!
-The wild \xf000ā\x0001\x0000 used\xfffeMist!
-The foe's \xf000ā\x0001\x0000 used\xfffeMist!
-\xf000ā\x0001\x0000 used\xfffeWater Gun!
-The wild \xf000ā\x0001\x0000 used\xfffeWater Gun!
-The foe's \xf000ā\x0001\x0000 used\xfffeWater Gun!
-\xf000ā\x0001\x0000 used\xfffeHydro Pump!
-The wild \xf000ā\x0001\x0000 used\xfffeHydro Pump!
-The foe's \xf000ā\x0001\x0000 used\xfffeHydro Pump!
-\xf000ā\x0001\x0000 used\xfffeSurf!
-The wild \xf000ā\x0001\x0000 used\xfffeSurf!
-The foe's \xf000ā\x0001\x0000 used\xfffeSurf!
-\xf000ā\x0001\x0000 used\xfffeIce Beam!
-The wild \xf000ā\x0001\x0000 used\xfffeIce Beam!
-The foe's \xf000ā\x0001\x0000 used\xfffeIce Beam!
-\xf000ā\x0001\x0000 used\xfffeBlizzard!
-The wild \xf000ā\x0001\x0000 used\xfffeBlizzard!
-The foe's \xf000ā\x0001\x0000 used\xfffeBlizzard!
-\xf000ā\x0001\x0000 used\xfffePsybeam!
-The wild \xf000ā\x0001\x0000 used\xfffePsybeam!
-The foe's \xf000ā\x0001\x0000 used\xfffePsybeam!
-\xf000ā\x0001\x0000 used\xfffeBubbleBeam!
-The wild \xf000ā\x0001\x0000 used\xfffeBubbleBeam!
-The foe's \xf000ā\x0001\x0000 used\xfffeBubbleBeam!
-\xf000ā\x0001\x0000 used\xfffeAurora Beam!
-The wild \xf000ā\x0001\x0000 used\xfffeAurora Beam!
-The foe's \xf000ā\x0001\x0000 used\xfffeAurora Beam!
-\xf000ā\x0001\x0000 used\xfffeHyper Beam!
-The wild \xf000ā\x0001\x0000 used\xfffeHyper Beam!
-The foe's \xf000ā\x0001\x0000 used\xfffeHyper Beam!
-\xf000ā\x0001\x0000 used\xfffePeck!
-The wild \xf000ā\x0001\x0000 used\xfffePeck!
-The foe's \xf000ā\x0001\x0000 used\xfffePeck!
-\xf000ā\x0001\x0000 used\xfffeDrill Peck!
-The wild \xf000ā\x0001\x0000 used\xfffeDrill Peck!
-The foe's \xf000ā\x0001\x0000 used\xfffeDrill Peck!
-\xf000ā\x0001\x0000 used\xfffeSubmission!
-The wild \xf000ā\x0001\x0000 used\xfffeSubmission!
-The foe's \xf000ā\x0001\x0000 used\xfffeSubmission!
-\xf000ā\x0001\x0000 used\xfffeLow Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeLow Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeLow Kick!
-\xf000ā\x0001\x0000 used\xfffeCounter!
-The wild \xf000ā\x0001\x0000 used\xfffeCounter!
-The foe's \xf000ā\x0001\x0000 used\xfffeCounter!
-\xf000ā\x0001\x0000 used\xfffeSeismic Toss!
-The wild \xf000ā\x0001\x0000 used\xfffeSeismic Toss!
-The foe's \xf000ā\x0001\x0000 used\xfffeSeismic Toss!
-\xf000ā\x0001\x0000 used\xfffeStrength!
-The wild \xf000ā\x0001\x0000 used\xfffeStrength!
-The foe's \xf000ā\x0001\x0000 used\xfffeStrength!
-\xf000ā\x0001\x0000 used\xfffeAbsorb!
-The wild \xf000ā\x0001\x0000 used\xfffeAbsorb!
-The foe's \xf000ā\x0001\x0000 used\xfffeAbsorb!
-\xf000ā\x0001\x0000 used\xfffeMega Drain!
-The wild \xf000ā\x0001\x0000 used\xfffeMega Drain!
-The foe's \xf000ā\x0001\x0000 used\xfffeMega Drain!
-\xf000ā\x0001\x0000 used\xfffeLeech Seed!
-The wild \xf000ā\x0001\x0000 used\xfffeLeech Seed!
-The foe's \xf000ā\x0001\x0000 used\xfffeLeech Seed!
-\xf000ā\x0001\x0000 used\xfffeGrowth!
-The wild \xf000ā\x0001\x0000 used\xfffeGrowth!
-The foe's \xf000ā\x0001\x0000 used\xfffeGrowth!
-\xf000ā\x0001\x0000 used\xfffeRazor Leaf!
-The wild \xf000ā\x0001\x0000 used\xfffeRazor Leaf!
-The foe's \xf000ā\x0001\x0000 used\xfffeRazor Leaf!
-\xf000ā\x0001\x0000 used\xfffeSolarBeam!
-The wild \xf000ā\x0001\x0000 used\xfffeSolarBeam!
-The foe's \xf000ā\x0001\x0000 used\xfffeSolarBeam!
-\xf000ā\x0001\x0000 used\xfffePoisonPowder!
-The wild \xf000ā\x0001\x0000 used\xfffePoisonPowder!
-The foe's \xf000ā\x0001\x0000 used\xfffePoisonPowder!
-\xf000ā\x0001\x0000 used\xfffeStun Spore!
-The wild \xf000ā\x0001\x0000 used\xfffeStun Spore!
-The foe's \xf000ā\x0001\x0000 used\xfffeStun Spore!
-\xf000ā\x0001\x0000 used\xfffeSleep Powder!
-The wild \xf000ā\x0001\x0000 used\xfffeSleep Powder!
-The foe's \xf000ā\x0001\x0000 used\xfffeSleep Powder!
-\xf000ā\x0001\x0000 used\xfffePetal Dance!
-The wild \xf000ā\x0001\x0000 used\xfffePetal Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffePetal Dance!
-\xf000ā\x0001\x0000 used\xfffeString Shot!
-The wild \xf000ā\x0001\x0000 used\xfffeString Shot!
-The foe's \xf000ā\x0001\x0000 used\xfffeString Shot!
-\xf000ā\x0001\x0000 used\xfffeDragon Rage!
-The wild \xf000ā\x0001\x0000 used\xfffeDragon Rage!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragon Rage!
-\xf000ā\x0001\x0000 used\xfffeFire Spin!
-The wild \xf000ā\x0001\x0000 used\xfffeFire Spin!
-The foe's \xf000ā\x0001\x0000 used\xfffeFire Spin!
-\xf000ā\x0001\x0000 used\xfffeThunderShock!
-The wild \xf000ā\x0001\x0000 used\xfffeThunderShock!
-The foe's \xf000ā\x0001\x0000 used\xfffeThunderShock!
-\xf000ā\x0001\x0000 used\xfffeThunderbolt!
-The wild \xf000ā\x0001\x0000 used\xfffeThunderbolt!
-The foe's \xf000ā\x0001\x0000 used\xfffeThunderbolt!
-\xf000ā\x0001\x0000 used\xfffeThunder Wave!
-The wild \xf000ā\x0001\x0000 used\xfffeThunder Wave!
-The foe's \xf000ā\x0001\x0000 used\xfffeThunder Wave!
-\xf000ā\x0001\x0000 used\xfffeThunder!
-The wild \xf000ā\x0001\x0000 used\xfffeThunder!
-The foe's \xf000ā\x0001\x0000 used\xfffeThunder!
-\xf000ā\x0001\x0000 used\xfffeRock Throw!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Throw!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Throw!
-\xf000ā\x0001\x0000 used\xfffeEarthquake!
-The wild \xf000ā\x0001\x0000 used\xfffeEarthquake!
-The foe's \xf000ā\x0001\x0000 used\xfffeEarthquake!
-\xf000ā\x0001\x0000 used\xfffeFissure!
-The wild \xf000ā\x0001\x0000 used\xfffeFissure!
-The foe's \xf000ā\x0001\x0000 used\xfffeFissure!
-\xf000ā\x0001\x0000 used\xfffeDig!
-The wild \xf000ā\x0001\x0000 used\xfffeDig!
-The foe's \xf000ā\x0001\x0000 used\xfffeDig!
-\xf000ā\x0001\x0000 used\xfffeToxic!
-The wild \xf000ā\x0001\x0000 used\xfffeToxic!
-The foe's \xf000ā\x0001\x0000 used\xfffeToxic!
-\xf000ā\x0001\x0000 used\xfffeConfusion!
-The wild \xf000ā\x0001\x0000 used\xfffeConfusion!
-The foe's \xf000ā\x0001\x0000 used\xfffeConfusion!
-\xf000ā\x0001\x0000 used\xfffePsychic!
-The wild \xf000ā\x0001\x0000 used\xfffePsychic!
-The foe's \xf000ā\x0001\x0000 used\xfffePsychic!
-\xf000ā\x0001\x0000 used\xfffeHypnosis!
-The wild \xf000ā\x0001\x0000 used\xfffeHypnosis!
-The foe's \xf000ā\x0001\x0000 used\xfffeHypnosis!
-\xf000ā\x0001\x0000 used\xfffeMeditate!
-The wild \xf000ā\x0001\x0000 used\xfffeMeditate!
-The foe's \xf000ā\x0001\x0000 used\xfffeMeditate!
-\xf000ā\x0001\x0000 used\xfffeAgility!
-The wild \xf000ā\x0001\x0000 used\xfffeAgility!
-The foe's \xf000ā\x0001\x0000 used\xfffeAgility!
-\xf000ā\x0001\x0000 used\xfffeQuick Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeQuick Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeQuick Attack!
-\xf000ā\x0001\x0000 used\xfffeRage!
-The wild \xf000ā\x0001\x0000 used\xfffeRage!
-The foe's \xf000ā\x0001\x0000 used\xfffeRage!
-\xf000ā\x0001\x0000 used\xfffeTeleport!
-The wild \xf000ā\x0001\x0000 used\xfffeTeleport!
-The foe's \xf000ā\x0001\x0000 used\xfffeTeleport!
-\xf000ā\x0001\x0000 used\xfffeNight Shade!
-The wild \xf000ā\x0001\x0000 used\xfffeNight Shade!
-The foe's \xf000ā\x0001\x0000 used\xfffeNight Shade!
-\xf000ā\x0001\x0000 used\xfffeMimic!
-The wild \xf000ā\x0001\x0000 used\xfffeMimic!
-The foe's \xf000ā\x0001\x0000 used\xfffeMimic!
-\xf000ā\x0001\x0000 used\xfffeScreech!
-The wild \xf000ā\x0001\x0000 used\xfffeScreech!
-The foe's \xf000ā\x0001\x0000 used\xfffeScreech!
-\xf000ā\x0001\x0000 used\xfffeDouble Team!
-The wild \xf000ā\x0001\x0000 used\xfffeDouble Team!
-The foe's \xf000ā\x0001\x0000 used\xfffeDouble Team!
-\xf000ā\x0001\x0000 used\xfffeRecover!
-The wild \xf000ā\x0001\x0000 used\xfffeRecover!
-The foe's \xf000ā\x0001\x0000 used\xfffeRecover!
-\xf000ā\x0001\x0000 used\xfffeHarden!
-The wild \xf000ā\x0001\x0000 used\xfffeHarden!
-The foe's \xf000ā\x0001\x0000 used\xfffeHarden!
-\xf000ā\x0001\x0000 used\xfffeMinimize!
-The wild \xf000ā\x0001\x0000 used\xfffeMinimize!
-The foe's \xf000ā\x0001\x0000 used\xfffeMinimize!
-\xf000ā\x0001\x0000 used\xfffeSmokeScreen!
-The wild \xf000ā\x0001\x0000 used\xfffeSmokeScreen!
-The foe's \xf000ā\x0001\x0000 used\xfffeSmokeScreen!
-\xf000ā\x0001\x0000 used\xfffeConfuse Ray!
-The wild \xf000ā\x0001\x0000 used\xfffeConfuse Ray!
-The foe's \xf000ā\x0001\x0000 used\xfffeConfuse Ray!
-\xf000ā\x0001\x0000 used\xfffeWithdraw!
-The wild \xf000ā\x0001\x0000 used\xfffeWithdraw!
-The foe's \xf000ā\x0001\x0000 used\xfffeWithdraw!
-\xf000ā\x0001\x0000 used\xfffeDefense Curl!
-The wild \xf000ā\x0001\x0000 used\xfffeDefense Curl!
-The foe's \xf000ā\x0001\x0000 used\xfffeDefense Curl!
-\xf000ā\x0001\x0000 used\xfffeBarrier!
-The wild \xf000ā\x0001\x0000 used\xfffeBarrier!
-The foe's \xf000ā\x0001\x0000 used\xfffeBarrier!
-\xf000ā\x0001\x0000 used\xfffeLight Screen!
-The wild \xf000ā\x0001\x0000 used\xfffeLight Screen!
-The foe's \xf000ā\x0001\x0000 used\xfffeLight Screen!
-\xf000ā\x0001\x0000 used\xfffeHaze!
-The wild \xf000ā\x0001\x0000 used\xfffeHaze!
-The foe's \xf000ā\x0001\x0000 used\xfffeHaze!
-\xf000ā\x0001\x0000 used\xfffeReflect!
-The wild \xf000ā\x0001\x0000 used\xfffeReflect!
-The foe's \xf000ā\x0001\x0000 used\xfffeReflect!
-\xf000ā\x0001\x0000 used\xfffeFocus Energy!
-The wild \xf000ā\x0001\x0000 used\xfffeFocus Energy!
-The foe's \xf000ā\x0001\x0000 used\xfffeFocus Energy!
-\xf000ā\x0001\x0000 used\xfffeBide!
-The wild \xf000ā\x0001\x0000 used\xfffeBide!
-The foe's \xf000ā\x0001\x0000 used\xfffeBide!
-\xf000ā\x0001\x0000 used\xfffeMetronome!
-The wild \xf000ā\x0001\x0000 used\xfffeMetronome!
-The foe's \xf000ā\x0001\x0000 used\xfffeMetronome!
-\xf000ā\x0001\x0000 used\xfffeMirror Move!
-The wild \xf000ā\x0001\x0000 used\xfffeMirror Move!
-The foe's \xf000ā\x0001\x0000 used\xfffeMirror Move!
-\xf000ā\x0001\x0000 used\xfffeSelfdestruct!
-The wild \xf000ā\x0001\x0000 used\xfffeSelfdestruct!
-The foe's \xf000ā\x0001\x0000 used\xfffeSelfdestruct!
-\xf000ā\x0001\x0000 used\xfffeEgg Bomb!
-The wild \xf000ā\x0001\x0000 used\xfffeEgg Bomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeEgg Bomb!
-\xf000ā\x0001\x0000 used\xfffeLick!
-The wild \xf000ā\x0001\x0000 used\xfffeLick!
-The foe's \xf000ā\x0001\x0000 used\xfffeLick!
-\xf000ā\x0001\x0000 used\xfffeSmog!
-The wild \xf000ā\x0001\x0000 used\xfffeSmog!
-The foe's \xf000ā\x0001\x0000 used\xfffeSmog!
-\xf000ā\x0001\x0000 used\xfffeSludge!
-The wild \xf000ā\x0001\x0000 used\xfffeSludge!
-The foe's \xf000ā\x0001\x0000 used\xfffeSludge!
-\xf000ā\x0001\x0000 used\xfffeBone Club!
-The wild \xf000ā\x0001\x0000 used\xfffeBone Club!
-The foe's \xf000ā\x0001\x0000 used\xfffeBone Club!
-\xf000ā\x0001\x0000 used\xfffeFire Blast!
-The wild \xf000ā\x0001\x0000 used\xfffeFire Blast!
-The foe's \xf000ā\x0001\x0000 used\xfffeFire Blast!
-\xf000ā\x0001\x0000 used\xfffeWaterfall!
-The wild \xf000ā\x0001\x0000 used\xfffeWaterfall!
-The foe's \xf000ā\x0001\x0000 used\xfffeWaterfall!
-\xf000ā\x0001\x0000 used\xfffeClamp!
-The wild \xf000ā\x0001\x0000 used\xfffeClamp!
-The foe's \xf000ā\x0001\x0000 used\xfffeClamp!
-\xf000ā\x0001\x0000 used\xfffeSwift!
-The wild \xf000ā\x0001\x0000 used\xfffeSwift!
-The foe's \xf000ā\x0001\x0000 used\xfffeSwift!
-\xf000ā\x0001\x0000 used\xfffeSkull Bash!
-The wild \xf000ā\x0001\x0000 used\xfffeSkull Bash!
-The foe's \xf000ā\x0001\x0000 used\xfffeSkull Bash!
-\xf000ā\x0001\x0000 used\xfffeSpike Cannon!
-The wild \xf000ā\x0001\x0000 used\xfffeSpike Cannon!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpike Cannon!
-\xf000ā\x0001\x0000 used\xfffeConstrict!
-The wild \xf000ā\x0001\x0000 used\xfffeConstrict!
-The foe's \xf000ā\x0001\x0000 used\xfffeConstrict!
-\xf000ā\x0001\x0000 used\xfffeAmnesia!
-The wild \xf000ā\x0001\x0000 used\xfffeAmnesia!
-The foe's \xf000ā\x0001\x0000 used\xfffeAmnesia!
-\xf000ā\x0001\x0000 used\xfffeKinesis!
-The wild \xf000ā\x0001\x0000 used\xfffeKinesis!
-The foe's \xf000ā\x0001\x0000 used\xfffeKinesis!
-\xf000ā\x0001\x0000 used\xfffeSoftboiled!
-The wild \xf000ā\x0001\x0000 used\xfffeSoftboiled!
-The foe's \xf000ā\x0001\x0000 used\xfffeSoftboiled!
-\xf000ā\x0001\x0000 used\xfffeHi Jump Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeHi Jump Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeHi Jump Kick!
-\xf000ā\x0001\x0000 used\xfffeGlare!
-The wild \xf000ā\x0001\x0000 used\xfffeGlare!
-The foe's \xf000ā\x0001\x0000 used\xfffeGlare!
-\xf000ā\x0001\x0000 used\xfffeDream Eater!
-The wild \xf000ā\x0001\x0000 used\xfffeDream Eater!
-The foe's \xf000ā\x0001\x0000 used\xfffeDream Eater!
-\xf000ā\x0001\x0000 used\xfffePoison Gas!
-The wild \xf000ā\x0001\x0000 used\xfffePoison Gas!
-The foe's \xf000ā\x0001\x0000 used\xfffePoison Gas!
-\xf000ā\x0001\x0000 used\xfffeBarrage!
-The wild \xf000ā\x0001\x0000 used\xfffeBarrage!
-The foe's \xf000ā\x0001\x0000 used\xfffeBarrage!
-\xf000ā\x0001\x0000 used\xfffeLeech Life!
-The wild \xf000ā\x0001\x0000 used\xfffeLeech Life!
-The foe's \xf000ā\x0001\x0000 used\xfffeLeech Life!
-\xf000ā\x0001\x0000 used\xfffeLovely Kiss!
-The wild \xf000ā\x0001\x0000 used\xfffeLovely Kiss!
-The foe's \xf000ā\x0001\x0000 used\xfffeLovely Kiss!
-\xf000ā\x0001\x0000 used\xfffeSky Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeSky Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeSky Attack!
-\xf000ā\x0001\x0000 used\xfffeTransform!
-The wild \xf000ā\x0001\x0000 used\xfffeTransform!
-The foe's \xf000ā\x0001\x0000 used\xfffeTransform!
-\xf000ā\x0001\x0000 used\xfffeBubble!
-The wild \xf000ā\x0001\x0000 used\xfffeBubble!
-The foe's \xf000ā\x0001\x0000 used\xfffeBubble!
-\xf000ā\x0001\x0000 used\xfffeDizzy Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeDizzy Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeDizzy Punch!
-\xf000ā\x0001\x0000 used\xfffeSpore!
-The wild \xf000ā\x0001\x0000 used\xfffeSpore!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpore!
-\xf000ā\x0001\x0000 used\xfffeFlash!
-The wild \xf000ā\x0001\x0000 used\xfffeFlash!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlash!
-\xf000ā\x0001\x0000 used\xfffePsywave!
-The wild \xf000ā\x0001\x0000 used\xfffePsywave!
-The foe's \xf000ā\x0001\x0000 used\xfffePsywave!
-\xf000ā\x0001\x0000 used\xfffeSplash!
-The wild \xf000ā\x0001\x0000 used\xfffeSplash!
-The foe's \xf000ā\x0001\x0000 used\xfffeSplash!
-\xf000ā\x0001\x0000 used\xfffeAcid Armor!
-The wild \xf000ā\x0001\x0000 used\xfffeAcid Armor!
-The foe's \xf000ā\x0001\x0000 used\xfffeAcid Armor!
-\xf000ā\x0001\x0000 used\xfffeCrabhammer!
-The wild \xf000ā\x0001\x0000 used\xfffeCrabhammer!
-The foe's \xf000ā\x0001\x0000 used\xfffeCrabhammer!
-\xf000ā\x0001\x0000 used\xfffeExplosion!
-The wild \xf000ā\x0001\x0000 used\xfffeExplosion!
-The foe's \xf000ā\x0001\x0000 used\xfffeExplosion!
-\xf000ā\x0001\x0000 used\xfffeFury Swipes!
-The wild \xf000ā\x0001\x0000 used\xfffeFury Swipes!
-The foe's \xf000ā\x0001\x0000 used\xfffeFury Swipes!
-\xf000ā\x0001\x0000 used\xfffeBonemerang!
-The wild \xf000ā\x0001\x0000 used\xfffeBonemerang!
-The foe's \xf000ā\x0001\x0000 used\xfffeBonemerang!
-\xf000ā\x0001\x0000 used\xfffeRest!
-The wild \xf000ā\x0001\x0000 used\xfffeRest!
-The foe's \xf000ā\x0001\x0000 used\xfffeRest!
-\xf000ā\x0001\x0000 used\xfffeRock Slide!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Slide!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Slide!
-\xf000ā\x0001\x0000 used\xfffeHyper Fang!
-The wild \xf000ā\x0001\x0000 used\xfffeHyper Fang!
-The foe's \xf000ā\x0001\x0000 used\xfffeHyper Fang!
-\xf000ā\x0001\x0000 used\xfffeSharpen!
-The wild \xf000ā\x0001\x0000 used\xfffeSharpen!
-The foe's \xf000ā\x0001\x0000 used\xfffeSharpen!
-\xf000ā\x0001\x0000 used\xfffeConversion!
-The wild \xf000ā\x0001\x0000 used\xfffeConversion!
-The foe's \xf000ā\x0001\x0000 used\xfffeConversion!
-\xf000ā\x0001\x0000 used\xfffeTri Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeTri Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeTri Attack!
-\xf000ā\x0001\x0000 used\xfffeSuper Fang!
-The wild \xf000ā\x0001\x0000 used\xfffeSuper Fang!
-The foe's \xf000ā\x0001\x0000 used\xfffeSuper Fang!
-\xf000ā\x0001\x0000 used\xfffeSlash!
-The wild \xf000ā\x0001\x0000 used\xfffeSlash!
-The foe's \xf000ā\x0001\x0000 used\xfffeSlash!
-\xf000ā\x0001\x0000 used\xfffeSubstitute!
-The wild \xf000ā\x0001\x0000 used\xfffeSubstitute!
-The foe's \xf000ā\x0001\x0000 used\xfffeSubstitute!
-\xf000ā\x0001\x0000 used\xfffeStruggle!
-The wild \xf000ā\x0001\x0000 used\xfffeStruggle!
-The foe's \xf000ā\x0001\x0000 used\xfffeStruggle!
-\xf000ā\x0001\x0000 used\xfffeSketch!
-The wild \xf000ā\x0001\x0000 used\xfffeSketch!
-The foe's \xf000ā\x0001\x0000 used\xfffeSketch!
-\xf000ā\x0001\x0000 used\xfffeTriple Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeTriple Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeTriple Kick!
-\xf000ā\x0001\x0000 used\xfffeThief!
-The wild \xf000ā\x0001\x0000 used\xfffeThief!
-The foe's \xf000ā\x0001\x0000 used\xfffeThief!
-\xf000ā\x0001\x0000 used\xfffeSpider Web!
-The wild \xf000ā\x0001\x0000 used\xfffeSpider Web!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpider Web!
-\xf000ā\x0001\x0000 used\xfffeMind Reader!
-The wild \xf000ā\x0001\x0000 used\xfffeMind Reader!
-The foe's \xf000ā\x0001\x0000 used\xfffeMind Reader!
-\xf000ā\x0001\x0000 used\xfffeNightmare!
-The wild \xf000ā\x0001\x0000 used\xfffeNightmare!
-The foe's \xf000ā\x0001\x0000 used\xfffeNightmare!
-\xf000ā\x0001\x0000 used\xfffeFlame Wheel!
-The wild \xf000ā\x0001\x0000 used\xfffeFlame Wheel!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlame Wheel!
-\xf000ā\x0001\x0000 used\xfffeSnore!
-The wild \xf000ā\x0001\x0000 used\xfffeSnore!
-The foe's \xf000ā\x0001\x0000 used\xfffeSnore!
-\xf000ā\x0001\x0000 used\xfffeCurse!
-The wild \xf000ā\x0001\x0000 used\xfffeCurse!
-The foe's \xf000ā\x0001\x0000 used\xfffeCurse!
-\xf000ā\x0001\x0000 used\xfffeFlail!
-The wild \xf000ā\x0001\x0000 used\xfffeFlail!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlail!
-\xf000ā\x0001\x0000 used\xfffeConversion 2!
-The wild \xf000ā\x0001\x0000 used\xfffeConversion 2!
-The foe's \xf000ā\x0001\x0000 used\xfffeConversion 2!
-\xf000ā\x0001\x0000 used\xfffeAeroblast!
-The wild \xf000ā\x0001\x0000 used\xfffeAeroblast!
-The foe's \xf000ā\x0001\x0000 used\xfffeAeroblast!
-\xf000ā\x0001\x0000 used\xfffeCotton Spore!
-The wild \xf000ā\x0001\x0000 used\xfffeCotton Spore!
-The foe's \xf000ā\x0001\x0000 used\xfffeCotton Spore!
-\xf000ā\x0001\x0000 used\xfffeReversal!
-The wild \xf000ā\x0001\x0000 used\xfffeReversal!
-The foe's \xf000ā\x0001\x0000 used\xfffeReversal!
-\xf000ā\x0001\x0000 used\xfffeSpite!
-The wild \xf000ā\x0001\x0000 used\xfffeSpite!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpite!
-\xf000ā\x0001\x0000 used\xfffePowder Snow!
-The wild \xf000ā\x0001\x0000 used\xfffePowder Snow!
-The foe's \xf000ā\x0001\x0000 used\xfffePowder Snow!
-\xf000ā\x0001\x0000 used\xfffeProtect!
-The wild \xf000ā\x0001\x0000 used\xfffeProtect!
-The foe's \xf000ā\x0001\x0000 used\xfffeProtect!
-\xf000ā\x0001\x0000 used\xfffeMach Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeMach Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeMach Punch!
-\xf000ā\x0001\x0000 used\xfffeScary Face!
-The wild \xf000ā\x0001\x0000 used\xfffeScary Face!
-The foe's \xf000ā\x0001\x0000 used\xfffeScary Face!
-\xf000ā\x0001\x0000 used\xfffeFaint Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeFaint Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeFaint Attack!
-\xf000ā\x0001\x0000 used\xfffeSweet Kiss!
-The wild \xf000ā\x0001\x0000 used\xfffeSweet Kiss!
-The foe's \xf000ā\x0001\x0000 used\xfffeSweet Kiss!
-\xf000ā\x0001\x0000 used\xfffeBelly Drum!
-The wild \xf000ā\x0001\x0000 used\xfffeBelly Drum!
-The foe's \xf000ā\x0001\x0000 used\xfffeBelly Drum!
-\xf000ā\x0001\x0000 used\xfffeSludge Bomb!
-The wild \xf000ā\x0001\x0000 used\xfffeSludge Bomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeSludge Bomb!
-\xf000ā\x0001\x0000 used\xfffeMud-Slap!
-The wild \xf000ā\x0001\x0000 used\xfffeMud-Slap!
-The foe's \xf000ā\x0001\x0000 used\xfffeMud-Slap!
-\xf000ā\x0001\x0000 used\xfffeOctazooka!
-The wild \xf000ā\x0001\x0000 used\xfffeOctazooka!
-The foe's \xf000ā\x0001\x0000 used\xfffeOctazooka!
-\xf000ā\x0001\x0000 used\xfffeSpikes!
-The wild \xf000ā\x0001\x0000 used\xfffeSpikes!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpikes!
-\xf000ā\x0001\x0000 used\xfffeZap Cannon!
-The wild \xf000ā\x0001\x0000 used\xfffeZap Cannon!
-The foe's \xf000ā\x0001\x0000 used\xfffeZap Cannon!
-\xf000ā\x0001\x0000 used\xfffeForesight!
-The wild \xf000ā\x0001\x0000 used\xfffeForesight!
-The foe's \xf000ā\x0001\x0000 used\xfffeForesight!
-\xf000ā\x0001\x0000 used\xfffeDestiny Bond!
-The wild \xf000ā\x0001\x0000 used\xfffeDestiny Bond!
-The foe's \xf000ā\x0001\x0000 used\xfffeDestiny Bond!
-\xf000ā\x0001\x0000 used\xfffePerish Song!
-The wild \xf000ā\x0001\x0000 used\xfffePerish Song!
-The foe's \xf000ā\x0001\x0000 used\xfffePerish Song!
-\xf000ā\x0001\x0000 used\xfffeIcy Wind!
-The wild \xf000ā\x0001\x0000 used\xfffeIcy Wind!
-The foe's \xf000ā\x0001\x0000 used\xfffeIcy Wind!
-\xf000ā\x0001\x0000 used\xfffeDetect!
-The wild \xf000ā\x0001\x0000 used\xfffeDetect!
-The foe's \xf000ā\x0001\x0000 used\xfffeDetect!
-\xf000ā\x0001\x0000 used\xfffeBone Rush!
-The wild \xf000ā\x0001\x0000 used\xfffeBone Rush!
-The foe's \xf000ā\x0001\x0000 used\xfffeBone Rush!
-\xf000ā\x0001\x0000 used\xfffeLock-On!
-The wild \xf000ā\x0001\x0000 used\xfffeLock-On!
-The foe's \xf000ā\x0001\x0000 used\xfffeLock-On!
-\xf000ā\x0001\x0000 used\xfffeOutrage!
-The wild \xf000ā\x0001\x0000 used\xfffeOutrage!
-The foe's \xf000ā\x0001\x0000 used\xfffeOutrage!
-\xf000ā\x0001\x0000 used\xfffeSandstorm!
-The wild \xf000ā\x0001\x0000 used\xfffeSandstorm!
-The foe's \xf000ā\x0001\x0000 used\xfffeSandstorm!
-\xf000ā\x0001\x0000 used\xfffeGiga Drain!
-The wild \xf000ā\x0001\x0000 used\xfffeGiga Drain!
-The foe's \xf000ā\x0001\x0000 used\xfffeGiga Drain!
-\xf000ā\x0001\x0000 used\xfffeEndure!
-The wild \xf000ā\x0001\x0000 used\xfffeEndure!
-The foe's \xf000ā\x0001\x0000 used\xfffeEndure!
-\xf000ā\x0001\x0000 used\xfffeCharm!
-The wild \xf000ā\x0001\x0000 used\xfffeCharm!
-The foe's \xf000ā\x0001\x0000 used\xfffeCharm!
-\xf000ā\x0001\x0000 used\xfffeRollout!
-The wild \xf000ā\x0001\x0000 used\xfffeRollout!
-The foe's \xf000ā\x0001\x0000 used\xfffeRollout!
-\xf000ā\x0001\x0000 used\xfffeFalse Swipe!
-The wild \xf000ā\x0001\x0000 used\xfffeFalse Swipe!
-The foe's \xf000ā\x0001\x0000 used\xfffeFalse Swipe!
-\xf000ā\x0001\x0000 used\xfffeSwagger!
-The wild \xf000ā\x0001\x0000 used\xfffeSwagger!
-The foe's \xf000ā\x0001\x0000 used\xfffeSwagger!
-\xf000ā\x0001\x0000 used\xfffeMilk Drink!
-The wild \xf000ā\x0001\x0000 used\xfffeMilk Drink!
-The foe's \xf000ā\x0001\x0000 used\xfffeMilk Drink!
-\xf000ā\x0001\x0000 used\xfffeSpark!
-The wild \xf000ā\x0001\x0000 used\xfffeSpark!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpark!
-\xf000ā\x0001\x0000 used\xfffeFury Cutter!
-The wild \xf000ā\x0001\x0000 used\xfffeFury Cutter!
-The foe's \xf000ā\x0001\x0000 used\xfffeFury Cutter!
-\xf000ā\x0001\x0000 used\xfffeSteel Wing!
-The wild \xf000ā\x0001\x0000 used\xfffeSteel Wing!
-The foe's \xf000ā\x0001\x0000 used\xfffeSteel Wing!
-\xf000ā\x0001\x0000 used\xfffeMean Look!
-The wild \xf000ā\x0001\x0000 used\xfffeMean Look!
-The foe's \xf000ā\x0001\x0000 used\xfffeMean Look!
-\xf000ā\x0001\x0000 used\xfffeAttract!
-The wild \xf000ā\x0001\x0000 used\xfffeAttract!
-The foe's \xf000ā\x0001\x0000 used\xfffeAttract!
-\xf000ā\x0001\x0000 used\xfffeSleep Talk!
-The wild \xf000ā\x0001\x0000 used\xfffeSleep Talk!
-The foe's \xf000ā\x0001\x0000 used\xfffeSleep Talk!
-\xf000ā\x0001\x0000 used\xfffeHeal Bell!
-The wild \xf000ā\x0001\x0000 used\xfffeHeal Bell!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeal Bell!
-\xf000ā\x0001\x0000 used\xfffeReturn!
-The wild \xf000ā\x0001\x0000 used\xfffeReturn!
-The foe's \xf000ā\x0001\x0000 used\xfffeReturn!
-\xf000ā\x0001\x0000 used\xfffePresent!
-The wild \xf000ā\x0001\x0000 used\xfffePresent!
-The foe's \xf000ā\x0001\x0000 used\xfffePresent!
-\xf000ā\x0001\x0000 used\xfffeFrustration!
-The wild \xf000ā\x0001\x0000 used\xfffeFrustration!
-The foe's \xf000ā\x0001\x0000 used\xfffeFrustration!
-\xf000ā\x0001\x0000 used\xfffeSafeguard!
-The wild \xf000ā\x0001\x0000 used\xfffeSafeguard!
-The foe's \xf000ā\x0001\x0000 used\xfffeSafeguard!
-\xf000ā\x0001\x0000 used\xfffePain Split!
-The wild \xf000ā\x0001\x0000 used\xfffePain Split!
-The foe's \xf000ā\x0001\x0000 used\xfffePain Split!
-\xf000ā\x0001\x0000 used\xfffeSacred Fire!
-The wild \xf000ā\x0001\x0000 used\xfffeSacred Fire!
-The foe's \xf000ā\x0001\x0000 used\xfffeSacred Fire!
-\xf000ā\x0001\x0000 used\xfffeMagnitude!
-The wild \xf000ā\x0001\x0000 used\xfffeMagnitude!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagnitude!
-\xf000ā\x0001\x0000 used\xfffeDynamicPunch!
-The wild \xf000ā\x0001\x0000 used\xfffeDynamicPunch!
-The foe's \xf000ā\x0001\x0000 used\xfffeDynamicPunch!
-\xf000ā\x0001\x0000 used\xfffeMegahorn!
-The wild \xf000ā\x0001\x0000 used\xfffeMegahorn!
-The foe's \xf000ā\x0001\x0000 used\xfffeMegahorn!
-\xf000ā\x0001\x0000 used\xfffeDragonBreath!
-The wild \xf000ā\x0001\x0000 used\xfffeDragonBreath!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragonBreath!
-\xf000ā\x0001\x0000 used\xfffeBaton Pass!
-The wild \xf000ā\x0001\x0000 used\xfffeBaton Pass!
-The foe's \xf000ā\x0001\x0000 used\xfffeBaton Pass!
-\xf000ā\x0001\x0000 used\xfffeEncore!
-The wild \xf000ā\x0001\x0000 used\xfffeEncore!
-The foe's \xf000ā\x0001\x0000 used\xfffeEncore!
-\xf000ā\x0001\x0000 used\xfffePursuit!
-The wild \xf000ā\x0001\x0000 used\xfffePursuit!
-The foe's \xf000ā\x0001\x0000 used\xfffePursuit!
-\xf000ā\x0001\x0000 used\xfffeRapid Spin!
-The wild \xf000ā\x0001\x0000 used\xfffeRapid Spin!
-The foe's \xf000ā\x0001\x0000 used\xfffeRapid Spin!
-\xf000ā\x0001\x0000 used\xfffeSweet Scent!
-The wild \xf000ā\x0001\x0000 used\xfffeSweet Scent!
-The foe's \xf000ā\x0001\x0000 used\xfffeSweet Scent!
-\xf000ā\x0001\x0000 used\xfffeIron Tail!
-The wild \xf000ā\x0001\x0000 used\xfffeIron Tail!
-The foe's \xf000ā\x0001\x0000 used\xfffeIron Tail!
-\xf000ā\x0001\x0000 used\xfffeMetal Claw!
-The wild \xf000ā\x0001\x0000 used\xfffeMetal Claw!
-The foe's \xf000ā\x0001\x0000 used\xfffeMetal Claw!
-\xf000ā\x0001\x0000 used\xfffeVital Throw!
-The wild \xf000ā\x0001\x0000 used\xfffeVital Throw!
-The foe's \xf000ā\x0001\x0000 used\xfffeVital Throw!
-\xf000ā\x0001\x0000 used\xfffeMorning Sun!
-The wild \xf000ā\x0001\x0000 used\xfffeMorning Sun!
-The foe's \xf000ā\x0001\x0000 used\xfffeMorning Sun!
-\xf000ā\x0001\x0000 used\xfffeSynthesis!
-The wild \xf000ā\x0001\x0000 used\xfffeSynthesis!
-The foe's \xf000ā\x0001\x0000 used\xfffeSynthesis!
-\xf000ā\x0001\x0000 used\xfffeMoonlight!
-The wild \xf000ā\x0001\x0000 used\xfffeMoonlight!
-The foe's \xf000ā\x0001\x0000 used\xfffeMoonlight!
-\xf000ā\x0001\x0000 used\xfffeHidden Power!
-The wild \xf000ā\x0001\x0000 used\xfffeHidden Power!
-The foe's \xf000ā\x0001\x0000 used\xfffeHidden Power!
-\xf000ā\x0001\x0000 used\xfffeCross Chop!
-The wild \xf000ā\x0001\x0000 used\xfffeCross Chop!
-The foe's \xf000ā\x0001\x0000 used\xfffeCross Chop!
-\xf000ā\x0001\x0000 used\xfffeTwister!
-The wild \xf000ā\x0001\x0000 used\xfffeTwister!
-The foe's \xf000ā\x0001\x0000 used\xfffeTwister!
-\xf000ā\x0001\x0000 used\xfffeRain Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeRain Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeRain Dance!
-\xf000ā\x0001\x0000 used\xfffeSunny Day!
-The wild \xf000ā\x0001\x0000 used\xfffeSunny Day!
-The foe's \xf000ā\x0001\x0000 used\xfffeSunny Day!
-\xf000ā\x0001\x0000 used\xfffeCrunch!
-The wild \xf000ā\x0001\x0000 used\xfffeCrunch!
-The foe's \xf000ā\x0001\x0000 used\xfffeCrunch!
-\xf000ā\x0001\x0000 used\xfffeMirror Coat!
-The wild \xf000ā\x0001\x0000 used\xfffeMirror Coat!
-The foe's \xf000ā\x0001\x0000 used\xfffeMirror Coat!
-\xf000ā\x0001\x0000 used\xfffePsych Up!
-The wild \xf000ā\x0001\x0000 used\xfffePsych Up!
-The foe's \xf000ā\x0001\x0000 used\xfffePsych Up!
-\xf000ā\x0001\x0000 used\xfffeExtremeSpeed!
-The wild \xf000ā\x0001\x0000 used\xfffeExtremeSpeed!
-The foe's \xf000ā\x0001\x0000 used\xfffeExtremeSpeed!
-\xf000ā\x0001\x0000 used\xfffeAncientPower!
-The wild \xf000ā\x0001\x0000 used\xfffeAncientPower!
-The foe's \xf000ā\x0001\x0000 used\xfffeAncientPower!
-\xf000ā\x0001\x0000 used\xfffeShadow Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeShadow Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeShadow Ball!
-\xf000ā\x0001\x0000 used\xfffeFuture Sight!
-The wild \xf000ā\x0001\x0000 used\xfffeFuture Sight!
-The foe's \xf000ā\x0001\x0000 used\xfffeFuture Sight!
-\xf000ā\x0001\x0000 used\xfffeRock Smash!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Smash!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Smash!
-\xf000ā\x0001\x0000 used\xfffeWhirlpool!
-The wild \xf000ā\x0001\x0000 used\xfffeWhirlpool!
-The foe's \xf000ā\x0001\x0000 used\xfffeWhirlpool!
-\xf000ā\x0001\x0000 used\xfffeBeat Up!
-The wild \xf000ā\x0001\x0000 used\xfffeBeat Up!
-The foe's \xf000ā\x0001\x0000 used\xfffeBeat Up!
-\xf000ā\x0001\x0000 used\xfffeFake Out!
-The wild \xf000ā\x0001\x0000 used\xfffeFake Out!
-The foe's \xf000ā\x0001\x0000 used\xfffeFake Out!
-\xf000ā\x0001\x0000 used\xfffeUproar!
-The wild \xf000ā\x0001\x0000 used\xfffeUproar!
-The foe's \xf000ā\x0001\x0000 used\xfffeUproar!
-\xf000ā\x0001\x0000 used\xfffeStockpile!
-The wild \xf000ā\x0001\x0000 used\xfffeStockpile!
-The foe's \xf000ā\x0001\x0000 used\xfffeStockpile!
-\xf000ā\x0001\x0000 used\xfffeSpit Up!
-The wild \xf000ā\x0001\x0000 used\xfffeSpit Up!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpit Up!
-\xf000ā\x0001\x0000 used\xfffeSwallow!
-The wild \xf000ā\x0001\x0000 used\xfffeSwallow!
-The foe's \xf000ā\x0001\x0000 used\xfffeSwallow!
-\xf000ā\x0001\x0000 used\xfffeHeat Wave!
-The wild \xf000ā\x0001\x0000 used\xfffeHeat Wave!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeat Wave!
-\xf000ā\x0001\x0000 used\xfffeHail!
-The wild \xf000ā\x0001\x0000 used\xfffeHail!
-The foe's \xf000ā\x0001\x0000 used\xfffeHail!
-\xf000ā\x0001\x0000 used\xfffeTorment!
-The wild \xf000ā\x0001\x0000 used\xfffeTorment!
-The foe's \xf000ā\x0001\x0000 used\xfffeTorment!
-\xf000ā\x0001\x0000 used\xfffeFlatter!
-The wild \xf000ā\x0001\x0000 used\xfffeFlatter!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlatter!
-\xf000ā\x0001\x0000 used\xfffeWill-O-Wisp!
-The wild \xf000ā\x0001\x0000 used\xfffeWill-O-Wisp!
-The foe's \xf000ā\x0001\x0000 used\xfffeWill-O-Wisp!
-\xf000ā\x0001\x0000 used\xfffeMemento!
-The wild \xf000ā\x0001\x0000 used\xfffeMemento!
-The foe's \xf000ā\x0001\x0000 used\xfffeMemento!
-\xf000ā\x0001\x0000 used\xfffeFacade!
-The wild \xf000ā\x0001\x0000 used\xfffeFacade!
-The foe's \xf000ā\x0001\x0000 used\xfffeFacade!
-\xf000ā\x0001\x0000 used\xfffeFocus Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeFocus Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeFocus Punch!
-\xf000ā\x0001\x0000 used\xfffeSmellingSalt!
-The wild \xf000ā\x0001\x0000 used\xfffeSmellingSalt!
-The foe's \xf000ā\x0001\x0000 used\xfffeSmellingSalt!
-\xf000ā\x0001\x0000 used\xfffeFollow Me!
-The wild \xf000ā\x0001\x0000 used\xfffeFollow Me!
-The foe's \xf000ā\x0001\x0000 used\xfffeFollow Me!
-\xf000ā\x0001\x0000 used\xfffeNature Power!
-The wild \xf000ā\x0001\x0000 used\xfffeNature Power!
-The foe's \xf000ā\x0001\x0000 used\xfffeNature Power!
-\xf000ā\x0001\x0000 used\xfffeCharge!
-The wild \xf000ā\x0001\x0000 used\xfffeCharge!
-The foe's \xf000ā\x0001\x0000 used\xfffeCharge!
-\xf000ā\x0001\x0000 used\xfffeTaunt!
-The wild \xf000ā\x0001\x0000 used\xfffeTaunt!
-The foe's \xf000ā\x0001\x0000 used\xfffeTaunt!
-\xf000ā\x0001\x0000 used\xfffeHelping Hand!
-The wild \xf000ā\x0001\x0000 used\xfffeHelping Hand!
-The foe's \xf000ā\x0001\x0000 used\xfffeHelping Hand!
-\xf000ā\x0001\x0000 used\xfffeTrick!
-The wild \xf000ā\x0001\x0000 used\xfffeTrick!
-The foe's \xf000ā\x0001\x0000 used\xfffeTrick!
-\xf000ā\x0001\x0000 used\xfffeRole Play!
-The wild \xf000ā\x0001\x0000 used\xfffeRole Play!
-The foe's \xf000ā\x0001\x0000 used\xfffeRole Play!
-\xf000ā\x0001\x0000 used\xfffeWish!
-The wild \xf000ā\x0001\x0000 used\xfffeWish!
-The foe's \xf000ā\x0001\x0000 used\xfffeWish!
-\xf000ā\x0001\x0000 used\xfffeAssist!
-The wild \xf000ā\x0001\x0000 used\xfffeAssist!
-The foe's \xf000ā\x0001\x0000 used\xfffeAssist!
-\xf000ā\x0001\x0000 used\xfffeIngrain!
-The wild \xf000ā\x0001\x0000 used\xfffeIngrain!
-The foe's \xf000ā\x0001\x0000 used\xfffeIngrain!
-\xf000ā\x0001\x0000 used\xfffeSuperpower!
-The wild \xf000ā\x0001\x0000 used\xfffeSuperpower!
-The foe's \xf000ā\x0001\x0000 used\xfffeSuperpower!
-\xf000ā\x0001\x0000 used\xfffeMagic Coat!
-The wild \xf000ā\x0001\x0000 used\xfffeMagic Coat!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagic Coat!
-\xf000ā\x0001\x0000 used\xfffeRecycle!
-The wild \xf000ā\x0001\x0000 used\xfffeRecycle!
-The foe's \xf000ā\x0001\x0000 used\xfffeRecycle!
-\xf000ā\x0001\x0000 used\xfffeRevenge!
-The wild \xf000ā\x0001\x0000 used\xfffeRevenge!
-The foe's \xf000ā\x0001\x0000 used\xfffeRevenge!
-\xf000ā\x0001\x0000 used\xfffeBrick Break!
-The wild \xf000ā\x0001\x0000 used\xfffeBrick Break!
-The foe's \xf000ā\x0001\x0000 used\xfffeBrick Break!
-\xf000ā\x0001\x0000 used\xfffeYawn!
-The wild \xf000ā\x0001\x0000 used\xfffeYawn!
-The foe's \xf000ā\x0001\x0000 used\xfffeYawn!
-\xf000ā\x0001\x0000 used\xfffeKnock Off!
-The wild \xf000ā\x0001\x0000 used\xfffeKnock Off!
-The foe's \xf000ā\x0001\x0000 used\xfffeKnock Off!
-\xf000ā\x0001\x0000 used\xfffeEndeavor!
-The wild \xf000ā\x0001\x0000 used\xfffeEndeavor!
-The foe's \xf000ā\x0001\x0000 used\xfffeEndeavor!
-\xf000ā\x0001\x0000 used\xfffeEruption!
-The wild \xf000ā\x0001\x0000 used\xfffeEruption!
-The foe's \xf000ā\x0001\x0000 used\xfffeEruption!
-\xf000ā\x0001\x0000 used\xfffeSkill Swap!
-The wild \xf000ā\x0001\x0000 used\xfffeSkill Swap!
-The foe's \xf000ā\x0001\x0000 used\xfffeSkill Swap!
-\xf000ā\x0001\x0000 used\xfffeImprison!
-The wild \xf000ā\x0001\x0000 used\xfffeImprison!
-The foe's \xf000ā\x0001\x0000 used\xfffeImprison!
-\xf000ā\x0001\x0000 used\xfffeRefresh!
-The wild \xf000ā\x0001\x0000 used\xfffeRefresh!
-The foe's \xf000ā\x0001\x0000 used\xfffeRefresh!
-\xf000ā\x0001\x0000 used\xfffeGrudge!
-The wild \xf000ā\x0001\x0000 used\xfffeGrudge!
-The foe's \xf000ā\x0001\x0000 used\xfffeGrudge!
-\xf000ā\x0001\x0000 used\xfffeSnatch!
-The wild \xf000ā\x0001\x0000 used\xfffeSnatch!
-The foe's \xf000ā\x0001\x0000 used\xfffeSnatch!
-\xf000ā\x0001\x0000 used\xfffeSecret Power!
-The wild \xf000ā\x0001\x0000 used\xfffeSecret Power!
-The foe's \xf000ā\x0001\x0000 used\xfffeSecret Power!
-\xf000ā\x0001\x0000 used\xfffeDive!
-The wild \xf000ā\x0001\x0000 used\xfffeDive!
-The foe's \xf000ā\x0001\x0000 used\xfffeDive!
-\xf000ā\x0001\x0000 used\xfffeArm Thrust!
-The wild \xf000ā\x0001\x0000 used\xfffeArm Thrust!
-The foe's \xf000ā\x0001\x0000 used\xfffeArm Thrust!
-\xf000ā\x0001\x0000 used\xfffeCamouflage!
-The wild \xf000ā\x0001\x0000 used\xfffeCamouflage!
-The foe's \xf000ā\x0001\x0000 used\xfffeCamouflage!
-\xf000ā\x0001\x0000 used\xfffeTail Glow!
-The wild \xf000ā\x0001\x0000 used\xfffeTail Glow!
-The foe's \xf000ā\x0001\x0000 used\xfffeTail Glow!
-\xf000ā\x0001\x0000 used\xfffeLuster Purge!
-The wild \xf000ā\x0001\x0000 used\xfffeLuster Purge!
-The foe's \xf000ā\x0001\x0000 used\xfffeLuster Purge!
-\xf000ā\x0001\x0000 used\xfffeMist Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeMist Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeMist Ball!
-\xf000ā\x0001\x0000 used\xfffeFeatherDance!
-The wild \xf000ā\x0001\x0000 used\xfffeFeatherDance!
-The foe's \xf000ā\x0001\x0000 used\xfffeFeatherDance!
-\xf000ā\x0001\x0000 used\xfffeTeeter Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeTeeter Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeTeeter Dance!
-\xf000ā\x0001\x0000 used\xfffeBlaze Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeBlaze Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeBlaze Kick!
-\xf000ā\x0001\x0000 used\xfffeMud Sport!
-The wild \xf000ā\x0001\x0000 used\xfffeMud Sport!
-The foe's \xf000ā\x0001\x0000 used\xfffeMud Sport!
-\xf000ā\x0001\x0000 used\xfffeIce Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeIce Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeIce Ball!
-\xf000ā\x0001\x0000 used\xfffeNeedle Arm!
-The wild \xf000ā\x0001\x0000 used\xfffeNeedle Arm!
-The foe's \xf000ā\x0001\x0000 used\xfffeNeedle Arm!
-\xf000ā\x0001\x0000 used\xfffeSlack Off!
-The wild \xf000ā\x0001\x0000 used\xfffeSlack Off!
-The foe's \xf000ā\x0001\x0000 used\xfffeSlack Off!
-\xf000ā\x0001\x0000 used\xfffeHyper Voice!
-The wild \xf000ā\x0001\x0000 used\xfffeHyper Voice!
-The foe's \xf000ā\x0001\x0000 used\xfffeHyper Voice!
-\xf000ā\x0001\x0000 used\xfffePoison Fang!
-The wild \xf000ā\x0001\x0000 used\xfffePoison Fang!
-The foe's \xf000ā\x0001\x0000 used\xfffePoison Fang!
-\xf000ā\x0001\x0000 used\xfffeCrush Claw!
-The wild \xf000ā\x0001\x0000 used\xfffeCrush Claw!
-The foe's \xf000ā\x0001\x0000 used\xfffeCrush Claw!
-\xf000ā\x0001\x0000 used\xfffeBlast Burn!
-The wild \xf000ā\x0001\x0000 used\xfffeBlast Burn!
-The foe's \xf000ā\x0001\x0000 used\xfffeBlast Burn!
-\xf000ā\x0001\x0000 used\xfffeHydro Cannon!
-The wild \xf000ā\x0001\x0000 used\xfffeHydro Cannon!
-The foe's \xf000ā\x0001\x0000 used\xfffeHydro Cannon!
-\xf000ā\x0001\x0000 used\xfffeMeteor Mash!
-The wild \xf000ā\x0001\x0000 used\xfffeMeteor Mash!
-The foe's \xf000ā\x0001\x0000 used\xfffeMeteor Mash!
-\xf000ā\x0001\x0000 used\xfffeAstonish!
-The wild \xf000ā\x0001\x0000 used\xfffeAstonish!
-The foe's \xf000ā\x0001\x0000 used\xfffeAstonish!
-\xf000ā\x0001\x0000 used\xfffeWeather Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeWeather Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeWeather Ball!
-\xf000ā\x0001\x0000 used\xfffeAromatherapy!
-The wild \xf000ā\x0001\x0000 used\xfffeAromatherapy!
-The foe's \xf000ā\x0001\x0000 used\xfffeAromatherapy!
-\xf000ā\x0001\x0000 used\xfffeFake Tears!
-The wild \xf000ā\x0001\x0000 used\xfffeFake Tears!
-The foe's \xf000ā\x0001\x0000 used\xfffeFake Tears!
-\xf000ā\x0001\x0000 used\xfffeAir Cutter!
-The wild \xf000ā\x0001\x0000 used\xfffeAir Cutter!
-The foe's \xf000ā\x0001\x0000 used\xfffeAir Cutter!
-\xf000ā\x0001\x0000 used\xfffeOverheat!
-The wild \xf000ā\x0001\x0000 used\xfffeOverheat!
-The foe's \xf000ā\x0001\x0000 used\xfffeOverheat!
-\xf000ā\x0001\x0000 used\xfffeOdor Sleuth!
-The wild \xf000ā\x0001\x0000 used\xfffeOdor Sleuth!
-The foe's \xf000ā\x0001\x0000 used\xfffeOdor Sleuth!
-\xf000ā\x0001\x0000 used\xfffeRock Tomb!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Tomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Tomb!
-\xf000ā\x0001\x0000 used\xfffeSilver Wind!
-The wild \xf000ā\x0001\x0000 used\xfffeSilver Wind!
-The foe's \xf000ā\x0001\x0000 used\xfffeSilver Wind!
-\xf000ā\x0001\x0000 used\xfffeMetal Sound!
-The wild \xf000ā\x0001\x0000 used\xfffeMetal Sound!
-The foe's \xf000ā\x0001\x0000 used\xfffeMetal Sound!
-\xf000ā\x0001\x0000 used\xfffeGrassWhistle!
-The wild \xf000ā\x0001\x0000 used\xfffeGrassWhistle!
-The foe's \xf000ā\x0001\x0000 used\xfffeGrassWhistle!
-\xf000ā\x0001\x0000 used\xfffeTickle!
-The wild \xf000ā\x0001\x0000 used\xfffeTickle!
-The foe's \xf000ā\x0001\x0000 used\xfffeTickle!
-\xf000ā\x0001\x0000 used\xfffeCosmic Power!
-The wild \xf000ā\x0001\x0000 used\xfffeCosmic Power!
-The foe's \xf000ā\x0001\x0000 used\xfffeCosmic Power!
-\xf000ā\x0001\x0000 used\xfffeWater Spout!
-The wild \xf000ā\x0001\x0000 used\xfffeWater Spout!
-The foe's \xf000ā\x0001\x0000 used\xfffeWater Spout!
-\xf000ā\x0001\x0000 used\xfffeSignal Beam!
-The wild \xf000ā\x0001\x0000 used\xfffeSignal Beam!
-The foe's \xf000ā\x0001\x0000 used\xfffeSignal Beam!
-\xf000ā\x0001\x0000 used\xfffeShadow Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeShadow Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeShadow Punch!
-\xf000ā\x0001\x0000 used\xfffeExtrasensory!
-The wild \xf000ā\x0001\x0000 used\xfffeExtrasensory!
-The foe's \xf000ā\x0001\x0000 used\xfffeExtrasensory!
-\xf000ā\x0001\x0000 used\xfffeSky Uppercut!
-The wild \xf000ā\x0001\x0000 used\xfffeSky Uppercut!
-The foe's \xf000ā\x0001\x0000 used\xfffeSky Uppercut!
-\xf000ā\x0001\x0000 used\xfffeSand Tomb!
-The wild \xf000ā\x0001\x0000 used\xfffeSand Tomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeSand Tomb!
-\xf000ā\x0001\x0000 used\xfffeSheer Cold!
-The wild \xf000ā\x0001\x0000 used\xfffeSheer Cold!
-The foe's \xf000ā\x0001\x0000 used\xfffeSheer Cold!
-\xf000ā\x0001\x0000 used\xfffeMuddy Water!
-The wild \xf000ā\x0001\x0000 used\xfffeMuddy Water!
-The foe's \xf000ā\x0001\x0000 used\xfffeMuddy Water!
-\xf000ā\x0001\x0000 used\xfffeBullet Seed!
-The wild \xf000ā\x0001\x0000 used\xfffeBullet Seed!
-The foe's \xf000ā\x0001\x0000 used\xfffeBullet Seed!
-\xf000ā\x0001\x0000 used\xfffeAerial Ace!
-The wild \xf000ā\x0001\x0000 used\xfffeAerial Ace!
-The foe's \xf000ā\x0001\x0000 used\xfffeAerial Ace!
-\xf000ā\x0001\x0000 used\xfffeIcicle Spear!
-The wild \xf000ā\x0001\x0000 used\xfffeIcicle Spear!
-The foe's \xf000ā\x0001\x0000 used\xfffeIcicle Spear!
-\xf000ā\x0001\x0000 used\xfffeIron Defense!
-The wild \xf000ā\x0001\x0000 used\xfffeIron Defense!
-The foe's \xf000ā\x0001\x0000 used\xfffeIron Defense!
-\xf000ā\x0001\x0000 used\xfffeBlock!
-The wild \xf000ā\x0001\x0000 used\xfffeBlock!
-The foe's \xf000ā\x0001\x0000 used\xfffeBlock!
-\xf000ā\x0001\x0000 used\xfffeHowl!
-The wild \xf000ā\x0001\x0000 used\xfffeHowl!
-The foe's \xf000ā\x0001\x0000 used\xfffeHowl!
-\xf000ā\x0001\x0000 used\xfffeDragon Claw!
-The wild \xf000ā\x0001\x0000 used\xfffeDragon Claw!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragon Claw!
-\xf000ā\x0001\x0000 used\xfffeFrenzy Plant!
-The wild \xf000ā\x0001\x0000 used\xfffeFrenzy Plant!
-The foe's \xf000ā\x0001\x0000 used\xfffeFrenzy Plant!
-\xf000ā\x0001\x0000 used\xfffeBulk Up!
-The wild \xf000ā\x0001\x0000 used\xfffeBulk Up!
-The foe's \xf000ā\x0001\x0000 used\xfffeBulk Up!
-\xf000ā\x0001\x0000 used\xfffeBounce!
-The wild \xf000ā\x0001\x0000 used\xfffeBounce!
-The foe's \xf000ā\x0001\x0000 used\xfffeBounce!
-\xf000ā\x0001\x0000 used\xfffeMud Shot!
-The wild \xf000ā\x0001\x0000 used\xfffeMud Shot!
-The foe's \xf000ā\x0001\x0000 used\xfffeMud Shot!
-\xf000ā\x0001\x0000 used\xfffePoison Tail!
-The wild \xf000ā\x0001\x0000 used\xfffePoison Tail!
-The foe's \xf000ā\x0001\x0000 used\xfffePoison Tail!
-\xf000ā\x0001\x0000 used\xfffeCovet!
-The wild \xf000ā\x0001\x0000 used\xfffeCovet!
-The foe's \xf000ā\x0001\x0000 used\xfffeCovet!
-\xf000ā\x0001\x0000 used\xfffeVolt Tackle!
-The wild \xf000ā\x0001\x0000 used\xfffeVolt Tackle!
-The foe's \xf000ā\x0001\x0000 used\xfffeVolt Tackle!
-\xf000ā\x0001\x0000 used\xfffeMagical Leaf!
-The wild \xf000ā\x0001\x0000 used\xfffeMagical Leaf!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagical Leaf!
-\xf000ā\x0001\x0000 used\xfffeWater Sport!
-The wild \xf000ā\x0001\x0000 used\xfffeWater Sport!
-The foe's \xf000ā\x0001\x0000 used\xfffeWater Sport!
-\xf000ā\x0001\x0000 used\xfffeCalm Mind!
-The wild \xf000ā\x0001\x0000 used\xfffeCalm Mind!
-The foe's \xf000ā\x0001\x0000 used\xfffeCalm Mind!
-\xf000ā\x0001\x0000 used\xfffeLeaf Blade!
-The wild \xf000ā\x0001\x0000 used\xfffeLeaf Blade!
-The foe's \xf000ā\x0001\x0000 used\xfffeLeaf Blade!
-\xf000ā\x0001\x0000 used\xfffeDragon Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeDragon Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragon Dance!
-\xf000ā\x0001\x0000 used\xfffeRock Blast!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Blast!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Blast!
-\xf000ā\x0001\x0000 used\xfffeShock Wave!
-The wild \xf000ā\x0001\x0000 used\xfffeShock Wave!
-The foe's \xf000ā\x0001\x0000 used\xfffeShock Wave!
-\xf000ā\x0001\x0000 used\xfffeWater Pulse!
-The wild \xf000ā\x0001\x0000 used\xfffeWater Pulse!
-The foe's \xf000ā\x0001\x0000 used\xfffeWater Pulse!
-\xf000ā\x0001\x0000 used\xfffeDoom Desire!
-The wild \xf000ā\x0001\x0000 used\xfffeDoom Desire!
-The foe's \xf000ā\x0001\x0000 used\xfffeDoom Desire!
-\xf000ā\x0001\x0000 used\xfffePsycho Boost!
-The wild \xf000ā\x0001\x0000 used\xfffePsycho Boost!
-The foe's \xf000ā\x0001\x0000 used\xfffePsycho Boost!
-\xf000ā\x0001\x0000 used\xfffeRoost!
-The wild \xf000ā\x0001\x0000 used\xfffeRoost!
-The foe's \xf000ā\x0001\x0000 used\xfffeRoost!
-\xf000ā\x0001\x0000 used\xfffeGravity!
-The wild \xf000ā\x0001\x0000 used\xfffeGravity!
-The foe's \xf000ā\x0001\x0000 used\xfffeGravity!
-\xf000ā\x0001\x0000 used\xfffeMiracle Eye!
-The wild \xf000ā\x0001\x0000 used\xfffeMiracle Eye!
-The foe's \xf000ā\x0001\x0000 used\xfffeMiracle Eye!
-\xf000ā\x0001\x0000 used\xfffeWake-Up Slap!
-The wild \xf000ā\x0001\x0000 used\xfffeWake-Up Slap!
-The foe's \xf000ā\x0001\x0000 used\xfffeWake-Up Slap!
-\xf000ā\x0001\x0000 used\xfffeHammer Arm!
-The wild \xf000ā\x0001\x0000 used\xfffeHammer Arm!
-The foe's \xf000ā\x0001\x0000 used\xfffeHammer Arm!
-\xf000ā\x0001\x0000 used\xfffeGyro Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeGyro Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeGyro Ball!
-\xf000ā\x0001\x0000 used\xfffeHealing Wish!
-The wild \xf000ā\x0001\x0000 used\xfffeHealing Wish!
-The foe's \xf000ā\x0001\x0000 used\xfffeHealing Wish!
-\xf000ā\x0001\x0000 used\xfffeBrine!
-The wild \xf000ā\x0001\x0000 used\xfffeBrine!
-The foe's \xf000ā\x0001\x0000 used\xfffeBrine!
-\xf000ā\x0001\x0000 used\xfffeNatural Gift!
-The wild \xf000ā\x0001\x0000 used\xfffeNatural Gift!
-The foe's \xf000ā\x0001\x0000 used\xfffeNatural Gift!
-\xf000ā\x0001\x0000 used\xfffeFeint!
-The wild \xf000ā\x0001\x0000 used\xfffeFeint!
-The foe's \xf000ā\x0001\x0000 used\xfffeFeint!
-\xf000ā\x0001\x0000 used\xfffePluck!
-The wild \xf000ā\x0001\x0000 used\xfffePluck!
-The foe's \xf000ā\x0001\x0000 used\xfffePluck!
-\xf000ā\x0001\x0000 used\xfffeTailwind!
-The wild \xf000ā\x0001\x0000 used\xfffeTailwind!
-The foe's \xf000ā\x0001\x0000 used\xfffeTailwind!
-\xf000ā\x0001\x0000 used\xfffeAcupressure!
-The wild \xf000ā\x0001\x0000 used\xfffeAcupressure!
-The foe's \xf000ā\x0001\x0000 used\xfffeAcupressure!
-\xf000ā\x0001\x0000 used\xfffeMetal Burst!
-The wild \xf000ā\x0001\x0000 used\xfffeMetal Burst!
-The foe's \xf000ā\x0001\x0000 used\xfffeMetal Burst!
-\xf000ā\x0001\x0000 used\xfffeU-turn!
-The wild \xf000ā\x0001\x0000 used\xfffeU-turn!
-The foe's \xf000ā\x0001\x0000 used\xfffeU-turn!
-\xf000ā\x0001\x0000 used\xfffeClose Combat!
-The wild \xf000ā\x0001\x0000 used\xfffeClose Combat!
-The foe's \xf000ā\x0001\x0000 used\xfffeClose Combat!
-\xf000ā\x0001\x0000 used\xfffePayback!
-The wild \xf000ā\x0001\x0000 used\xfffePayback!
-The foe's \xf000ā\x0001\x0000 used\xfffePayback!
-\xf000ā\x0001\x0000 used\xfffeAssurance!
-The wild \xf000ā\x0001\x0000 used\xfffeAssurance!
-The foe's \xf000ā\x0001\x0000 used\xfffeAssurance!
-\xf000ā\x0001\x0000 used\xfffeEmbargo!
-The wild \xf000ā\x0001\x0000 used\xfffeEmbargo!
-The foe's \xf000ā\x0001\x0000 used\xfffeEmbargo!
-\xf000ā\x0001\x0000 used\xfffeFling!
-The wild \xf000ā\x0001\x0000 used\xfffeFling!
-The foe's \xf000ā\x0001\x0000 used\xfffeFling!
-\xf000ā\x0001\x0000 used\xfffePsycho Shift!
-The wild \xf000ā\x0001\x0000 used\xfffePsycho Shift!
-The foe's \xf000ā\x0001\x0000 used\xfffePsycho Shift!
-\xf000ā\x0001\x0000 used\xfffeTrump Card!
-The wild \xf000ā\x0001\x0000 used\xfffeTrump Card!
-The foe's \xf000ā\x0001\x0000 used\xfffeTrump Card!
-\xf000ā\x0001\x0000 used\xfffeHeal Block!
-The wild \xf000ā\x0001\x0000 used\xfffeHeal Block!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeal Block!
-\xf000ā\x0001\x0000 used\xfffeWring Out!
-The wild \xf000ā\x0001\x0000 used\xfffeWring Out!
-The foe's \xf000ā\x0001\x0000 used\xfffeWring Out!
-\xf000ā\x0001\x0000 used\xfffePower Trick!
-The wild \xf000ā\x0001\x0000 used\xfffePower Trick!
-The foe's \xf000ā\x0001\x0000 used\xfffePower Trick!
-\xf000ā\x0001\x0000 used\xfffeGastro Acid!
-The wild \xf000ā\x0001\x0000 used\xfffeGastro Acid!
-The foe's \xf000ā\x0001\x0000 used\xfffeGastro Acid!
-\xf000ā\x0001\x0000 used\xfffeLucky Chant!
-The wild \xf000ā\x0001\x0000 used\xfffeLucky Chant!
-The foe's \xf000ā\x0001\x0000 used\xfffeLucky Chant!
-\xf000ā\x0001\x0000 used\xfffeMe First!
-The wild \xf000ā\x0001\x0000 used\xfffeMe First!
-The foe's \xf000ā\x0001\x0000 used\xfffeMe First!
-\xf000ā\x0001\x0000 used\xfffeCopycat!
-The wild \xf000ā\x0001\x0000 used\xfffeCopycat!
-The foe's \xf000ā\x0001\x0000 used\xfffeCopycat!
-\xf000ā\x0001\x0000 used\xfffePower Swap!
-The wild \xf000ā\x0001\x0000 used\xfffePower Swap!
-The foe's \xf000ā\x0001\x0000 used\xfffePower Swap!
-\xf000ā\x0001\x0000 used\xfffeGuard Swap!
-The wild \xf000ā\x0001\x0000 used\xfffeGuard Swap!
-The foe's \xf000ā\x0001\x0000 used\xfffeGuard Swap!
-\xf000ā\x0001\x0000 used\xfffePunishment!
-The wild \xf000ā\x0001\x0000 used\xfffePunishment!
-The foe's \xf000ā\x0001\x0000 used\xfffePunishment!
-\xf000ā\x0001\x0000 used\xfffeLast Resort!
-The wild \xf000ā\x0001\x0000 used\xfffeLast Resort!
-The foe's \xf000ā\x0001\x0000 used\xfffeLast Resort!
-\xf000ā\x0001\x0000 used\xfffeWorry Seed!
-The wild \xf000ā\x0001\x0000 used\xfffeWorry Seed!
-The foe's \xf000ā\x0001\x0000 used\xfffeWorry Seed!
-\xf000ā\x0001\x0000 used\xfffeSucker Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeSucker Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeSucker Punch!
-\xf000ā\x0001\x0000 used\xfffeToxic Spikes!
-The wild \xf000ā\x0001\x0000 used\xfffeToxic Spikes!
-The foe's \xf000ā\x0001\x0000 used\xfffeToxic Spikes!
-\xf000ā\x0001\x0000 used\xfffeHeart Swap!
-The wild \xf000ā\x0001\x0000 used\xfffeHeart Swap!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeart Swap!
-\xf000ā\x0001\x0000 used\xfffeAqua Ring!
-The wild \xf000ā\x0001\x0000 used\xfffeAqua Ring!
-The foe's \xf000ā\x0001\x0000 used\xfffeAqua Ring!
-\xf000ā\x0001\x0000 used\xfffeMagnet Rise!
-The wild \xf000ā\x0001\x0000 used\xfffeMagnet Rise!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagnet Rise!
-\xf000ā\x0001\x0000 used\xfffeFlare Blitz!
-The wild \xf000ā\x0001\x0000 used\xfffeFlare Blitz!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlare Blitz!
-\xf000ā\x0001\x0000 used\xfffeForce Palm!
-The wild \xf000ā\x0001\x0000 used\xfffeForce Palm!
-The foe's \xf000ā\x0001\x0000 used\xfffeForce Palm!
-\xf000ā\x0001\x0000 used\xfffeAura Sphere!
-The wild \xf000ā\x0001\x0000 used\xfffeAura Sphere!
-The foe's \xf000ā\x0001\x0000 used\xfffeAura Sphere!
-\xf000ā\x0001\x0000 used\xfffeRock Polish!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Polish!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Polish!
-\xf000ā\x0001\x0000 used\xfffePoison Jab!
-The wild \xf000ā\x0001\x0000 used\xfffePoison Jab!
-The foe's \xf000ā\x0001\x0000 used\xfffePoison Jab!
-\xf000ā\x0001\x0000 used\xfffeDark Pulse!
-The wild \xf000ā\x0001\x0000 used\xfffeDark Pulse!
-The foe's \xf000ā\x0001\x0000 used\xfffeDark Pulse!
-\xf000ā\x0001\x0000 used\xfffeNight Slash!
-The wild \xf000ā\x0001\x0000 used\xfffeNight Slash!
-The foe's \xf000ā\x0001\x0000 used\xfffeNight Slash!
-\xf000ā\x0001\x0000 used\xfffeAqua Tail!
-The wild \xf000ā\x0001\x0000 used\xfffeAqua Tail!
-The foe's \xf000ā\x0001\x0000 used\xfffeAqua Tail!
-\xf000ā\x0001\x0000 used\xfffeSeed Bomb!
-The wild \xf000ā\x0001\x0000 used\xfffeSeed Bomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeSeed Bomb!
-\xf000ā\x0001\x0000 used\xfffeAir Slash!
-The wild \xf000ā\x0001\x0000 used\xfffeAir Slash!
-The foe's \xf000ā\x0001\x0000 used\xfffeAir Slash!
-\xf000ā\x0001\x0000 used\xfffeX-Scissor!
-The wild \xf000ā\x0001\x0000 used\xfffeX-Scissor!
-The foe's \xf000ā\x0001\x0000 used\xfffeX-Scissor!
-\xf000ā\x0001\x0000 used\xfffeBug Buzz!
-The wild \xf000ā\x0001\x0000 used\xfffeBug Buzz!
-The foe's \xf000ā\x0001\x0000 used\xfffeBug Buzz!
-\xf000ā\x0001\x0000 used\xfffeDragon Pulse!
-The wild \xf000ā\x0001\x0000 used\xfffeDragon Pulse!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragon Pulse!
-\xf000ā\x0001\x0000 used\xfffeDragon Rush!
-The wild \xf000ā\x0001\x0000 used\xfffeDragon Rush!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragon Rush!
-\xf000ā\x0001\x0000 used\xfffePower Gem!
-The wild \xf000ā\x0001\x0000 used\xfffePower Gem!
-The foe's \xf000ā\x0001\x0000 used\xfffePower Gem!
-\xf000ā\x0001\x0000 used\xfffeDrain Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeDrain Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeDrain Punch!
-\xf000ā\x0001\x0000 used\xfffeVacuum Wave!
-The wild \xf000ā\x0001\x0000 used\xfffeVacuum Wave!
-The foe's \xf000ā\x0001\x0000 used\xfffeVacuum Wave!
-\xf000ā\x0001\x0000 used\xfffeFocus Blast!
-The wild \xf000ā\x0001\x0000 used\xfffeFocus Blast!
-The foe's \xf000ā\x0001\x0000 used\xfffeFocus Blast!
-\xf000ā\x0001\x0000 used\xfffeEnergy Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeEnergy Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeEnergy Ball!
-\xf000ā\x0001\x0000 used\xfffeBrave Bird!
-The wild \xf000ā\x0001\x0000 used\xfffeBrave Bird!
-The foe's \xf000ā\x0001\x0000 used\xfffeBrave Bird!
-\xf000ā\x0001\x0000 used\xfffeEarth Power!
-The wild \xf000ā\x0001\x0000 used\xfffeEarth Power!
-The foe's \xf000ā\x0001\x0000 used\xfffeEarth Power!
-\xf000ā\x0001\x0000 used\xfffeSwitcheroo!
-The wild \xf000ā\x0001\x0000 used\xfffeSwitcheroo!
-The foe's \xf000ā\x0001\x0000 used\xfffeSwitcheroo!
-\xf000ā\x0001\x0000 used\xfffeGiga Impact!
-The wild \xf000ā\x0001\x0000 used\xfffeGiga Impact!
-The foe's \xf000ā\x0001\x0000 used\xfffeGiga Impact!
-\xf000ā\x0001\x0000 used\xfffeNasty Plot!
-The wild \xf000ā\x0001\x0000 used\xfffeNasty Plot!
-The foe's \xf000ā\x0001\x0000 used\xfffeNasty Plot!
-\xf000ā\x0001\x0000 used\xfffeBullet Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeBullet Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeBullet Punch!
-\xf000ā\x0001\x0000 used\xfffeAvalanche!
-The wild \xf000ā\x0001\x0000 used\xfffeAvalanche!
-The foe's \xf000ā\x0001\x0000 used\xfffeAvalanche!
-\xf000ā\x0001\x0000 used\xfffeIce Shard!
-The wild \xf000ā\x0001\x0000 used\xfffeIce Shard!
-The foe's \xf000ā\x0001\x0000 used\xfffeIce Shard!
-\xf000ā\x0001\x0000 used\xfffeShadow Claw!
-The wild \xf000ā\x0001\x0000 used\xfffeShadow Claw!
-The foe's \xf000ā\x0001\x0000 used\xfffeShadow Claw!
-\xf000ā\x0001\x0000 used\xfffeThunder Fang!
-The wild \xf000ā\x0001\x0000 used\xfffeThunder Fang!
-The foe's \xf000ā\x0001\x0000 used\xfffeThunder Fang!
-\xf000ā\x0001\x0000 used\xfffeIce Fang!
-The wild \xf000ā\x0001\x0000 used\xfffeIce Fang!
-The foe's \xf000ā\x0001\x0000 used\xfffeIce Fang!
-\xf000ā\x0001\x0000 used\xfffeFire Fang!
-The wild \xf000ā\x0001\x0000 used\xfffeFire Fang!
-The foe's \xf000ā\x0001\x0000 used\xfffeFire Fang!
-\xf000ā\x0001\x0000 used\xfffeShadow Sneak!
-The wild \xf000ā\x0001\x0000 used\xfffeShadow Sneak!
-The foe's \xf000ā\x0001\x0000 used\xfffeShadow Sneak!
-\xf000ā\x0001\x0000 used\xfffeMud Bomb!
-The wild \xf000ā\x0001\x0000 used\xfffeMud Bomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeMud Bomb!
-\xf000ā\x0001\x0000 used\xfffePsycho Cut!
-The wild \xf000ā\x0001\x0000 used\xfffePsycho Cut!
-The foe's \xf000ā\x0001\x0000 used\xfffePsycho Cut!
-\xf000ā\x0001\x0000 used\xfffeZen Headbutt!
-The wild \xf000ā\x0001\x0000 used\xfffeZen Headbutt!
-The foe's \xf000ā\x0001\x0000 used\xfffeZen Headbutt!
-\xf000ā\x0001\x0000 used\xfffeMirror Shot!
-The wild \xf000ā\x0001\x0000 used\xfffeMirror Shot!
-The foe's \xf000ā\x0001\x0000 used\xfffeMirror Shot!
-\xf000ā\x0001\x0000 used\xfffeFlash Cannon!
-The wild \xf000ā\x0001\x0000 used\xfffeFlash Cannon!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlash Cannon!
-\xf000ā\x0001\x0000 used\xfffeRock Climb!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Climb!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Climb!
-\xf000ā\x0001\x0000 used\xfffeDefog!
-The wild \xf000ā\x0001\x0000 used\xfffeDefog!
-The foe's \xf000ā\x0001\x0000 used\xfffeDefog!
-\xf000ā\x0001\x0000 used\xfffeTrick Room!
-The wild \xf000ā\x0001\x0000 used\xfffeTrick Room!
-The foe's \xf000ā\x0001\x0000 used\xfffeTrick Room!
-\xf000ā\x0001\x0000 used\xfffeDraco Meteor!
-The wild \xf000ā\x0001\x0000 used\xfffeDraco Meteor!
-The foe's \xf000ā\x0001\x0000 used\xfffeDraco Meteor!
-\xf000ā\x0001\x0000 used\xfffeDischarge!
-The wild \xf000ā\x0001\x0000 used\xfffeDischarge!
-The foe's \xf000ā\x0001\x0000 used\xfffeDischarge!
-\xf000ā\x0001\x0000 used\xfffeLava Plume!
-The wild \xf000ā\x0001\x0000 used\xfffeLava Plume!
-The foe's \xf000ā\x0001\x0000 used\xfffeLava Plume!
-\xf000ā\x0001\x0000 used\xfffeLeaf Storm!
-The wild \xf000ā\x0001\x0000 used\xfffeLeaf Storm!
-The foe's \xf000ā\x0001\x0000 used\xfffeLeaf Storm!
-\xf000ā\x0001\x0000 used\xfffePower Whip!
-The wild \xf000ā\x0001\x0000 used\xfffePower Whip!
-The foe's \xf000ā\x0001\x0000 used\xfffePower Whip!
-\xf000ā\x0001\x0000 used\xfffeRock Wrecker!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Wrecker!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Wrecker!
-\xf000ā\x0001\x0000 used\xfffeCross Poison!
-The wild \xf000ā\x0001\x0000 used\xfffeCross Poison!
-The foe's \xf000ā\x0001\x0000 used\xfffeCross Poison!
-\xf000ā\x0001\x0000 used\xfffeGunk Shot!
-The wild \xf000ā\x0001\x0000 used\xfffeGunk Shot!
-The foe's \xf000ā\x0001\x0000 used\xfffeGunk Shot!
-\xf000ā\x0001\x0000 used\xfffeIron Head!
-The wild \xf000ā\x0001\x0000 used\xfffeIron Head!
-The foe's \xf000ā\x0001\x0000 used\xfffeIron Head!
-\xf000ā\x0001\x0000 used\xfffeMagnet Bomb!
-The wild \xf000ā\x0001\x0000 used\xfffeMagnet Bomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagnet Bomb!
-\xf000ā\x0001\x0000 used\xfffeStone Edge!
-The wild \xf000ā\x0001\x0000 used\xfffeStone Edge!
-The foe's \xf000ā\x0001\x0000 used\xfffeStone Edge!
-\xf000ā\x0001\x0000 used\xfffeCaptivate!
-The wild \xf000ā\x0001\x0000 used\xfffeCaptivate!
-The foe's \xf000ā\x0001\x0000 used\xfffeCaptivate!
-\xf000ā\x0001\x0000 used\xfffeStealth Rock!
-The wild \xf000ā\x0001\x0000 used\xfffeStealth Rock!
-The foe's \xf000ā\x0001\x0000 used\xfffeStealth Rock!
-\xf000ā\x0001\x0000 used\xfffeGrass Knot!
-The wild \xf000ā\x0001\x0000 used\xfffeGrass Knot!
-The foe's \xf000ā\x0001\x0000 used\xfffeGrass Knot!
-\xf000ā\x0001\x0000 used\xfffeChatter!
-The wild \xf000ā\x0001\x0000 used\xfffeChatter!
-The foe's \xf000ā\x0001\x0000 used\xfffeChatter!
-\xf000ā\x0001\x0000 used\xfffeJudgment!
-The wild \xf000ā\x0001\x0000 used\xfffeJudgment!
-The foe's \xf000ā\x0001\x0000 used\xfffeJudgment!
-\xf000ā\x0001\x0000 used\xfffeBug Bite!
-The wild \xf000ā\x0001\x0000 used\xfffeBug Bite!
-The foe's \xf000ā\x0001\x0000 used\xfffeBug Bite!
-\xf000ā\x0001\x0000 used\xfffeCharge Beam!
-The wild \xf000ā\x0001\x0000 used\xfffeCharge Beam!
-The foe's \xf000ā\x0001\x0000 used\xfffeCharge Beam!
-\xf000ā\x0001\x0000 used\xfffeWood Hammer!
-The wild \xf000ā\x0001\x0000 used\xfffeWood Hammer!
-The foe's \xf000ā\x0001\x0000 used\xfffeWood Hammer!
-\xf000ā\x0001\x0000 used\xfffeAqua Jet!
-The wild \xf000ā\x0001\x0000 used\xfffeAqua Jet!
-The foe's \xf000ā\x0001\x0000 used\xfffeAqua Jet!
-\xf000ā\x0001\x0000 used\xfffeAttack Order!
-The wild \xf000ā\x0001\x0000 used\xfffeAttack Order!
-The foe's \xf000ā\x0001\x0000 used\xfffeAttack Order!
-\xf000ā\x0001\x0000 used\xfffeDefend Order!
-The wild \xf000ā\x0001\x0000 used\xfffeDefend Order!
-The foe's \xf000ā\x0001\x0000 used\xfffeDefend Order!
-\xf000ā\x0001\x0000 used\xfffeHeal Order!
-The wild \xf000ā\x0001\x0000 used\xfffeHeal Order!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeal Order!
-\xf000ā\x0001\x0000 used\xfffeHead Smash!
-The wild \xf000ā\x0001\x0000 used\xfffeHead Smash!
-The foe's \xf000ā\x0001\x0000 used\xfffeHead Smash!
-\xf000ā\x0001\x0000 used\xfffeDouble Hit!
-The wild \xf000ā\x0001\x0000 used\xfffeDouble Hit!
-The foe's \xf000ā\x0001\x0000 used\xfffeDouble Hit!
-\xf000ā\x0001\x0000 used\xfffeRoar of Time!
-The wild \xf000ā\x0001\x0000 used\xfffeRoar of Time!
-The foe's \xf000ā\x0001\x0000 used\xfffeRoar of Time!
-\xf000ā\x0001\x0000 used\xfffeSpacial Rend!
-The wild \xf000ā\x0001\x0000 used\xfffeSpacial Rend!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpacial Rend!
-\xf000ā\x0001\x0000 used\xfffeLunar Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeLunar Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeLunar Dance!
-\xf000ā\x0001\x0000 used\xfffeCrush Grip!
-The wild \xf000ā\x0001\x0000 used\xfffeCrush Grip!
-The foe's \xf000ā\x0001\x0000 used\xfffeCrush Grip!
-\xf000ā\x0001\x0000 used\xfffeMagma Storm!
-The wild \xf000ā\x0001\x0000 used\xfffeMagma Storm!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagma Storm!
-\xf000ā\x0001\x0000 used\xfffeDark Void!
-The wild \xf000ā\x0001\x0000 used\xfffeDark Void!
-The foe's \xf000ā\x0001\x0000 used\xfffeDark Void!
-\xf000ā\x0001\x0000 used\xfffeSeed Flare!
-The wild \xf000ā\x0001\x0000 used\xfffeSeed Flare!
-The foe's \xf000ā\x0001\x0000 used\xfffeSeed Flare!
-\xf000ā\x0001\x0000 used\xfffeOminous Wind!
-The wild \xf000ā\x0001\x0000 used\xfffeOminous Wind!
-The foe's \xf000ā\x0001\x0000 used\xfffeOminous Wind!
-\xf000ā\x0001\x0000 used\xfffeShadow Force!
-The wild \xf000ā\x0001\x0000 used\xfffeShadow Force!
-The foe's \xf000ā\x0001\x0000 used\xfffeShadow Force!
-\xf000ā\x0001\x0000 used\xfffeHone Claws!
-The wild \xf000ā\x0001\x0000 used\xfffeHone Claws!
-The foe's \xf000ā\x0001\x0000 used\xfffeHone Claws!
-\xf000ā\x0001\x0000 used\xfffeWide Guard!
-The wild \xf000ā\x0001\x0000 used\xfffeWide Guard!
-The foe's \xf000ā\x0001\x0000 used\xfffeWide Guard!
-\xf000ā\x0001\x0000 used\xfffeGuard Split!
-The wild \xf000ā\x0001\x0000 used\xfffeGuard Split!
-The foe's \xf000ā\x0001\x0000 used\xfffeGuard Split!
-\xf000ā\x0001\x0000 used\xfffePower Split!
-The wild \xf000ā\x0001\x0000 used\xfffePower Split!
-The foe's \xf000ā\x0001\x0000 used\xfffePower Split!
-\xf000ā\x0001\x0000 used\xfffeWonder Room!
-The wild \xf000ā\x0001\x0000 used\xfffeWonder Room!
-The foe's \xf000ā\x0001\x0000 used\xfffeWonder Room!
-\xf000ā\x0001\x0000 used\xfffePsyshock!
-The wild \xf000ā\x0001\x0000 used\xfffePsyshock!
-The foe's \xf000ā\x0001\x0000 used\xfffePsyshock!
-\xf000ā\x0001\x0000 used\xfffeVenoshock!
-The wild \xf000ā\x0001\x0000 used\xfffeVenoshock!
-The foe's \xf000ā\x0001\x0000 used\xfffeVenoshock!
-\xf000ā\x0001\x0000 used\xfffeAutotomize!
-The wild \xf000ā\x0001\x0000 used\xfffeAutotomize!
-The foe's \xf000ā\x0001\x0000 used\xfffeAutotomize!
-\xf000ā\x0001\x0000 used\xfffeRage Powder!
-The wild \xf000ā\x0001\x0000 used\xfffeRage Powder!
-The foe's \xf000ā\x0001\x0000 used\xfffeRage Powder!
-\xf000ā\x0001\x0000 used\xfffeTelekinesis!
-The wild \xf000ā\x0001\x0000 used\xfffeTelekinesis!
-The foe's \xf000ā\x0001\x0000 used\xfffeTelekinesis!
-\xf000ā\x0001\x0000 used\xfffeMagic Room!
-The wild \xf000ā\x0001\x0000 used\xfffeMagic Room!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagic Room!
-\xf000ā\x0001\x0000 used\xfffeSmack Down!
-The wild \xf000ā\x0001\x0000 used\xfffeSmack Down!
-The foe's \xf000ā\x0001\x0000 used\xfffeSmack Down!
-\xf000ā\x0001\x0000 used\xfffeStorm Throw!
-The wild \xf000ā\x0001\x0000 used\xfffeStorm Throw!
-The foe's \xf000ā\x0001\x0000 used\xfffeStorm Throw!
-\xf000ā\x0001\x0000 used\xfffeFlame Burst!
-The wild \xf000ā\x0001\x0000 used\xfffeFlame Burst!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlame Burst!
-\xf000ā\x0001\x0000 used\xfffeSludge Wave!
-The wild \xf000ā\x0001\x0000 used\xfffeSludge Wave!
-The foe's \xf000ā\x0001\x0000 used\xfffeSludge Wave!
-\xf000ā\x0001\x0000 used\xfffeQuiver Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeQuiver Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeQuiver Dance!
-\xf000ā\x0001\x0000 used\xfffeHeavy Slam!
-The wild \xf000ā\x0001\x0000 used\xfffeHeavy Slam!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeavy Slam!
-\xf000ā\x0001\x0000 used\xfffeSynchronoise!
-The wild \xf000ā\x0001\x0000 used\xfffeSynchronoise!
-The foe's \xf000ā\x0001\x0000 used\xfffeSynchronoise!
-\xf000ā\x0001\x0000 used\xfffeElectro Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeElectro Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeElectro Ball!
-\xf000ā\x0001\x0000 used\xfffeSoak!
-The wild \xf000ā\x0001\x0000 used\xfffeSoak!
-The foe's \xf000ā\x0001\x0000 used\xfffeSoak!
-\xf000ā\x0001\x0000 used\xfffeFlame Charge!
-The wild \xf000ā\x0001\x0000 used\xfffeFlame Charge!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlame Charge!
-\xf000ā\x0001\x0000 used\xfffeCoil!
-The wild \xf000ā\x0001\x0000 used\xfffeCoil!
-The foe's \xf000ā\x0001\x0000 used\xfffeCoil!
-\xf000ā\x0001\x0000 used\xfffeLow Sweep!
-The wild \xf000ā\x0001\x0000 used\xfffeLow Sweep!
-The foe's \xf000ā\x0001\x0000 used\xfffeLow Sweep!
-\xf000ā\x0001\x0000 used\xfffeAcid Spray!
-The wild \xf000ā\x0001\x0000 used\xfffeAcid Spray!
-The foe's \xf000ā\x0001\x0000 used\xfffeAcid Spray!
-\xf000ā\x0001\x0000 used\xfffeFoul Play!
-The wild \xf000ā\x0001\x0000 used\xfffeFoul Play!
-The foe's \xf000ā\x0001\x0000 used\xfffeFoul Play!
-\xf000ā\x0001\x0000 used\xfffeSimple Beam!
-The wild \xf000ā\x0001\x0000 used\xfffeSimple Beam!
-The foe's \xf000ā\x0001\x0000 used\xfffeSimple Beam!
-\xf000ā\x0001\x0000 used\xfffeEntrainment!
-The wild \xf000ā\x0001\x0000 used\xfffeEntrainment!
-The foe's \xf000ā\x0001\x0000 used\xfffeEntrainment!
-\xf000ā\x0001\x0000 used\xfffeAfter You!
-The wild \xf000ā\x0001\x0000 used\xfffeAfter You!
-The foe's \xf000ā\x0001\x0000 used\xfffeAfter You!
-\xf000ā\x0001\x0000 used\xfffeRound!
-The wild \xf000ā\x0001\x0000 used\xfffeRound!
-The foe's \xf000ā\x0001\x0000 used\xfffeRound!
-\xf000ā\x0001\x0000 used\xfffeEchoed Voice!
-The wild \xf000ā\x0001\x0000 used\xfffeEchoed Voice!
-The foe's \xf000ā\x0001\x0000 used\xfffeEchoed Voice!
-\xf000ā\x0001\x0000 used\xfffeChip Away!
-The wild \xf000ā\x0001\x0000 used\xfffeChip Away!
-The foe's \xf000ā\x0001\x0000 used\xfffeChip Away!
-\xf000ā\x0001\x0000 used\xfffeClear Smog!
-The wild \xf000ā\x0001\x0000 used\xfffeClear Smog!
-The foe's \xf000ā\x0001\x0000 used\xfffeClear Smog!
-\xf000ā\x0001\x0000 used\xfffeStored Power!
-The wild \xf000ā\x0001\x0000 used\xfffeStored Power!
-The foe's \xf000ā\x0001\x0000 used\xfffeStored Power!
-\xf000ā\x0001\x0000 used\xfffeQuick Guard!
-The wild \xf000ā\x0001\x0000 used\xfffeQuick Guard!
-The foe's \xf000ā\x0001\x0000 used\xfffeQuick Guard!
-\xf000ā\x0001\x0000 used\xfffeAlly Switch!
-The wild \xf000ā\x0001\x0000 used\xfffeAlly Switch!
-The foe's \xf000ā\x0001\x0000 used\xfffeAlly Switch!
-\xf000ā\x0001\x0000 used\xfffeScald!
-The wild \xf000ā\x0001\x0000 used\xfffeScald!
-The foe's \xf000ā\x0001\x0000 used\xfffeScald!
-\xf000ā\x0001\x0000 used\xfffeShell Smash!
-The wild \xf000ā\x0001\x0000 used\xfffeShell Smash!
-The foe's \xf000ā\x0001\x0000 used\xfffeShell Smash!
-\xf000ā\x0001\x0000 used\xfffeHeal Pulse!
-The wild \xf000ā\x0001\x0000 used\xfffeHeal Pulse!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeal Pulse!
-\xf000ā\x0001\x0000 used\xfffeHex!
-The wild \xf000ā\x0001\x0000 used\xfffeHex!
-The foe's \xf000ā\x0001\x0000 used\xfffeHex!
-\xf000ā\x0001\x0000 used\xfffeSky Drop!
-The wild \xf000ā\x0001\x0000 used\xfffeSky Drop!
-The foe's \xf000ā\x0001\x0000 used\xfffeSky Drop!
-\xf000ā\x0001\x0000 used\xfffeShift Gear!
-The wild \xf000ā\x0001\x0000 used\xfffeShift Gear!
-The foe's \xf000ā\x0001\x0000 used\xfffeShift Gear!
-\xf000ā\x0001\x0000 used\xfffeCircle Throw!
-The wild \xf000ā\x0001\x0000 used\xfffeCircle Throw!
-The foe's \xf000ā\x0001\x0000 used\xfffeCircle Throw!
-\xf000ā\x0001\x0000 used\xfffeIncinerate!
-The wild \xf000ā\x0001\x0000 used\xfffeIncinerate!
-The foe's \xf000ā\x0001\x0000 used\xfffeIncinerate!
-\xf000ā\x0001\x0000 used\xfffeQuash!
-The wild \xf000ā\x0001\x0000 used\xfffeQuash!
-The foe's \xf000ā\x0001\x0000 used\xfffeQuash!
-\xf000ā\x0001\x0000 used\xfffeAcrobatics!
-The wild \xf000ā\x0001\x0000 used\xfffeAcrobatics!
-The foe's \xf000ā\x0001\x0000 used\xfffeAcrobatics!
-\xf000ā\x0001\x0000 used\xfffeReflect Type!
-The wild \xf000ā\x0001\x0000 used\xfffeReflect Type!
-The foe's \xf000ā\x0001\x0000 used\xfffeReflect Type!
-\xf000ā\x0001\x0000 used\xfffeRetaliate!
-The wild \xf000ā\x0001\x0000 used\xfffeRetaliate!
-The foe's \xf000ā\x0001\x0000 used\xfffeRetaliate!
-\xf000ā\x0001\x0000 used\xfffeFinal Gambit!
-The wild \xf000ā\x0001\x0000 used\xfffeFinal Gambit!
-The foe's \xf000ā\x0001\x0000 used\xfffeFinal Gambit!
-\xf000ā\x0001\x0000 used\xfffeBestow!
-The wild \xf000ā\x0001\x0000 used\xfffeBestow!
-The foe's \xf000ā\x0001\x0000 used\xfffeBestow!
-\xf000ā\x0001\x0000 used\xfffeInferno!
-The wild \xf000ā\x0001\x0000 used\xfffeInferno!
-The foe's \xf000ā\x0001\x0000 used\xfffeInferno!
-\xf000ā\x0001\x0000 used\xfffeWater Pledge!
-The wild \xf000ā\x0001\x0000 used\xfffeWater Pledge!
-The foe's \xf000ā\x0001\x0000 used\xfffeWater Pledge!
-\xf000ā\x0001\x0000 used\xfffeFire Pledge!
-The wild \xf000ā\x0001\x0000 used\xfffeFire Pledge!
-The foe's \xf000ā\x0001\x0000 used\xfffeFire Pledge!
-\xf000ā\x0001\x0000 used\xfffeGrass Pledge!
-The wild \xf000ā\x0001\x0000 used\xfffeGrass Pledge!
-The foe's \xf000ā\x0001\x0000 used\xfffeGrass Pledge!
-\xf000ā\x0001\x0000 used\xfffeVolt Switch!
-The wild \xf000ā\x0001\x0000 used\xfffeVolt Switch!
-The foe's \xf000ā\x0001\x0000 used\xfffeVolt Switch!
-\xf000ā\x0001\x0000 used\xfffeStruggle Bug!
-The wild \xf000ā\x0001\x0000 used\xfffeStruggle Bug!
-The foe's \xf000ā\x0001\x0000 used\xfffeStruggle Bug!
-\xf000ā\x0001\x0000 used\xfffeBulldoze!
-The wild \xf000ā\x0001\x0000 used\xfffeBulldoze!
-The foe's \xf000ā\x0001\x0000 used\xfffeBulldoze!
-\xf000ā\x0001\x0000 used\xfffeFrost Breath!
-The wild \xf000ā\x0001\x0000 used\xfffeFrost Breath!
-The foe's \xf000ā\x0001\x0000 used\xfffeFrost Breath!
-\xf000ā\x0001\x0000 used\xfffeDragon Tail!
-The wild \xf000ā\x0001\x0000 used\xfffeDragon Tail!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragon Tail!
-\xf000ā\x0001\x0000 used\xfffeWork Up!
-The wild \xf000ā\x0001\x0000 used\xfffeWork Up!
-The foe's \xf000ā\x0001\x0000 used\xfffeWork Up!
-\xf000ā\x0001\x0000 used\xfffeElectroweb!
-The wild \xf000ā\x0001\x0000 used\xfffeElectroweb!
-The foe's \xf000ā\x0001\x0000 used\xfffeElectroweb!
-\xf000ā\x0001\x0000 used\xfffeWild Charge!
-The wild \xf000ā\x0001\x0000 used\xfffeWild Charge!
-The foe's \xf000ā\x0001\x0000 used\xfffeWild Charge!
-\xf000ā\x0001\x0000 used\xfffeDrill Run!
-The wild \xf000ā\x0001\x0000 used\xfffeDrill Run!
-The foe's \xf000ā\x0001\x0000 used\xfffeDrill Run!
-\xf000ā\x0001\x0000 used\xfffeDual Chop!
-The wild \xf000ā\x0001\x0000 used\xfffeDual Chop!
-The foe's \xf000ā\x0001\x0000 used\xfffeDual Chop!
-\xf000ā\x0001\x0000 used\xfffeHeart Stamp!
-The wild \xf000ā\x0001\x0000 used\xfffeHeart Stamp!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeart Stamp!
-\xf000ā\x0001\x0000 used\xfffeHorn Leech!
-The wild \xf000ā\x0001\x0000 used\xfffeHorn Leech!
-The foe's \xf000ā\x0001\x0000 used\xfffeHorn Leech!
-\xf000ā\x0001\x0000 used\xfffeSacred Sword!
-The wild \xf000ā\x0001\x0000 used\xfffeSacred Sword!
-The foe's \xf000ā\x0001\x0000 used\xfffeSacred Sword!
-\xf000ā\x0001\x0000 used\xfffeRazor Shell!
-The wild \xf000ā\x0001\x0000 used\xfffeRazor Shell!
-The foe's \xf000ā\x0001\x0000 used\xfffeRazor Shell!
-\xf000ā\x0001\x0000 used\xfffeHeat Crash!
-The wild \xf000ā\x0001\x0000 used\xfffeHeat Crash!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeat Crash!
-\xf000ā\x0001\x0000 used\xfffeLeaf Tornado!
-The wild \xf000ā\x0001\x0000 used\xfffeLeaf Tornado!
-The foe's \xf000ā\x0001\x0000 used\xfffeLeaf Tornado!
-\xf000ā\x0001\x0000 used\xfffeSteamroller!
-The wild \xf000ā\x0001\x0000 used\xfffeSteamroller!
-The foe's \xf000ā\x0001\x0000 used\xfffeSteamroller!
-\xf000ā\x0001\x0000 used\xfffeCotton Guard!
-The wild \xf000ā\x0001\x0000 used\xfffeCotton Guard!
-The foe's \xf000ā\x0001\x0000 used\xfffeCotton Guard!
-\xf000ā\x0001\x0000 used\xfffeNight Daze!
-The wild \xf000ā\x0001\x0000 used\xfffeNight Daze!
-The foe's \xf000ā\x0001\x0000 used\xfffeNight Daze!
-\xf000ā\x0001\x0000 used\xfffePsystrike!
-The wild \xf000ā\x0001\x0000 used\xfffePsystrike!
-The foe's \xf000ā\x0001\x0000 used\xfffePsystrike!
-\xf000ā\x0001\x0000 used\xfffeTail Slap!
-The wild \xf000ā\x0001\x0000 used\xfffeTail Slap!
-The foe's \xf000ā\x0001\x0000 used\xfffeTail Slap!
-\xf000ā\x0001\x0000 used\xfffeHurricane!
-The wild \xf000ā\x0001\x0000 used\xfffeHurricane!
-The foe's \xf000ā\x0001\x0000 used\xfffeHurricane!
-\xf000ā\x0001\x0000 used\xfffeHead Charge!
-The wild \xf000ā\x0001\x0000 used\xfffeHead Charge!
-The foe's \xf000ā\x0001\x0000 used\xfffeHead Charge!
-\xf000ā\x0001\x0000 used\xfffeGear Grind!
-The wild \xf000ā\x0001\x0000 used\xfffeGear Grind!
-The foe's \xf000ā\x0001\x0000 used\xfffeGear Grind!
-\xf000ā\x0001\x0000 used\xfffeSearing Shot!
-The wild \xf000ā\x0001\x0000 used\xfffeSearing Shot!
-The foe's \xf000ā\x0001\x0000 used\xfffeSearing Shot!
-\xf000ā\x0001\x0000 used\xfffeTechno Blast!
-The wild \xf000ā\x0001\x0000 used\xfffeTechno Blast!
-The foe's \xf000ā\x0001\x0000 used\xfffeTechno Blast!
-\xf000ā\x0001\x0000 used\xfffeRelic Song!
-The wild \xf000ā\x0001\x0000 used\xfffeRelic Song!
-The foe's \xf000ā\x0001\x0000 used\xfffeRelic Song!
-\xf000ā\x0001\x0000 used\xfffeSecret Sword!
-The wild \xf000ā\x0001\x0000 used\xfffeSecret Sword!
-The foe's \xf000ā\x0001\x0000 used\xfffeSecret Sword!
-\xf000ā\x0001\x0000 used\xfffeGlaciate!
-The wild \xf000ā\x0001\x0000 used\xfffeGlaciate!
-The foe's \xf000ā\x0001\x0000 used\xfffeGlaciate!
-\xf000ā\x0001\x0000 used\xfffeBolt Strike!
-The wild \xf000ā\x0001\x0000 used\xfffeBolt Strike!
-The foe's \xf000ā\x0001\x0000 used\xfffeBolt Strike!
-\xf000ā\x0001\x0000 used\xfffeBlue Flare!
-The wild \xf000ā\x0001\x0000 used\xfffeBlue Flare!
-The foe's \xf000ā\x0001\x0000 used\xfffeBlue Flare!
-\xf000ā\x0001\x0000 used\xfffeFiery Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeFiery Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeFiery Dance!
-\xf000ā\x0001\x0000 used\xfffeFreeze Shock!
-The wild \xf000ā\x0001\x0000 used\xfffeFreeze Shock!
-The foe's \xf000ā\x0001\x0000 used\xfffeFreeze Shock!
-\xf000ā\x0001\x0000 used\xfffeIce Burn!
-The wild \xf000ā\x0001\x0000 used\xfffeIce Burn!
-The foe's \xf000ā\x0001\x0000 used\xfffeIce Burn!
-\xf000ā\x0001\x0000 used\xfffeSnarl!
-The wild \xf000ā\x0001\x0000 used\xfffeSnarl!
-The foe's \xf000ā\x0001\x0000 used\xfffeSnarl!
-\xf000ā\x0001\x0000 used\xfffeIcicle Crash!
-The wild \xf000ā\x0001\x0000 used\xfffeIcicle Crash!
-The foe's \xf000ā\x0001\x0000 used\xfffeIcicle Crash!
-\xf000ā\x0001\x0000 used\xfffeV-create!
-The wild \xf000ā\x0001\x0000 used\xfffeV-create!
-The foe's \xf000ā\x0001\x0000 used\xfffeV-create!
-\xf000ā\x0001\x0000 used\xfffeFusion Flare!
-The wild \xf000ā\x0001\x0000 used\xfffeFusion Flare!
-The foe's \xf000ā\x0001\x0000 used\xfffeFusion Flare!
-\xf000ā\x0001\x0000 used\xfffeFusion Bolt!
-The wild \xf000ā\x0001\x0000 used\xfffeFusion Bolt!
-The foe's \xf000ā\x0001\x0000 used\xfffeFusion Bolt!
+\xf000ā\x0001\x0000 guna\xfffePound!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePound!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePound!
+\xf000ā\x0001\x0000 guna\xfffeKarate Chop!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeKarate Chop!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeKarate Chop!
+\xf000ā\x0001\x0000 guna\xfffeDoubleSlap!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDoubleSlap!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDoubleSlap!
+\xf000ā\x0001\x0000 guna\xfffeComet Punch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeComet Punch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeComet Punch!
+\xf000ā\x0001\x0000 guna\xfffeMega Punch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMega Punch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMega Punch!
+\xf000ā\x0001\x0000 guna\xfffePay Day!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePay Day!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePay Day!
+\xf000ā\x0001\x0000 guna\xfffeFire Punch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFire Punch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFire Punch!
+\xf000ā\x0001\x0000 guna\xfffeIce Punch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIce Punch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIce Punch!
+\xf000ā\x0001\x0000 guna\xfffeThunderPunch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeThunderPunch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeThunderPunch!
+\xf000ā\x0001\x0000 guna\xfffeScratch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeScratch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeScratch!
+\xf000ā\x0001\x0000 guna\xfffeViceGrip!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeViceGrip!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeViceGrip!
+\xf000ā\x0001\x0000 guna\xfffeGuillotine!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGuillotine!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGuillotine!
+\xf000ā\x0001\x0000 guna\xfffeRazor Wind!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRazor Wind!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRazor Wind!
+\xf000ā\x0001\x0000 guna\xfffeSwords Dance!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSwords Dance!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSwords Dance!
+\xf000ā\x0001\x0000 guna\xfffeCut!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCut!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCut!
+\xf000ā\x0001\x0000 guna\xfffeGust!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGust!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGust!
+\xf000ā\x0001\x0000 guna\xfffeWing Attack!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWing Attack!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWing Attack!
+\xf000ā\x0001\x0000 guna\xfffeWhirlwind!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWhirlwind!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWhirlwind!
+\xf000ā\x0001\x0000 guna\xfffeFly!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFly!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFly!
+\xf000ā\x0001\x0000 guna\xfffeBind!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBind!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBind!
+\xf000ā\x0001\x0000 guna\xfffeSlam!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSlam!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSlam!
+\xf000ā\x0001\x0000 guna\xfffeVine Whip!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeVine Whip!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeVine Whip!
+\xf000ā\x0001\x0000 guna\xfffeStomp!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeStomp!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeStomp!
+\xf000ā\x0001\x0000 guna\xfffeDouble Kick!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDouble Kick!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDouble Kick!
+\xf000ā\x0001\x0000 guna\xfffeMega Kick!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMega Kick!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMega Kick!
+\xf000ā\x0001\x0000 guna\xfffeJump Kick!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeJump Kick!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeJump Kick!
+\xf000ā\x0001\x0000 guna\xfffeRolling Kick!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRolling Kick!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRolling Kick!
+\xf000ā\x0001\x0000 guna\xfffeSand-Attack!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSand-Attack!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSand-Attack!
+\xf000ā\x0001\x0000 guna\xfffeHeadbutt!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHeadbutt!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHeadbutt!
+\xf000ā\x0001\x0000 guna\xfffeHorn Attack!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHorn Attack!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHorn Attack!
+\xf000ā\x0001\x0000 guna\xfffeFury Attack!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFury Attack!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFury Attack!
+\xf000ā\x0001\x0000 guna\xfffeHorn Drill!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHorn Drill!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHorn Drill!
+\xf000ā\x0001\x0000 guna\xfffeTackle!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTackle!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTackle!
+\xf000ā\x0001\x0000 guna\xfffeBody Slam!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBody Slam!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBody Slam!
+\xf000ā\x0001\x0000 guna\xfffeWrap!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWrap!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWrap!
+\xf000ā\x0001\x0000 guna\xfffeTake Down!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTake Down!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTake Down!
+\xf000ā\x0001\x0000 guna\xfffeThrash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeThrash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeThrash!
+\xf000ā\x0001\x0000 guna\xfffeDouble-Edge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDouble-Edge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDouble-Edge!
+\xf000ā\x0001\x0000 guna\xfffeTail Whip!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTail Whip!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTail Whip!
+\xf000ā\x0001\x0000 guna\xfffePoison Sting!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePoison Sting!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePoison Sting!
+\xf000ā\x0001\x0000 guna\xfffeTwineedle!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTwineedle!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTwineedle!
+\xf000ā\x0001\x0000 guna\xfffePin Missile!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePin Missile!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePin Missile!
+\xf000ā\x0001\x0000 guna\xfffeLeer!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLeer!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLeer!
+\xf000ā\x0001\x0000 guna\xfffeBite!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBite!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBite!
+\xf000ā\x0001\x0000 guna\xfffeGrowl!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGrowl!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGrowl!
+\xf000ā\x0001\x0000 guna\xfffeRoar!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRoar!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRoar!
+\xf000ā\x0001\x0000 guna\xfffeSing!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSing!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSing!
+\xf000ā\x0001\x0000 guna\xfffeSupersonic!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSupersonic!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSupersonic!
+\xf000ā\x0001\x0000 guna\xfffeSonicBoom!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSonicBoom!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSonicBoom!
+\xf000ā\x0001\x0000 guna\xfffeDisable!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDisable!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDisable!
+\xf000ā\x0001\x0000 guna\xfffeAcid!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAcid!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAcid!
+\xf000ā\x0001\x0000 guna\xfffeEmber!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeEmber!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeEmber!
+\xf000ā\x0001\x0000 guna\xfffeFlamethrower!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFlamethrower!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFlamethrower!
+\xf000ā\x0001\x0000 guna\xfffeMist!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMist!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMist!
+\xf000ā\x0001\x0000 guna\xfffeWater Gun!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWater Gun!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWater Gun!
+\xf000ā\x0001\x0000 guna\xfffeHydro Pump!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHydro Pump!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHydro Pump!
+\xf000ā\x0001\x0000 guna\xfffeSurf!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSurf!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSurf!
+\xf000ā\x0001\x0000 guna\xfffeIce Beam!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIce Beam!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIce Beam!
+\xf000ā\x0001\x0000 guna\xfffeBlizzard!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBlizzard!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBlizzard!
+\xf000ā\x0001\x0000 guna\xfffePsybeam!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePsybeam!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePsybeam!
+\xf000ā\x0001\x0000 guna\xfffeBubbleBeam!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBubbleBeam!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBubbleBeam!
+\xf000ā\x0001\x0000 guna\xfffeAurora Beam!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAurora Beam!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAurora Beam!
+\xf000ā\x0001\x0000 guna\xfffeHyper Beam!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHyper Beam!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHyper Beam!
+\xf000ā\x0001\x0000 guna\xfffePeck!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePeck!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePeck!
+\xf000ā\x0001\x0000 guna\xfffeDrill Peck!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDrill Peck!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDrill Peck!
+\xf000ā\x0001\x0000 guna\xfffeSubmission!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSubmission!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSubmission!
+\xf000ā\x0001\x0000 guna\xfffeLow Kick!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLow Kick!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLow Kick!
+\xf000ā\x0001\x0000 guna\xfffeCounter!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCounter!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCounter!
+\xf000ā\x0001\x0000 guna\xfffeSeismic Toss!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSeismic Toss!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSeismic Toss!
+\xf000ā\x0001\x0000 guna\xfffeStrength!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeStrength!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeStrength!
+\xf000ā\x0001\x0000 guna\xfffeAbsorb!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAbsorb!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAbsorb!
+\xf000ā\x0001\x0000 guna\xfffeMega Drain!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMega Drain!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMega Drain!
+\xf000ā\x0001\x0000 guna\xfffeLeech Seed!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLeech Seed!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLeech Seed!
+\xf000ā\x0001\x0000 guna\xfffeGrowth!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGrowth!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGrowth!
+\xf000ā\x0001\x0000 guna\xfffeRazor Leaf!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRazor Leaf!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRazor Leaf!
+\xf000ā\x0001\x0000 guna\xfffeSolarBeam!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSolarBeam!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSolarBeam!
+\xf000ā\x0001\x0000 guna\xfffePoisonPowder!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePoisonPowder!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePoisonPowder!
+\xf000ā\x0001\x0000 guna\xfffeStun Spore!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeStun Spore!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeStun Spore!
+\xf000ā\x0001\x0000 guna\xfffeSleep Powder!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSleep Powder!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSleep Powder!
+\xf000ā\x0001\x0000 guna\xfffePetal Dance!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePetal Dance!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePetal Dance!
+\xf000ā\x0001\x0000 guna\xfffeString Shot!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeString Shot!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeString Shot!
+\xf000ā\x0001\x0000 guna\xfffeDragon Rage!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDragon Rage!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDragon Rage!
+\xf000ā\x0001\x0000 guna\xfffeFire Spin!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFire Spin!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFire Spin!
+\xf000ā\x0001\x0000 guna\xfffeThunderShock!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeThunderShock!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeThunderShock!
+\xf000ā\x0001\x0000 guna\xfffeThunderbolt!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeThunderbolt!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeThunderbolt!
+\xf000ā\x0001\x0000 guna\xfffeThunder Wave!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeThunder Wave!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeThunder Wave!
+\xf000ā\x0001\x0000 guna\xfffeThunder!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeThunder!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeThunder!
+\xf000ā\x0001\x0000 guna\xfffeRock Throw!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRock Throw!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRock Throw!
+\xf000ā\x0001\x0000 guna\xfffeEarthquake!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeEarthquake!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeEarthquake!
+\xf000ā\x0001\x0000 guna\xfffeFissure!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFissure!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFissure!
+\xf000ā\x0001\x0000 guna\xfffeDig!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDig!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDig!
+\xf000ā\x0001\x0000 guna\xfffeToxic!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeToxic!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeToxic!
+\xf000ā\x0001\x0000 guna\xfffeConfusion!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeConfusion!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeConfusion!
+\xf000ā\x0001\x0000 guna\xfffePsychic!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePsychic!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePsychic!
+\xf000ā\x0001\x0000 guna\xfffeHypnosis!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHypnosis!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHypnosis!
+\xf000ā\x0001\x0000 guna\xfffeMeditate!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMeditate!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMeditate!
+\xf000ā\x0001\x0000 guna\xfffeAgility!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAgility!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAgility!
+\xf000ā\x0001\x0000 guna\xfffeQuick Attack!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeQuick Attack!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeQuick Attack!
+\xf000ā\x0001\x0000 guna\xfffeRage!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRage!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRage!
+\xf000ā\x0001\x0000 guna\xfffeTeleport!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTeleport!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTeleport!
+\xf000ā\x0001\x0000 guna\xfffeNight Shade!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeNight Shade!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeNight Shade!
+\xf000ā\x0001\x0000 guna\xfffeMimic!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMimic!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMimic!
+\xf000ā\x0001\x0000 guna\xfffeScreech!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeScreech!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeScreech!
+\xf000ā\x0001\x0000 guna\xfffeDouble Team!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDouble Team!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDouble Team!
+\xf000ā\x0001\x0000 guna\xfffeRecover!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRecover!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRecover!
+\xf000ā\x0001\x0000 guna\xfffeHarden!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHarden!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHarden!
+\xf000ā\x0001\x0000 guna\xfffeMinimize!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMinimize!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMinimize!
+\xf000ā\x0001\x0000 guna\xfffeSmokeScreen!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSmokeScreen!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSmokeScreen!
+\xf000ā\x0001\x0000 guna\xfffeConfuse Ray!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeConfuse Ray!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeConfuse Ray!
+\xf000ā\x0001\x0000 guna\xfffeWithdraw!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWithdraw!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWithdraw!
+\xf000ā\x0001\x0000 guna\xfffeDefense Curl!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDefense Curl!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDefense Curl!
+\xf000ā\x0001\x0000 guna\xfffeBarrier!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBarrier!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBarrier!
+\xf000ā\x0001\x0000 guna\xfffeLight Screen!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLight Screen!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLight Screen!
+\xf000ā\x0001\x0000 guna\xfffeHaze!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHaze!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHaze!
+\xf000ā\x0001\x0000 guna\xfffeReflect!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeReflect!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeReflect!
+\xf000ā\x0001\x0000 guna\xfffeFocus Energy!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFocus Energy!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFocus Energy!
+\xf000ā\x0001\x0000 guna\xfffeBide!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBide!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBide!
+\xf000ā\x0001\x0000 guna\xfffeMetronome!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMetronome!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMetronome!
+\xf000ā\x0001\x0000 guna\xfffeMirror Move!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMirror Move!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMirror Move!
+\xf000ā\x0001\x0000 guna\xfffeSelfdestruct!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSelfdestruct!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSelfdestruct!
+\xf000ā\x0001\x0000 guna\xfffeEgg Bomb!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeEgg Bomb!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeEgg Bomb!
+\xf000ā\x0001\x0000 guna\xfffeLick!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLick!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLick!
+\xf000ā\x0001\x0000 guna\xfffeSmog!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSmog!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSmog!
+\xf000ā\x0001\x0000 guna\xfffeSludge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSludge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSludge!
+\xf000ā\x0001\x0000 guna\xfffeBone Club!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBone Club!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBone Club!
+\xf000ā\x0001\x0000 guna\xfffeFire Blast!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFire Blast!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFire Blast!
+\xf000ā\x0001\x0000 guna\xfffeWaterfall!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWaterfall!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWaterfall!
+\xf000ā\x0001\x0000 guna\xfffeClamp!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeClamp!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeClamp!
+\xf000ā\x0001\x0000 guna\xfffeSwift!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSwift!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSwift!
+\xf000ā\x0001\x0000 guna\xfffeSkull Bash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSkull Bash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSkull Bash!
+\xf000ā\x0001\x0000 guna\xfffeSpike Cannon!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSpike Cannon!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSpike Cannon!
+\xf000ā\x0001\x0000 guna\xfffeConstrict!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeConstrict!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeConstrict!
+\xf000ā\x0001\x0000 guna\xfffeAmnesia!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAmnesia!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAmnesia!
+\xf000ā\x0001\x0000 guna\xfffeKinesis!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeKinesis!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeKinesis!
+\xf000ā\x0001\x0000 guna\xfffeSoftboiled!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSoftboiled!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSoftboiled!
+\xf000ā\x0001\x0000 guna\xfffeHi Jump Kick!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHi Jump Kick!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHi Jump Kick!
+\xf000ā\x0001\x0000 guna\xfffeGlare!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGlare!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGlare!
+\xf000ā\x0001\x0000 guna\xfffeDream Eater!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDream Eater!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDream Eater!
+\xf000ā\x0001\x0000 guna\xfffePoison Gas!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePoison Gas!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePoison Gas!
+\xf000ā\x0001\x0000 guna\xfffeBarrage!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBarrage!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBarrage!
+\xf000ā\x0001\x0000 guna\xfffeLeech Life!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLeech Life!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLeech Life!
+\xf000ā\x0001\x0000 guna\xfffeLovely Kiss!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLovely Kiss!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLovely Kiss!
+\xf000ā\x0001\x0000 guna\xfffeSky Attack!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSky Attack!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSky Attack!
+\xf000ā\x0001\x0000 guna\xfffeTransform!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTransform!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTransform!
+\xf000ā\x0001\x0000 guna\xfffeBubble!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBubble!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBubble!
+\xf000ā\x0001\x0000 guna\xfffeDizzy Punch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDizzy Punch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDizzy Punch!
+\xf000ā\x0001\x0000 guna\xfffeSpore!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSpore!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSpore!
+\xf000ā\x0001\x0000 guna\xfffeFlash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFlash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFlash!
+\xf000ā\x0001\x0000 guna\xfffePsywave!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePsywave!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePsywave!
+\xf000ā\x0001\x0000 guna\xfffeSplash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSplash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSplash!
+\xf000ā\x0001\x0000 guna\xfffeAcid Armor!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAcid Armor!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAcid Armor!
+\xf000ā\x0001\x0000 guna\xfffeCrabhammer!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCrabhammer!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCrabhammer!
+\xf000ā\x0001\x0000 guna\xfffeExplosion!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeExplosion!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeExplosion!
+\xf000ā\x0001\x0000 guna\xfffeFury Swipes!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFury Swipes!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFury Swipes!
+\xf000ā\x0001\x0000 guna\xfffeBonemerang!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBonemerang!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBonemerang!
+\xf000ā\x0001\x0000 guna\xfffeRest!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRest!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRest!
+\xf000ā\x0001\x0000 guna\xfffeRock Slide!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRock Slide!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRock Slide!
+\xf000ā\x0001\x0000 guna\xfffeHyper Fang!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHyper Fang!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHyper Fang!
+\xf000ā\x0001\x0000 guna\xfffeSharpen!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSharpen!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSharpen!
+\xf000ā\x0001\x0000 guna\xfffeConversion!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeConversion!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeConversion!
+\xf000ā\x0001\x0000 guna\xfffeTri Attack!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTri Attack!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTri Attack!
+\xf000ā\x0001\x0000 guna\xfffeSuper Fang!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSuper Fang!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSuper Fang!
+\xf000ā\x0001\x0000 guna\xfffeSlash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSlash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSlash!
+\xf000ā\x0001\x0000 guna\xfffeSubstitute!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSubstitute!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSubstitute!
+\xf000ā\x0001\x0000 guna\xfffeStruggle!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeStruggle!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeStruggle!
+\xf000ā\x0001\x0000 guna\xfffeSketch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSketch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSketch!
+\xf000ā\x0001\x0000 guna\xfffeTriple Kick!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTriple Kick!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTriple Kick!
+\xf000ā\x0001\x0000 guna\xfffeThief!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeThief!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeThief!
+\xf000ā\x0001\x0000 guna\xfffeSpider Web!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSpider Web!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSpider Web!
+\xf000ā\x0001\x0000 guna\xfffeMind Reader!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMind Reader!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMind Reader!
+\xf000ā\x0001\x0000 guna\xfffeNightmare!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeNightmare!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeNightmare!
+\xf000ā\x0001\x0000 guna\xfffeFlame Wheel!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFlame Wheel!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFlame Wheel!
+\xf000ā\x0001\x0000 guna\xfffeSnore!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSnore!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSnore!
+\xf000ā\x0001\x0000 guna\xfffeCurse!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCurse!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCurse!
+\xf000ā\x0001\x0000 guna\xfffeFlail!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFlail!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFlail!
+\xf000ā\x0001\x0000 guna\xfffeConversion 2!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeConversion 2!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeConversion 2!
+\xf000ā\x0001\x0000 guna\xfffeAeroblast!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAeroblast!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAeroblast!
+\xf000ā\x0001\x0000 guna\xfffeCotton Spore!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCotton Spore!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCotton Spore!
+\xf000ā\x0001\x0000 guna\xfffeReversal!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeReversal!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeReversal!
+\xf000ā\x0001\x0000 guna\xfffeSpite!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSpite!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSpite!
+\xf000ā\x0001\x0000 guna\xfffePowder Snow!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePowder Snow!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePowder Snow!
+\xf000ā\x0001\x0000 guna\xfffeProtect!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeProtect!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeProtect!
+\xf000ā\x0001\x0000 guna\xfffeMach Punch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMach Punch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMach Punch!
+\xf000ā\x0001\x0000 guna\xfffeScary Face!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeScary Face!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeScary Face!
+\xf000ā\x0001\x0000 guna\xfffeFaint Attack!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFaint Attack!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFaint Attack!
+\xf000ā\x0001\x0000 guna\xfffeSweet Kiss!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSweet Kiss!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSweet Kiss!
+\xf000ā\x0001\x0000 guna\xfffeBelly Drum!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBelly Drum!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBelly Drum!
+\xf000ā\x0001\x0000 guna\xfffeSludge Bomb!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSludge Bomb!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSludge Bomb!
+\xf000ā\x0001\x0000 guna\xfffeMud-Slap!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMud-Slap!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMud-Slap!
+\xf000ā\x0001\x0000 guna\xfffeOctazooka!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeOctazooka!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeOctazooka!
+\xf000ā\x0001\x0000 guna\xfffeSpikes!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSpikes!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSpikes!
+\xf000ā\x0001\x0000 guna\xfffeZap Cannon!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeZap Cannon!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeZap Cannon!
+\xf000ā\x0001\x0000 guna\xfffeForesight!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeForesight!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeForesight!
+\xf000ā\x0001\x0000 guna\xfffeDestiny Bond!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDestiny Bond!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDestiny Bond!
+\xf000ā\x0001\x0000 guna\xfffePerish Song!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePerish Song!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePerish Song!
+\xf000ā\x0001\x0000 guna\xfffeIcy Wind!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIcy Wind!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIcy Wind!
+\xf000ā\x0001\x0000 guna\xfffeDetect!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDetect!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDetect!
+\xf000ā\x0001\x0000 guna\xfffeBone Rush!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBone Rush!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBone Rush!
+\xf000ā\x0001\x0000 guna\xfffeLock-On!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLock-On!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLock-On!
+\xf000ā\x0001\x0000 guna\xfffeOutrage!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeOutrage!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeOutrage!
+\xf000ā\x0001\x0000 guna\xfffeSandstorm!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSandstorm!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSandstorm!
+\xf000ā\x0001\x0000 guna\xfffeGiga Drain!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGiga Drain!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGiga Drain!
+\xf000ā\x0001\x0000 guna\xfffeEndure!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeEndure!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeEndure!
+\xf000ā\x0001\x0000 guna\xfffeCharm!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCharm!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCharm!
+\xf000ā\x0001\x0000 guna\xfffeRollout!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRollout!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRollout!
+\xf000ā\x0001\x0000 guna\xfffeFalse Swipe!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFalse Swipe!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFalse Swipe!
+\xf000ā\x0001\x0000 guna\xfffeSwagger!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSwagger!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSwagger!
+\xf000ā\x0001\x0000 guna\xfffeMilk Drink!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMilk Drink!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMilk Drink!
+\xf000ā\x0001\x0000 guna\xfffeSpark!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSpark!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSpark!
+\xf000ā\x0001\x0000 guna\xfffeFury Cutter!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFury Cutter!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFury Cutter!
+\xf000ā\x0001\x0000 guna\xfffeSteel Wing!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSteel Wing!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSteel Wing!
+\xf000ā\x0001\x0000 guna\xfffeMean Look!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMean Look!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMean Look!
+\xf000ā\x0001\x0000 guna\xfffeAttract!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAttract!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAttract!
+\xf000ā\x0001\x0000 guna\xfffeSleep Talk!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSleep Talk!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSleep Talk!
+\xf000ā\x0001\x0000 guna\xfffeHeal Bell!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHeal Bell!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHeal Bell!
+\xf000ā\x0001\x0000 guna\xfffeReturn!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeReturn!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeReturn!
+\xf000ā\x0001\x0000 guna\xfffePresent!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePresent!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePresent!
+\xf000ā\x0001\x0000 guna\xfffeFrustration!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFrustration!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFrustration!
+\xf000ā\x0001\x0000 guna\xfffeSafeguard!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSafeguard!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSafeguard!
+\xf000ā\x0001\x0000 guna\xfffePain Split!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePain Split!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePain Split!
+\xf000ā\x0001\x0000 guna\xfffeSacred Fire!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSacred Fire!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSacred Fire!
+\xf000ā\x0001\x0000 guna\xfffeMagnitude!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMagnitude!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMagnitude!
+\xf000ā\x0001\x0000 guna\xfffeDynamicPunch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDynamicPunch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDynamicPunch!
+\xf000ā\x0001\x0000 guna\xfffeMegahorn!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMegahorn!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMegahorn!
+\xf000ā\x0001\x0000 guna\xfffeDragonBreath!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDragonBreath!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDragonBreath!
+\xf000ā\x0001\x0000 guna\xfffeBaton Pass!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBaton Pass!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBaton Pass!
+\xf000ā\x0001\x0000 guna\xfffeEncore!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeEncore!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeEncore!
+\xf000ā\x0001\x0000 guna\xfffePursuit!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePursuit!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePursuit!
+\xf000ā\x0001\x0000 guna\xfffeRapid Spin!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRapid Spin!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRapid Spin!
+\xf000ā\x0001\x0000 guna\xfffeSweet Scent!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSweet Scent!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSweet Scent!
+\xf000ā\x0001\x0000 guna\xfffeIron Tail!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIron Tail!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIron Tail!
+\xf000ā\x0001\x0000 guna\xfffeMetal Claw!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMetal Claw!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMetal Claw!
+\xf000ā\x0001\x0000 guna\xfffeVital Throw!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeVital Throw!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeVital Throw!
+\xf000ā\x0001\x0000 guna\xfffeMorning Sun!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMorning Sun!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMorning Sun!
+\xf000ā\x0001\x0000 guna\xfffeSynthesis!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSynthesis!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSynthesis!
+\xf000ā\x0001\x0000 guna\xfffeMoonlight!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMoonlight!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMoonlight!
+\xf000ā\x0001\x0000 guna\xfffeHidden Power!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHidden Power!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHidden Power!
+\xf000ā\x0001\x0000 guna\xfffeCross Chop!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCross Chop!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCross Chop!
+\xf000ā\x0001\x0000 guna\xfffeTwister!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTwister!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTwister!
+\xf000ā\x0001\x0000 guna\xfffeRain Dance!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRain Dance!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRain Dance!
+\xf000ā\x0001\x0000 guna\xfffeSunny Day!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSunny Day!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSunny Day!
+\xf000ā\x0001\x0000 guna\xfffeCrunch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCrunch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCrunch!
+\xf000ā\x0001\x0000 guna\xfffeMirror Coat!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMirror Coat!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMirror Coat!
+\xf000ā\x0001\x0000 guna\xfffePsych Up!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePsych Up!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePsych Up!
+\xf000ā\x0001\x0000 guna\xfffeExtremeSpeed!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeExtremeSpeed!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeExtremeSpeed!
+\xf000ā\x0001\x0000 guna\xfffeAncientPower!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAncientPower!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAncientPower!
+\xf000ā\x0001\x0000 guna\xfffeShadow Ball!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeShadow Ball!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeShadow Ball!
+\xf000ā\x0001\x0000 guna\xfffeFuture Sight!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFuture Sight!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFuture Sight!
+\xf000ā\x0001\x0000 guna\xfffeRock Smash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRock Smash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRock Smash!
+\xf000ā\x0001\x0000 guna\xfffeWhirlpool!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWhirlpool!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWhirlpool!
+\xf000ā\x0001\x0000 guna\xfffeBeat Up!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBeat Up!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBeat Up!
+\xf000ā\x0001\x0000 guna\xfffeFake Out!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFake Out!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFake Out!
+\xf000ā\x0001\x0000 guna\xfffeUproar!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeUproar!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeUproar!
+\xf000ā\x0001\x0000 guna\xfffeStockpile!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeStockpile!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeStockpile!
+\xf000ā\x0001\x0000 guna\xfffeSpit Up!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSpit Up!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSpit Up!
+\xf000ā\x0001\x0000 guna\xfffeSwallow!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSwallow!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSwallow!
+\xf000ā\x0001\x0000 guna\xfffeHeat Wave!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHeat Wave!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHeat Wave!
+\xf000ā\x0001\x0000 guna\xfffeHail!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHail!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHail!
+\xf000ā\x0001\x0000 guna\xfffeTorment!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTorment!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTorment!
+\xf000ā\x0001\x0000 guna\xfffeFlatter!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFlatter!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFlatter!
+\xf000ā\x0001\x0000 guna\xfffeWill-O-Wisp!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWill-O-Wisp!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWill-O-Wisp!
+\xf000ā\x0001\x0000 guna\xfffeMemento!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMemento!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMemento!
+\xf000ā\x0001\x0000 guna\xfffeFacade!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFacade!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFacade!
+\xf000ā\x0001\x0000 guna\xfffeFocus Punch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFocus Punch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFocus Punch!
+\xf000ā\x0001\x0000 guna\xfffeSmellingSalt!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSmellingSalt!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSmellingSalt!
+\xf000ā\x0001\x0000 guna\xfffeFollow Me!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFollow Me!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFollow Me!
+\xf000ā\x0001\x0000 guna\xfffeNature Power!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeNature Power!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeNature Power!
+\xf000ā\x0001\x0000 guna\xfffeCharge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCharge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCharge!
+\xf000ā\x0001\x0000 guna\xfffeTaunt!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTaunt!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTaunt!
+\xf000ā\x0001\x0000 guna\xfffeHelping Hand!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHelping Hand!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHelping Hand!
+\xf000ā\x0001\x0000 guna\xfffeTrick!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTrick!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTrick!
+\xf000ā\x0001\x0000 guna\xfffeRole Play!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRole Play!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRole Play!
+\xf000ā\x0001\x0000 guna\xfffeWish!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWish!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWish!
+\xf000ā\x0001\x0000 guna\xfffeAssist!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAssist!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAssist!
+\xf000ā\x0001\x0000 guna\xfffeIngrain!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIngrain!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIngrain!
+\xf000ā\x0001\x0000 guna\xfffeSuperpower!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSuperpower!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSuperpower!
+\xf000ā\x0001\x0000 guna\xfffeMagic Coat!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMagic Coat!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMagic Coat!
+\xf000ā\x0001\x0000 guna\xfffeRecycle!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRecycle!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRecycle!
+\xf000ā\x0001\x0000 guna\xfffeRevenge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRevenge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRevenge!
+\xf000ā\x0001\x0000 guna\xfffeBrick Break!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBrick Break!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBrick Break!
+\xf000ā\x0001\x0000 guna\xfffeYawn!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeYawn!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeYawn!
+\xf000ā\x0001\x0000 guna\xfffeKnock Off!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeKnock Off!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeKnock Off!
+\xf000ā\x0001\x0000 guna\xfffeEndeavor!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeEndeavor!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeEndeavor!
+\xf000ā\x0001\x0000 guna\xfffeEruption!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeEruption!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeEruption!
+\xf000ā\x0001\x0000 guna\xfffeSkill Swap!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSkill Swap!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSkill Swap!
+\xf000ā\x0001\x0000 guna\xfffeImprison!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeImprison!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeImprison!
+\xf000ā\x0001\x0000 guna\xfffeRefresh!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRefresh!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRefresh!
+\xf000ā\x0001\x0000 guna\xfffeGrudge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGrudge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGrudge!
+\xf000ā\x0001\x0000 guna\xfffeSnatch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSnatch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSnatch!
+\xf000ā\x0001\x0000 guna\xfffeSecret Power!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSecret Power!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSecret Power!
+\xf000ā\x0001\x0000 guna\xfffeDive!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDive!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDive!
+\xf000ā\x0001\x0000 guna\xfffeArm Thrust!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeArm Thrust!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeArm Thrust!
+\xf000ā\x0001\x0000 guna\xfffeCamouflage!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCamouflage!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCamouflage!
+\xf000ā\x0001\x0000 guna\xfffeTail Glow!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTail Glow!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTail Glow!
+\xf000ā\x0001\x0000 guna\xfffeLuster Purge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLuster Purge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLuster Purge!
+\xf000ā\x0001\x0000 guna\xfffeMist Ball!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMist Ball!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMist Ball!
+\xf000ā\x0001\x0000 guna\xfffeFeatherDance!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFeatherDance!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFeatherDance!
+\xf000ā\x0001\x0000 guna\xfffeTeeter Dance!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTeeter Dance!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTeeter Dance!
+\xf000ā\x0001\x0000 guna\xfffeBlaze Kick!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBlaze Kick!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBlaze Kick!
+\xf000ā\x0001\x0000 guna\xfffeMud Sport!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMud Sport!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMud Sport!
+\xf000ā\x0001\x0000 guna\xfffeIce Ball!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIce Ball!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIce Ball!
+\xf000ā\x0001\x0000 guna\xfffeNeedle Arm!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeNeedle Arm!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeNeedle Arm!
+\xf000ā\x0001\x0000 guna\xfffeSlack Off!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSlack Off!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSlack Off!
+\xf000ā\x0001\x0000 guna\xfffeHyper Voice!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHyper Voice!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHyper Voice!
+\xf000ā\x0001\x0000 guna\xfffePoison Fang!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePoison Fang!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePoison Fang!
+\xf000ā\x0001\x0000 guna\xfffeCrush Claw!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCrush Claw!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCrush Claw!
+\xf000ā\x0001\x0000 guna\xfffeBlast Burn!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBlast Burn!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBlast Burn!
+\xf000ā\x0001\x0000 guna\xfffeHydro Cannon!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHydro Cannon!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHydro Cannon!
+\xf000ā\x0001\x0000 guna\xfffeMeteor Mash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMeteor Mash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMeteor Mash!
+\xf000ā\x0001\x0000 guna\xfffeAstonish!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAstonish!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAstonish!
+\xf000ā\x0001\x0000 guna\xfffeWeather Ball!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWeather Ball!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWeather Ball!
+\xf000ā\x0001\x0000 guna\xfffeAromatherapy!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAromatherapy!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAromatherapy!
+\xf000ā\x0001\x0000 guna\xfffeFake Tears!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFake Tears!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFake Tears!
+\xf000ā\x0001\x0000 guna\xfffeAir Cutter!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAir Cutter!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAir Cutter!
+\xf000ā\x0001\x0000 guna\xfffeOverheat!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeOverheat!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeOverheat!
+\xf000ā\x0001\x0000 guna\xfffeOdor Sleuth!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeOdor Sleuth!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeOdor Sleuth!
+\xf000ā\x0001\x0000 guna\xfffeRock Tomb!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRock Tomb!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRock Tomb!
+\xf000ā\x0001\x0000 guna\xfffeSilver Wind!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSilver Wind!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSilver Wind!
+\xf000ā\x0001\x0000 guna\xfffeMetal Sound!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMetal Sound!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMetal Sound!
+\xf000ā\x0001\x0000 guna\xfffeGrassWhistle!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGrassWhistle!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGrassWhistle!
+\xf000ā\x0001\x0000 guna\xfffeTickle!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTickle!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTickle!
+\xf000ā\x0001\x0000 guna\xfffeCosmic Power!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCosmic Power!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCosmic Power!
+\xf000ā\x0001\x0000 guna\xfffeWater Spout!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWater Spout!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWater Spout!
+\xf000ā\x0001\x0000 guna\xfffeSignal Beam!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSignal Beam!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSignal Beam!
+\xf000ā\x0001\x0000 guna\xfffeShadow Punch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeShadow Punch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeShadow Punch!
+\xf000ā\x0001\x0000 guna\xfffeExtrasensory!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeExtrasensory!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeExtrasensory!
+\xf000ā\x0001\x0000 guna\xfffeSky Uppercut!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSky Uppercut!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSky Uppercut!
+\xf000ā\x0001\x0000 guna\xfffeSand Tomb!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSand Tomb!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSand Tomb!
+\xf000ā\x0001\x0000 guna\xfffeSheer Cold!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSheer Cold!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSheer Cold!
+\xf000ā\x0001\x0000 guna\xfffeMuddy Water!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMuddy Water!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMuddy Water!
+\xf000ā\x0001\x0000 guna\xfffeBullet Seed!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBullet Seed!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBullet Seed!
+\xf000ā\x0001\x0000 guna\xfffeAerial Ace!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAerial Ace!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAerial Ace!
+\xf000ā\x0001\x0000 guna\xfffeIcicle Spear!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIcicle Spear!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIcicle Spear!
+\xf000ā\x0001\x0000 guna\xfffeIron Defense!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIron Defense!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIron Defense!
+\xf000ā\x0001\x0000 guna\xfffeBlock!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBlock!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBlock!
+\xf000ā\x0001\x0000 guna\xfffeHowl!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHowl!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHowl!
+\xf000ā\x0001\x0000 guna\xfffeDragon Claw!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDragon Claw!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDragon Claw!
+\xf000ā\x0001\x0000 guna\xfffeFrenzy Plant!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFrenzy Plant!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFrenzy Plant!
+\xf000ā\x0001\x0000 guna\xfffeBulk Up!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBulk Up!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBulk Up!
+\xf000ā\x0001\x0000 guna\xfffeBounce!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBounce!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBounce!
+\xf000ā\x0001\x0000 guna\xfffeMud Shot!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMud Shot!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMud Shot!
+\xf000ā\x0001\x0000 guna\xfffePoison Tail!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePoison Tail!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePoison Tail!
+\xf000ā\x0001\x0000 guna\xfffeCovet!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCovet!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCovet!
+\xf000ā\x0001\x0000 guna\xfffeVolt Tackle!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeVolt Tackle!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeVolt Tackle!
+\xf000ā\x0001\x0000 guna\xfffeMagical Leaf!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMagical Leaf!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMagical Leaf!
+\xf000ā\x0001\x0000 guna\xfffeWater Sport!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWater Sport!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWater Sport!
+\xf000ā\x0001\x0000 guna\xfffeCalm Mind!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCalm Mind!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCalm Mind!
+\xf000ā\x0001\x0000 guna\xfffeLeaf Blade!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLeaf Blade!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLeaf Blade!
+\xf000ā\x0001\x0000 guna\xfffeDragon Dance!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDragon Dance!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDragon Dance!
+\xf000ā\x0001\x0000 guna\xfffeRock Blast!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRock Blast!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRock Blast!
+\xf000ā\x0001\x0000 guna\xfffeShock Wave!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeShock Wave!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeShock Wave!
+\xf000ā\x0001\x0000 guna\xfffeWater Pulse!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWater Pulse!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWater Pulse!
+\xf000ā\x0001\x0000 guna\xfffeDoom Desire!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDoom Desire!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDoom Desire!
+\xf000ā\x0001\x0000 guna\xfffePsycho Boost!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePsycho Boost!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePsycho Boost!
+\xf000ā\x0001\x0000 guna\xfffeRoost!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRoost!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRoost!
+\xf000ā\x0001\x0000 guna\xfffeGravity!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGravity!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGravity!
+\xf000ā\x0001\x0000 guna\xfffeMiracle Eye!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMiracle Eye!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMiracle Eye!
+\xf000ā\x0001\x0000 guna\xfffeWake-Up Slap!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWake-Up Slap!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWake-Up Slap!
+\xf000ā\x0001\x0000 guna\xfffeHammer Arm!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHammer Arm!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHammer Arm!
+\xf000ā\x0001\x0000 guna\xfffeGyro Ball!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGyro Ball!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGyro Ball!
+\xf000ā\x0001\x0000 guna\xfffeHealing Wish!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHealing Wish!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHealing Wish!
+\xf000ā\x0001\x0000 guna\xfffeBrine!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBrine!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBrine!
+\xf000ā\x0001\x0000 guna\xfffeNatural Gift!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeNatural Gift!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeNatural Gift!
+\xf000ā\x0001\x0000 guna\xfffeFeint!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFeint!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFeint!
+\xf000ā\x0001\x0000 guna\xfffePluck!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePluck!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePluck!
+\xf000ā\x0001\x0000 guna\xfffeTailwind!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTailwind!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTailwind!
+\xf000ā\x0001\x0000 guna\xfffeAcupressure!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAcupressure!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAcupressure!
+\xf000ā\x0001\x0000 guna\xfffeMetal Burst!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMetal Burst!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMetal Burst!
+\xf000ā\x0001\x0000 guna\xfffeU-turn!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeU-turn!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeU-turn!
+\xf000ā\x0001\x0000 guna\xfffeClose Combat!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeClose Combat!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeClose Combat!
+\xf000ā\x0001\x0000 guna\xfffePayback!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePayback!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePayback!
+\xf000ā\x0001\x0000 guna\xfffeAssurance!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAssurance!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAssurance!
+\xf000ā\x0001\x0000 guna\xfffeEmbargo!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeEmbargo!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeEmbargo!
+\xf000ā\x0001\x0000 guna\xfffeFling!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFling!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFling!
+\xf000ā\x0001\x0000 guna\xfffePsycho Shift!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePsycho Shift!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePsycho Shift!
+\xf000ā\x0001\x0000 guna\xfffeTrump Card!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTrump Card!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTrump Card!
+\xf000ā\x0001\x0000 guna\xfffeHeal Block!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHeal Block!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHeal Block!
+\xf000ā\x0001\x0000 guna\xfffeWring Out!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWring Out!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWring Out!
+\xf000ā\x0001\x0000 guna\xfffePower Trick!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePower Trick!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePower Trick!
+\xf000ā\x0001\x0000 guna\xfffeGastro Acid!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGastro Acid!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGastro Acid!
+\xf000ā\x0001\x0000 guna\xfffeLucky Chant!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLucky Chant!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLucky Chant!
+\xf000ā\x0001\x0000 guna\xfffeMe First!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMe First!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMe First!
+\xf000ā\x0001\x0000 guna\xfffeCopycat!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCopycat!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCopycat!
+\xf000ā\x0001\x0000 guna\xfffePower Swap!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePower Swap!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePower Swap!
+\xf000ā\x0001\x0000 guna\xfffeGuard Swap!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGuard Swap!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGuard Swap!
+\xf000ā\x0001\x0000 guna\xfffePunishment!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePunishment!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePunishment!
+\xf000ā\x0001\x0000 guna\xfffeLast Resort!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLast Resort!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLast Resort!
+\xf000ā\x0001\x0000 guna\xfffeWorry Seed!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWorry Seed!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWorry Seed!
+\xf000ā\x0001\x0000 guna\xfffeSucker Punch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSucker Punch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSucker Punch!
+\xf000ā\x0001\x0000 guna\xfffeToxic Spikes!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeToxic Spikes!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeToxic Spikes!
+\xf000ā\x0001\x0000 guna\xfffeHeart Swap!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHeart Swap!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHeart Swap!
+\xf000ā\x0001\x0000 guna\xfffeAqua Ring!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAqua Ring!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAqua Ring!
+\xf000ā\x0001\x0000 guna\xfffeMagnet Rise!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMagnet Rise!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMagnet Rise!
+\xf000ā\x0001\x0000 guna\xfffeFlare Blitz!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFlare Blitz!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFlare Blitz!
+\xf000ā\x0001\x0000 guna\xfffeForce Palm!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeForce Palm!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeForce Palm!
+\xf000ā\x0001\x0000 guna\xfffeAura Sphere!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAura Sphere!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAura Sphere!
+\xf000ā\x0001\x0000 guna\xfffeRock Polish!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRock Polish!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRock Polish!
+\xf000ā\x0001\x0000 guna\xfffePoison Jab!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePoison Jab!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePoison Jab!
+\xf000ā\x0001\x0000 guna\xfffeDark Pulse!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDark Pulse!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDark Pulse!
+\xf000ā\x0001\x0000 guna\xfffeNight Slash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeNight Slash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeNight Slash!
+\xf000ā\x0001\x0000 guna\xfffeAqua Tail!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAqua Tail!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAqua Tail!
+\xf000ā\x0001\x0000 guna\xfffeSeed Bomb!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSeed Bomb!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSeed Bomb!
+\xf000ā\x0001\x0000 guna\xfffeAir Slash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAir Slash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAir Slash!
+\xf000ā\x0001\x0000 guna\xfffeX-Scissor!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeX-Scissor!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeX-Scissor!
+\xf000ā\x0001\x0000 guna\xfffeBug Buzz!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBug Buzz!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBug Buzz!
+\xf000ā\x0001\x0000 guna\xfffeDragon Pulse!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDragon Pulse!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDragon Pulse!
+\xf000ā\x0001\x0000 guna\xfffeDragon Rush!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDragon Rush!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDragon Rush!
+\xf000ā\x0001\x0000 guna\xfffePower Gem!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePower Gem!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePower Gem!
+\xf000ā\x0001\x0000 guna\xfffeDrain Punch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDrain Punch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDrain Punch!
+\xf000ā\x0001\x0000 guna\xfffeVacuum Wave!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeVacuum Wave!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeVacuum Wave!
+\xf000ā\x0001\x0000 guna\xfffeFocus Blast!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFocus Blast!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFocus Blast!
+\xf000ā\x0001\x0000 guna\xfffeEnergy Ball!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeEnergy Ball!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeEnergy Ball!
+\xf000ā\x0001\x0000 guna\xfffeBrave Bird!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBrave Bird!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBrave Bird!
+\xf000ā\x0001\x0000 guna\xfffeEarth Power!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeEarth Power!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeEarth Power!
+\xf000ā\x0001\x0000 guna\xfffeSwitcheroo!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSwitcheroo!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSwitcheroo!
+\xf000ā\x0001\x0000 guna\xfffeGiga Impact!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGiga Impact!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGiga Impact!
+\xf000ā\x0001\x0000 guna\xfffeNasty Plot!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeNasty Plot!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeNasty Plot!
+\xf000ā\x0001\x0000 guna\xfffeBullet Punch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBullet Punch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBullet Punch!
+\xf000ā\x0001\x0000 guna\xfffeAvalanche!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAvalanche!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAvalanche!
+\xf000ā\x0001\x0000 guna\xfffeIce Shard!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIce Shard!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIce Shard!
+\xf000ā\x0001\x0000 guna\xfffeShadow Claw!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeShadow Claw!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeShadow Claw!
+\xf000ā\x0001\x0000 guna\xfffeThunder Fang!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeThunder Fang!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeThunder Fang!
+\xf000ā\x0001\x0000 guna\xfffeIce Fang!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIce Fang!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIce Fang!
+\xf000ā\x0001\x0000 guna\xfffeFire Fang!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFire Fang!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFire Fang!
+\xf000ā\x0001\x0000 guna\xfffeShadow Sneak!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeShadow Sneak!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeShadow Sneak!
+\xf000ā\x0001\x0000 guna\xfffeMud Bomb!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMud Bomb!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMud Bomb!
+\xf000ā\x0001\x0000 guna\xfffePsycho Cut!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePsycho Cut!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePsycho Cut!
+\xf000ā\x0001\x0000 guna\xfffeZen Headbutt!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeZen Headbutt!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeZen Headbutt!
+\xf000ā\x0001\x0000 guna\xfffeMirror Shot!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMirror Shot!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMirror Shot!
+\xf000ā\x0001\x0000 guna\xfffeFlash Cannon!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFlash Cannon!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFlash Cannon!
+\xf000ā\x0001\x0000 guna\xfffeRock Climb!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRock Climb!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRock Climb!
+\xf000ā\x0001\x0000 guna\xfffeDefog!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDefog!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDefog!
+\xf000ā\x0001\x0000 guna\xfffeTrick Room!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTrick Room!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTrick Room!
+\xf000ā\x0001\x0000 guna\xfffeDraco Meteor!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDraco Meteor!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDraco Meteor!
+\xf000ā\x0001\x0000 guna\xfffeDischarge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDischarge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDischarge!
+\xf000ā\x0001\x0000 guna\xfffeLava Plume!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLava Plume!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLava Plume!
+\xf000ā\x0001\x0000 guna\xfffeLeaf Storm!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLeaf Storm!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLeaf Storm!
+\xf000ā\x0001\x0000 guna\xfffePower Whip!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePower Whip!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePower Whip!
+\xf000ā\x0001\x0000 guna\xfffeRock Wrecker!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRock Wrecker!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRock Wrecker!
+\xf000ā\x0001\x0000 guna\xfffeCross Poison!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCross Poison!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCross Poison!
+\xf000ā\x0001\x0000 guna\xfffeGunk Shot!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGunk Shot!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGunk Shot!
+\xf000ā\x0001\x0000 guna\xfffeIron Head!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIron Head!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIron Head!
+\xf000ā\x0001\x0000 guna\xfffeMagnet Bomb!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMagnet Bomb!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMagnet Bomb!
+\xf000ā\x0001\x0000 guna\xfffeStone Edge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeStone Edge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeStone Edge!
+\xf000ā\x0001\x0000 guna\xfffeCaptivate!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCaptivate!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCaptivate!
+\xf000ā\x0001\x0000 guna\xfffeStealth Rock!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeStealth Rock!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeStealth Rock!
+\xf000ā\x0001\x0000 guna\xfffeGrass Knot!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGrass Knot!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGrass Knot!
+\xf000ā\x0001\x0000 guna\xfffeChatter!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeChatter!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeChatter!
+\xf000ā\x0001\x0000 guna\xfffeJudgment!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeJudgment!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeJudgment!
+\xf000ā\x0001\x0000 guna\xfffeBug Bite!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBug Bite!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBug Bite!
+\xf000ā\x0001\x0000 guna\xfffeCharge Beam!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCharge Beam!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCharge Beam!
+\xf000ā\x0001\x0000 guna\xfffeWood Hammer!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWood Hammer!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWood Hammer!
+\xf000ā\x0001\x0000 guna\xfffeAqua Jet!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAqua Jet!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAqua Jet!
+\xf000ā\x0001\x0000 guna\xfffeAttack Order!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAttack Order!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAttack Order!
+\xf000ā\x0001\x0000 guna\xfffeDefend Order!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDefend Order!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDefend Order!
+\xf000ā\x0001\x0000 guna\xfffeHeal Order!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHeal Order!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHeal Order!
+\xf000ā\x0001\x0000 guna\xfffeHead Smash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHead Smash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHead Smash!
+\xf000ā\x0001\x0000 guna\xfffeDouble Hit!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDouble Hit!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDouble Hit!
+\xf000ā\x0001\x0000 guna\xfffeRoar of Time!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRoar of Time!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRoar of Time!
+\xf000ā\x0001\x0000 guna\xfffeSpacial Rend!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSpacial Rend!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSpacial Rend!
+\xf000ā\x0001\x0000 guna\xfffeLunar Dance!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLunar Dance!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLunar Dance!
+\xf000ā\x0001\x0000 guna\xfffeCrush Grip!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCrush Grip!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCrush Grip!
+\xf000ā\x0001\x0000 guna\xfffeMagma Storm!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMagma Storm!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMagma Storm!
+\xf000ā\x0001\x0000 guna\xfffeDark Void!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDark Void!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDark Void!
+\xf000ā\x0001\x0000 guna\xfffeSeed Flare!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSeed Flare!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSeed Flare!
+\xf000ā\x0001\x0000 guna\xfffeOminous Wind!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeOminous Wind!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeOminous Wind!
+\xf000ā\x0001\x0000 guna\xfffeShadow Force!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeShadow Force!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeShadow Force!
+\xf000ā\x0001\x0000 guna\xfffeHone Claws!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHone Claws!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHone Claws!
+\xf000ā\x0001\x0000 guna\xfffeWide Guard!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWide Guard!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWide Guard!
+\xf000ā\x0001\x0000 guna\xfffeGuard Split!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGuard Split!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGuard Split!
+\xf000ā\x0001\x0000 guna\xfffePower Split!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePower Split!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePower Split!
+\xf000ā\x0001\x0000 guna\xfffeWonder Room!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWonder Room!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWonder Room!
+\xf000ā\x0001\x0000 guna\xfffePsyshock!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePsyshock!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePsyshock!
+\xf000ā\x0001\x0000 guna\xfffeVenoshock!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeVenoshock!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeVenoshock!
+\xf000ā\x0001\x0000 guna\xfffeAutotomize!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAutotomize!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAutotomize!
+\xf000ā\x0001\x0000 guna\xfffeRage Powder!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRage Powder!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRage Powder!
+\xf000ā\x0001\x0000 guna\xfffeTelekinesis!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTelekinesis!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTelekinesis!
+\xf000ā\x0001\x0000 guna\xfffeMagic Room!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeMagic Room!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeMagic Room!
+\xf000ā\x0001\x0000 guna\xfffeSmack Down!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSmack Down!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSmack Down!
+\xf000ā\x0001\x0000 guna\xfffeStorm Throw!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeStorm Throw!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeStorm Throw!
+\xf000ā\x0001\x0000 guna\xfffeFlame Burst!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFlame Burst!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFlame Burst!
+\xf000ā\x0001\x0000 guna\xfffeSludge Wave!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSludge Wave!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSludge Wave!
+\xf000ā\x0001\x0000 guna\xfffeQuiver Dance!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeQuiver Dance!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeQuiver Dance!
+\xf000ā\x0001\x0000 guna\xfffeHeavy Slam!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHeavy Slam!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHeavy Slam!
+\xf000ā\x0001\x0000 guna\xfffeSynchronoise!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSynchronoise!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSynchronoise!
+\xf000ā\x0001\x0000 guna\xfffeElectro Ball!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeElectro Ball!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeElectro Ball!
+\xf000ā\x0001\x0000 guna\xfffeSoak!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSoak!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSoak!
+\xf000ā\x0001\x0000 guna\xfffeFlame Charge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFlame Charge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFlame Charge!
+\xf000ā\x0001\x0000 guna\xfffeCoil!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCoil!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCoil!
+\xf000ā\x0001\x0000 guna\xfffeLow Sweep!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLow Sweep!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLow Sweep!
+\xf000ā\x0001\x0000 guna\xfffeAcid Spray!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAcid Spray!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAcid Spray!
+\xf000ā\x0001\x0000 guna\xfffeFoul Play!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFoul Play!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFoul Play!
+\xf000ā\x0001\x0000 guna\xfffeSimple Beam!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSimple Beam!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSimple Beam!
+\xf000ā\x0001\x0000 guna\xfffeEntrainment!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeEntrainment!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeEntrainment!
+\xf000ā\x0001\x0000 guna\xfffeAfter You!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAfter You!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAfter You!
+\xf000ā\x0001\x0000 guna\xfffeRound!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRound!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRound!
+\xf000ā\x0001\x0000 guna\xfffeEchoed Voice!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeEchoed Voice!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeEchoed Voice!
+\xf000ā\x0001\x0000 guna\xfffeChip Away!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeChip Away!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeChip Away!
+\xf000ā\x0001\x0000 guna\xfffeClear Smog!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeClear Smog!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeClear Smog!
+\xf000ā\x0001\x0000 guna\xfffeStored Power!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeStored Power!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeStored Power!
+\xf000ā\x0001\x0000 guna\xfffeQuick Guard!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeQuick Guard!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeQuick Guard!
+\xf000ā\x0001\x0000 guna\xfffeAlly Switch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAlly Switch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAlly Switch!
+\xf000ā\x0001\x0000 guna\xfffeScald!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeScald!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeScald!
+\xf000ā\x0001\x0000 guna\xfffeShell Smash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeShell Smash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeShell Smash!
+\xf000ā\x0001\x0000 guna\xfffeHeal Pulse!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHeal Pulse!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHeal Pulse!
+\xf000ā\x0001\x0000 guna\xfffeHex!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHex!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHex!
+\xf000ā\x0001\x0000 guna\xfffeSky Drop!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSky Drop!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSky Drop!
+\xf000ā\x0001\x0000 guna\xfffeShift Gear!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeShift Gear!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeShift Gear!
+\xf000ā\x0001\x0000 guna\xfffeCircle Throw!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCircle Throw!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCircle Throw!
+\xf000ā\x0001\x0000 guna\xfffeIncinerate!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIncinerate!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIncinerate!
+\xf000ā\x0001\x0000 guna\xfffeQuash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeQuash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeQuash!
+\xf000ā\x0001\x0000 guna\xfffeAcrobatics!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeAcrobatics!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeAcrobatics!
+\xf000ā\x0001\x0000 guna\xfffeReflect Type!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeReflect Type!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeReflect Type!
+\xf000ā\x0001\x0000 guna\xfffeRetaliate!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRetaliate!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRetaliate!
+\xf000ā\x0001\x0000 guna\xfffeFinal Gambit!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFinal Gambit!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFinal Gambit!
+\xf000ā\x0001\x0000 guna\xfffeBestow!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBestow!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBestow!
+\xf000ā\x0001\x0000 guna\xfffeInferno!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeInferno!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeInferno!
+\xf000ā\x0001\x0000 guna\xfffeWater Pledge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWater Pledge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWater Pledge!
+\xf000ā\x0001\x0000 guna\xfffeFire Pledge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFire Pledge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFire Pledge!
+\xf000ā\x0001\x0000 guna\xfffeGrass Pledge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGrass Pledge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGrass Pledge!
+\xf000ā\x0001\x0000 guna\xfffeVolt Switch!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeVolt Switch!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeVolt Switch!
+\xf000ā\x0001\x0000 guna\xfffeStruggle Bug!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeStruggle Bug!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeStruggle Bug!
+\xf000ā\x0001\x0000 guna\xfffeBulldoze!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBulldoze!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBulldoze!
+\xf000ā\x0001\x0000 guna\xfffeFrost Breath!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFrost Breath!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFrost Breath!
+\xf000ā\x0001\x0000 guna\xfffeDragon Tail!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDragon Tail!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDragon Tail!
+\xf000ā\x0001\x0000 guna\xfffeWork Up!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWork Up!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWork Up!
+\xf000ā\x0001\x0000 guna\xfffeElectroweb!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeElectroweb!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeElectroweb!
+\xf000ā\x0001\x0000 guna\xfffeWild Charge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeWild Charge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeWild Charge!
+\xf000ā\x0001\x0000 guna\xfffeDrill Run!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDrill Run!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDrill Run!
+\xf000ā\x0001\x0000 guna\xfffeDual Chop!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeDual Chop!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeDual Chop!
+\xf000ā\x0001\x0000 guna\xfffeHeart Stamp!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHeart Stamp!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHeart Stamp!
+\xf000ā\x0001\x0000 guna\xfffeHorn Leech!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHorn Leech!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHorn Leech!
+\xf000ā\x0001\x0000 guna\xfffeSacred Sword!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSacred Sword!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSacred Sword!
+\xf000ā\x0001\x0000 guna\xfffeRazor Shell!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRazor Shell!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRazor Shell!
+\xf000ā\x0001\x0000 guna\xfffeHeat Crash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHeat Crash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHeat Crash!
+\xf000ā\x0001\x0000 guna\xfffeLeaf Tornado!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeLeaf Tornado!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeLeaf Tornado!
+\xf000ā\x0001\x0000 guna\xfffeSteamroller!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSteamroller!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSteamroller!
+\xf000ā\x0001\x0000 guna\xfffeCotton Guard!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeCotton Guard!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeCotton Guard!
+\xf000ā\x0001\x0000 guna\xfffeNight Daze!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeNight Daze!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeNight Daze!
+\xf000ā\x0001\x0000 guna\xfffePsystrike!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffePsystrike!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffePsystrike!
+\xf000ā\x0001\x0000 guna\xfffeTail Slap!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTail Slap!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTail Slap!
+\xf000ā\x0001\x0000 guna\xfffeHurricane!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHurricane!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHurricane!
+\xf000ā\x0001\x0000 guna\xfffeHead Charge!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeHead Charge!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeHead Charge!
+\xf000ā\x0001\x0000 guna\xfffeGear Grind!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGear Grind!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGear Grind!
+\xf000ā\x0001\x0000 guna\xfffeSearing Shot!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSearing Shot!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSearing Shot!
+\xf000ā\x0001\x0000 guna\xfffeTechno Blast!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeTechno Blast!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeTechno Blast!
+\xf000ā\x0001\x0000 guna\xfffeRelic Song!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeRelic Song!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeRelic Song!
+\xf000ā\x0001\x0000 guna\xfffeSecret Sword!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSecret Sword!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSecret Sword!
+\xf000ā\x0001\x0000 guna\xfffeGlaciate!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeGlaciate!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeGlaciate!
+\xf000ā\x0001\x0000 guna\xfffeBolt Strike!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBolt Strike!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBolt Strike!
+\xf000ā\x0001\x0000 guna\xfffeBlue Flare!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeBlue Flare!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeBlue Flare!
+\xf000ā\x0001\x0000 guna\xfffeFiery Dance!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFiery Dance!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFiery Dance!
+\xf000ā\x0001\x0000 guna\xfffeFreeze Shock!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFreeze Shock!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFreeze Shock!
+\xf000ā\x0001\x0000 guna\xfffeIce Burn!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIce Burn!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIce Burn!
+\xf000ā\x0001\x0000 guna\xfffeSnarl!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeSnarl!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeSnarl!
+\xf000ā\x0001\x0000 guna\xfffeIcicle Crash!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeIcicle Crash!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeIcicle Crash!
+\xf000ā\x0001\x0000 guna\xfffeV-create!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeV-create!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeV-create!
+\xf000ā\x0001\x0000 guna\xfffeFusion Flare!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFusion Flare!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFusion Flare!
+\xf000ā\x0001\x0000 guna\xfffeFusion Bolt!
+PKMN liar \xf000ā\x0001\x0000 guna\xfffeFusion Bolt!
+PKMN Musuh \xf000ā\x0001\x0000 guna\xfffeFusion Bolt!
