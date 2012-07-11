@@ -1,18 +1,18 @@
 Entralink
 Xtransceiver\xfffe
-Union Room
+Bilik Persatuan
 \xf000ȁ\x0001\x0000Ppl.
-Wireless Distribution
-Yes
-No
-Yes
-No
-Back
-Would you like to\xfffesave the game?
-Saving...\xfffePlease wait
-C-Gear Detected
-Yes
-No
-Connecting\xfffeEntralink...
-Entralink\xfffe　Guests:\xf000Ȁ\x0001\x0000
-Entralink\xfffe　Mission
+Pengedaran Wayarless
+Ya
+Tidak
+Ya
+Tidak
+Balik
+Menyimpan\xfffedata permainan?
+Menyimpan...\xfffeSila Tunggu
+Gear-C Dikesan
+Ya
+Tidak
+Menyambung\xfffeEntralink...
+Entralink\xfffe　Tetamu:\xf000Ȁ\x0001\x0000
+Entralink\xfffe　Misi
