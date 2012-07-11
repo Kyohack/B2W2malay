@@ -1,4 +1,4 @@
-Yes
-No
-Confirmation
-Close
+Ya
+Tidak
+Pengesahan
+Tutup
