@@ -1,37 +1,37 @@
-OPTIONS
-TEXT SPEED
-BATTLE SCENE
+OPSYEN
+KELAJUAN TEXT
+SCENE PERLAWANAN
 BATTLE STYLE
-SOUND
-NAMES
+BUNYI
+NAMA
 Wi-Fi
-SAVE BEFORE IR
-CONFIRM
-QUIT
-SLOW
-MID
-FAST
-ON
-OFF
-SHIFT
-SET
+SIMPAN SBLM IR
+SAHKAN
+KELUAR
+PRLHN
+SDHN
+LAJU
+BUKA
+TUTUP
+TUKAR
+TETAP
 STEREO
 MONO
-ENGLISH
+MALAYSIA
 JAPANESE
-ON
-OFF
-SAVE
-NO SAVE
-You can choose from three different\xfffetext-scrolling speeds.
-You can choose to switch Pokémon\xfffewhen an opponent's Pokémon faints.
-You can choose whether to view\xfffemove animations.
-You can choose the way the game sounds.
-You can change the language\xfffeof Pokémon names.
-You can turn wireless communication\xfffeon or off.
-You can choose to save the game\xfffebefore C-Gear launches infrared.
-You have saved data already.\xfffeYou cannot change this option.\xf000븁\x0000
-Would you like to make these changes?
-Yes
-No
+BUKA
+TUTUP
+SIMPAN
+TAK DISIMPAN
+Pilih 3 kelajuan text \xfffeyang berbeza.
+Boleh pilih untuk tukar Pokémon\xfffeapabila musuh pengsan.
+Boleh pilih untuk lihat\xfffepergerakan animasi.
+Boleh pilih untuk konfigurasi bunyi.
+Boleh pilih bahasa\xfffeuntuk nama Pokémon.
+Boleh pilih untuk komunikasi wayarless\xfffebuka atau tutup.
+Boleh pilih unruk simpan data\xfffeapabila C-Gear melancarkan inframerah.
+Data telah disimpan.\xfffeOption tidak boleh diubah.\xf000븁\x0000
+Simpan perubahan?
+Ya
+Tidak
 Dummy Message.
