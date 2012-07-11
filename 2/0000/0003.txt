@@ -1,45 +1,45 @@
-Would you like to save the last battle\xfffeas your Battle Video?
+Adakah anda nak simpan data\xfffeas Video perlawanan?Ya
 Yes
 No
-The last battle will not be saved.\xfffeOK?
+TidakPerlawanan tadi tak disimpan.\xfffeOK?
 Yes
 No
-Is it OK to overwrite your existing\xfffeBattle Video?
+YaTidakNak Overrite data\xfffeVideo Perlawanan?
 Yes
 No
 Saving your Battle Video...\xfffeDon't turn off the power.
 The Battle Video has been saved.
 There was an error.\xfffeThe Battle Video couldn't be saved.
 Awaiting your friend's decision...\xfffePlease wait.
-You cannot record videos\xfffewith this Trainer... Please wait.
-+You cannot record videos\xfffewith this Trainer.
+Anda tak dibenarkan merakam video\xfffewith Pelatih ini... Sila Tunggu.
++Tak dibenarkan merakam video\xfffedengan Pelatih.
 The last battle cannot be recorded.
-Time Limit:
+Perlawanan terakhir tidak dirakam.Masa:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
 PREVIOUS RECORD
-Colosseum Single,\xfffeNo Restrictions
-Colosseum Single,\xfffeFlat
-Colosseum Single,\xfffeNo Restrictions, Launcher On
-Colosseum Single,\xfffeFlat, Launcher On
-Colosseum Double,\xfffeNo Restrictions
+Colosseum Sorang,\xfffeTak ada Syarat
+Colosseum Sorang,\xfffeFlat
+Colosseum seorang,\xfffeTiada Syarat, Pelancar On
+Colosseum Seorang,\xfffeFlat, Pelancar On
+Colosseum Double,\xfffeTiada Syarat
 Colosseum Double,\xfffeFlat
-Colosseum Double,\xfffeNo Restrictions, Launcher On
-Colosseum Double,\xfffeFlat, Launcher On
-Colosseum Triple,\xfffeNo Restrictions
+Colosseum Double,\xfffeTiada Syarat, Pelancar On
+Colosseum Double,\xfffeFlat, Pelancar On
+Colosseum Triple,\xfffeTiada Syarat
 Colosseum Triple,\xfffeFlat
-Colosseum Triple,\xfffeNo Restrictions, Launcher On
-Colosseum Triple,\xfffeFlat, Launcher On
-Colosseum Rotation,\xfffeNo Restrictions
-Colosseum Rotation,\xfffeFlat
-Colosseum Rotation,\xfffeNo Restrictions, Launcher On
-Colosseum Rotation,\xfffeFlat, Launcher On
-Colosseum Multi,\xfffeNo Restrictions
-Colosseum Multi,\xfffeFlat
-Colosseum Multi,\xfffeNo Restrictions, Launcher On
-Colosseum Multi,\xfffeFlat, Launcher On
-Battle Subway,\xfffeSingle
-Battle Subway,\xfffeDouble
+Colosseum Triple,\xfffeTiada Syarat, Pelancar On
+Colosseum Triple,\xfffeFlat, Pelancar On
+Colosseum Putaran,\xfffeTiada Syarat
+Colosseum Putaran,\xfffeFlat
+Colosseum Putaran,\xfffeTiada Syarat, Pelancar On
+Colosseum Putaran,\xfffeFlat, Pelancar On
+Colosseum Banyak,\xfffeTiada Syarat
+Colosseum Banyak,\xfffeFlat
+Colosseum Banyak,\xfffeTiada Syarat, Pelancar On
+Colosseum Banyak,\xfffeFlat, Pelancar On
+Perlawanan Subway,\xfffeSorang
+Perlawanan Subway,\xfffeDouble
 Battle Subway,\xfffeMulti
 Random Matchup, Free\xfffeSingle
 Random Matchup, Free\xfffeDouble
@@ -51,11 +51,11 @@ Random Matchup, Rating\xfffeDouble
 Random Matchup, Rating\xfffeTriple
 Random Matchup, Rating\xfffeRotation
 Random Matchup, Rating\xfffeLauncher Battle
-Competition, Single\xfffeLauncher Off
-Competition, Single\xfffeLauncher On
-Competition, Double\xfffeLauncher Off
-Competition, Double\xfffeLauncher On
-Competition, Triple\xfffeLauncher Off
-Competition, Triple\xfffeLauncher On
-Competition, Rotation\xfffeLauncher Off
-Competition, Rotation\xfffeLauncher On
+Competition, Sorang\xfffePelancar Off
+Competition, Sorang\xfffePelancar On
+Competition, Double\xfffePelancar Off
+Competition, Double\xfffePelancar On
+Competition, Triple\xfffePelancar Off
+Competition, Triple\xfffePelancar On
+Competition, Rotation\xfffePelancar Off
+Competition, Rotation\xfffePelancar On
