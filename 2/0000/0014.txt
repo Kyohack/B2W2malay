@@ -1,56 +1,56 @@
 \xf000Ă\x0001\x0000 is selected.
-Please mark.
-Release this Pokémon?
-\xf000Ă\x0001\x0000 was released.
+Sila tandakan.
+Lepaskan Pokémon ini?
+\xf000Ă\x0001\x0000 telah dilepaskan.
 Bye-bye,　\xf000Ă\x0001\x0000!
-Your party's full!
-You're out of Pokémon that can fight!
-What do you want to do?
-Jump to which Box?
-Please pick a theme.
+Pasukan telah penuh!
+Tiada Pokémon yang boleh berlawan!
+Nak buat apa?
+Pergi ke Kotak mana?
+Pilih tema.
 Pick the wallpaper.
-Continue Box operations?
-The Box is full.
-The Bag is full.
-Took the \xf000ĉ\x0001\x0000.
-\xf000ĉ\x0001\x0000 is now being held.
-Which one will you take?
-Place it in which Box?
-No item held
+Teruskan Operasi?
+Kotak penuh.
+Beg penuh.
+Ambik \xf000ĉ\x0001\x0000.
+\xf000ĉ\x0001\x0000 telah dipegang.
+Ambik yang mana?
+Letak di koak mana?
+Tiada item dipegang
 ♂
 ♀
-Take this \xf000ĉ\x0001\x0000?
-Mail can't be taken away.
-\xf000ĉ\x0001\x0000 is selected.
-Put away \xf000ĉ\x0001\x0000?
-Placed \xf000ĉ\x0001\x0000 in the Bag.
-It can hold an item.
-Please remove the Mail.
-You can't release an Egg.
-You can't release a fused Kyurem.
-\xf000Ă\x0001\x0000 came back!
-Was it worried about you?
-An Egg can't hold an item.
-Touch the Mark!
+Ambik \xf000ĉ\x0001\x0000?
+Surat tak boleh diambik.
+\xf000ĉ\x0001\x0000 telah dipilih.
+Letak \xf000ĉ\x0001\x0000?
+Diletakkan \xf000ĉ\x0001\x0000 in the Bag.
+Boleh memegang item.
+Sila alihkan surat.
+Telur tidak boleh dilepaskan.
+Kyurem yang digabung tak boleh dilepaskan.
+\xf000Ă\x0001\x0000 datang balik!
+Adakah ia bimbang?
+Telur tak boleh memegang item.
+Sentuh tanda!
 DEPOSIT POKÉMON
 WITHDRAW POKÉMON
-The Box is full.
-Your party's full!
+Kotak penuh.
+Pasukan penuh!
 DEPOSIT POKÉMON
 WITHDRAW POKÉMON
-MOVE POKÉMON
-MOVE ITEMS
+PINDAH POKÉMON
+PINDAH ITEMS
 BATTLE BOX
-SELECT A SLEEPY POKÉMON
-Mail cannot be moved!
-It cannot hold \xf000ĉ\x0001\x0000!
-It has Mail!
-You're out of Pokémon that can fight!
-Mail cannot be moved!
-It cannot hold Mail here.
-Eggs cannot be selected!
-\xf000Ă\x0001\x0000 will be tucked in.\xfffeOK?
-This Pokémon doesn't seem\xfffesleepy now.
-Select another Pokémon?
-Your Battle Box is locked.\xfffeYou cannot move your Pokémon.
-Your Battle Box is locked.\xfffeItems cannot be given or taken.
+PILIH POKÉMON YANG TIDUR
+Surat tak boleh dipindah!
+Tak boleh pegang \xf000ĉ\x0001\x0000!
+Ada surat!
+Tiada Pokémon yang boleh berlawan!
+Surat tak boleh dipindah!
+Surat tak boleh dipegang disini.
+Telur tak boleh dipilih!
+\xf000Ă\x0001\x0000 akan dimasukkan.\xfffeOK?
+Pokémon ini belum\xfffetidur lagi.
+Pilih Pokémon yang lain?
+Kotak Perlawanan dikunci.\xfffePokémon tak boleh dipindahkan.
+Kotak Perlawanan dikunci.\xfffeItem tak boleh diberi atau diambil.
