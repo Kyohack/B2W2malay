@@ -5,10 +5,10 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 Pilih Pokémon.
-Guna utk Pokémon mana?
-Pindah yg mana?
-Lawan guna Pokémon mana?
-Tukar Pokémon mana?
+Guna untuk Pokémon...?
+Pindah yang mana?
+Lawan guna Pokémon...?
+Tukar Pokémon ?
 L\xf000Ȃ\x0001\x0000
 /
 \xf000Ȃ\x0001\x0000
@@ -22,31 +22,31 @@ PP
 TUKAR
 ♂
 ♀
-SUMMARY
-CHECK MOVES
-CANNOT BATTLE
-IN BATTLE
-STAND BY
-PARTNER'S
-No item held
+INGKAS
+SEMAK GERAKAN
+TIDAK BOLEH BERLAWAN
+DALA PERLAWANAN
+MENUNGGU
+MILIK KAWAN
+Tiada barang dipegang
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 Lv.
 \xf000Ȃ\x0001\x0000
-NEXT LV
+LV. SETERUSNYA
 \xf000ȅ\x0001\x0000
 \xf000Ć\x0001\x0000
 HP
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 ／
-ATTACK
+SERANGAN
 \xf000Ȃ\x0001\x0000
-DEFENSE
+PERTAHANAN
 \xf000Ȃ\x0001\x0000
-SP. ATK
+SRGN.ISTMW
 \xf000Ȃ\x0001\x0000
-SP. PR
+PTHN.ISTMW
 \xf000Ȃ\x0001\x0000
 KELAJUAN
 \xf000Ȃ\x0001\x0000
@@ -56,19 +56,19 @@ PP
 \xf000ȁ\x0001\x0000
 ／
 ――
-POWER
+KUASA
 \xf000Ȃ\x0001\x0000
 ―
 KETEPATAN
 \xf000Ȃ\x0001\x0000
-CATEGORY
-PHYSICAL
+KATEGORI
+FIZIKAL
 STATUS
-SPECIAL
-APPEAL POINT(s)
-FORGET
-CANCEL
-HM tak dapat\xfffedelete skrg.
+ISTIMEWA
+MARKAH KECOMELAN
+LUPA
+BATAL
+HM tak dapat\xfffepadam sekarang.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
@@ -84,25 +84,25 @@ HM tak dapat\xfffedelete skrg.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
-\xf000Ă\x0001\x0000 is\xfffealready in battle!
-\xf000Ă\x0001\x0000 has no energy\xfffeleft to battle!
-\xf000Ă\x0001\x0000 can't be switched\xfffeout!
-An Egg can't battle!
-You cannot decide for\xfffeyour partner!
-It won't have any effect.
-\xf000Ă\x0001\x0000's HP was restored\xfffeby \xf000Ȃ\x0001\x0001 point(s).
-\xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
-\xf000Ă\x0001\x0000 was cured of\xfffeparalysis.
-\xf000Ă\x0001\x0000's burn was healed.
+\xf000Ă\x0001\x0000 ianya\xfffealsedang berlawan!
+\xf000Ă\x0001\x0000 tiada tenaga\xfffeuntuk terus berlawan!
+\xf000Ă\x0001\x0000 tidak boleh ditukar\xfffeout!
+Sebiji Telur tidak boleh berlawan!
+Anda tidak boleh memutuskan untuk \xfffekawan anda!
+Ia tidak akan memberi sebarang kesan.
+\xf000Ă\x0001\x0000's HP sudah dipulihkan\xfffeby \xf000Ȃ\x0001\x0001 mata.
+\xf000Ă\x0001\x0000 sudah dipulihkan daripada\xfffekeracunan.
+\xf000Ă\x0001\x0000 sudah dipulihkan daripada\xfffelumpuh.
+\xf000Ă\x0001\x0000's kebakaran sudah dipulihkan
 \xf000Ă\x0001\x0000 sudah\xfffedipilih.
-Pulihkn yg mana?
-\xf000ć\x0001\x0001's efek dihalang\xfffeitem diguna \xf000Ă\x0001\x0000!
+Pulihkan yang mana?
+\xf000ć\x0001\x0001's kesan dihalang\xfffeitem diguna \xf000Ă\x0001\x0000!
 \xf000Ă\x0001\x0000 tak boleh ditukar\xfffeout!
 \xf000Ă\x0001\x0000 sudah ditukar\xfffeout.
-\xf000Ă\x0001\x0000 \xfffegot over its infatuation.
-\xf000Ă\x0001\x0000 woke up.
-\xf000Ă\x0001\x0000 has already been\xfffeselected.
-Restore which move?
+\xf000Ă\x0001\x0000 \xfffeberjaya mengatasi perasaan cinta.
+\xf000Ă\x0001\x0000 telah bangun.
+\xf000Ă\x0001\x0000 sudah\xfffedipilih.
+Pulihkan gerakan yang mana?
 \xf000ć\x0001\x0001's effect prevents\xfffethe item's use on \xf000Ă\x0001\x0000!
 \xf000Ă\x0001\x0000 can't be switched\xfffeout!
 \xf000Ă\x0001\x0000 is already switched\xfffeout.
