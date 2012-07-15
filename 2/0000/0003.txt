@@ -1,15 +1,15 @@
 Adakah anda nak simpan data\xfffeas Video perlawanan?Ya
-Yes
-No
+Ya
+Tidak
 TidakPerlawanan tadi tak disimpan.\xfffeOK?
-Yes
-No
-YaTidakNak Overrite data\xfffeVideo Perlawanan?
-Yes
-No
-Saving your Battle Video...\xfffeDon't turn off the power.
-The Battle Video has been saved.
-There was an error.\xfffeThe Battle Video couldn't be saved.
+Ya
+Tidak
+Hendak menulis semula data\xfffeVideo Perlawanan?
+Ya
+Tidal
+Menyimpan Video Perlawanan...\xfffeJangan matikan kuasa.
+Video Perlawanan telah disimpan.
+Terdapat suatu kesulitan.\xfffeVideoPerlawan tidak dapat disimpan.
 Awaiting your friend's decision...\xfffePlease wait.
 Anda tak dibenarkan merakam video\xfffewith Pelatih ini... Sila Tunggu.
 +Tak dibenarkan merakam video\xfffedengan Pelatih.
