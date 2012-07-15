@@ -1,3 +1,3 @@
-Delete all saved data?
-Padamkn data yg disimpan?Kalau sudah padam,\xfffetak dapat ambik balik.\xf000븁\x0000\xfffePadamkan?\xfffesemua data yg disimpan?Memadam kesemua data...\xfffeJangan padamkn kuasa/off mesin.
-Deleting all saved data...\xfffeDon't turn off the power.
+Padam semua data yang tersimpan?
+Padamkan data yang disimpan?Jika dipadam,\xfffia tidak boleh dikembalikan.\xf000븁\x0000\xfffePadamkan?\xfffesemua data yg disimpan?Memadam semua data...\xfffeJangan tutup kuasa DS.
+Memadamkan semua data...\xfffeJangan padamkan kuasa.
