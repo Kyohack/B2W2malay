@@ -683,5 +683,5 @@ Scene OL 2
 F-002
 Black Belt
 Double 2
-Egg
-Egg
+Telur
+Telur
