@@ -1,9 +1,9 @@
 HP/PP
-RESTORE
+PULIH
 STATUS
-RESTORE
+PULIH
 HP/PP
-RESTORE
+PULIH
 ITEM PERLAWANAN
 BOLA POKÉ
 ITEM TERAKHIR
@@ -21,22 +21,22 @@ ITEM TERAKHIR
 ×\xf000Ȃ\x0001\x0000
 SETERUSNYA
 HP/PP
-RESTORE
+PULIH
 STATUS
-RESTORE
+PULIH
 BOLA POKÉ
 ITEM PERLAWANAN
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
-USE
+GUNA
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-Takda Efek.Diselubungi kabus putih! \xfffe
+Tiada Kesan.Diselubungi kabus putih! \xfffe
 \xf000Ă\x0001\x0000 \xfffe Menjadi bersemangat
 \xf000Ă\x0001\x0000's Serangan\xfffemenaik!
 \xf000Ă\x0001\x0000's Kuasa sp\xfffemenaik!
-\xf000Ă\x0001\x0000's Kejaluan\xfffemenaik!
+\xf000Ă\x0001\x0000's Kelajuan\xfffemenaik!
 \xf000Ă\x0001\x0000's Pertahanan sp\xfffemenaik!
 \xf000Ă\x0001\x0000's Pertahanan\xfffemenaik!
 \xf000Ă\x0001\x0000's ketepatan\xfffemenaik!
