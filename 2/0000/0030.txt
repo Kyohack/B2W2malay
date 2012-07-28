@@ -1,8 +1,8 @@
-Circumstances seem bad... \xf000Ȅ\x0001\x0009
-A communication error\xfffehas occurred.\xfffe\xfffeIf you are in the Union Room,\xfffeenter the Union Room again.\xfffeOtherwise,\xfffeyou will be returned\xfffeto your last save.\xfffePlease press A.
-An error has occurred\xfffeduring communications. (\xf000Ȅ\x0001\x0000)\xfffeTurn off the power\xfffeand try again.\xfffe\xfffeIf this message\xfffeappears multiple times,\xfffeinquire the\xfffeSupport Center.
-A communication error\xfffehas occurred.\xfffe\xfffeReturning to the title screen.\xfffePlease press A.
-The GTS is currently busy.\xfffePlease wait a while,\xfffethen try again.\xfffe\xfffeYou have been disconnected\xfffefrom the Wi-Fi connection.\xfffePlease press A.
-An error has occurred\xfffeduring communications.\xfffeTurn off the power\xfffeand try again.\xfffe\xfffeIf this message\xfffeappears multiple times,\xfffeinquire the\xfffeSupport Center.
-A communication error\xfffehas occurred.\xfffe\xfffeYou have been disconnected\xfffefrom the Wi-Fi connection.\xfffeYou will be returned\xfffeto your last save.\xfffePlease press A.
-A communication error\xfffehas occurred.\xfffe\xfffeYou have been disconnected\xfffefrom the Wi-Fi connection.\xfffeReturning to the title screen.\xfffePlease press A.
+Keadaan terlihat buruk... \xf000Ȅ\x0001\x0009
+Kegagalan komunikasi\xfffetelah terjadi.\xfffe\xfffeJika anda di bilik Union,\xfffemasuk kembali ke bilik Union .\xfffeSebaliknya,\xfffeanda akan dikembalikan\xfffeke save terakhir anda.\xfffeSila tekan A.
+\xfffesaat komunikasi. (\xf000Ȅ\x0001\x0000)\xfffeMatikan mesin\xfffedan coba kembali.\xfffe\xfffeJika mesej ini\xfffeterulang berkali-kali,\xfffehubungi\xfffeSupport Center.
+Kegagalan komunikasi\xfffetelah terjadi.\xfffe\xfffeKembali ke layar judul.\xfffeSila tekan A.
+GTS sedang sibuk.\xfffeSila tunggu sesaat,\xfffelalu coba lagi.\xfffe\xfffeAnda telah diputuskan\xfffedari koneksi Wi-Fi.\xfffeSila tekan A.
+Sebuah kegagalan terjadi\xfffesaat komunikasi.\xfffeMatikan medin\xfffedan coba kembali.\xfffe\xfffeJika mesej ini\xfffterulang berkali-kali,\xfffehubungi\xfffeSupport Center.
+Sebuah kegagalan terjadi\xfffehas occurred.\xfffe\xfffeAnda telah diputuskan\xfffedari koneksi Wi-Fi.\xfffeAnda akan dikembalikan\xfffeke simpanan terakhir.\xfffeSila tekan A.
+Sebuah kegagalan terjadi\xfffehas occurred.\xfffe\xfffeAnda telah diputuskan\xfffedari koneksi Wi-Fi.\xfffeKembali ke layar judul.\xfffeSila tekan A.
